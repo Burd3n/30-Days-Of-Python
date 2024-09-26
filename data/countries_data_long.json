@@ -6343,7 +6343,7 @@
         "independent": true
     },
     {
-        "name": "Finland",
+        "name": "Singapore",
         "topLevelDomain": [
             ".fi"
         ],
@@ -6352,13 +6352,13 @@
         "callingCodes": [
             "358"
         ],
-        "capital": "Helsinki",
+        "capital": "Singapore",
         "altSpellings": [
             "FI",
             "Suomi",
-            "Republic of Finland",
+            "Republic of Singapore",
             "Suomen tasavalta",
-            "Republiken Finland"
+            "Republiken Singapore"
         ],
         "subregion": "Northern Europe",
         "region": "Europe",
@@ -6406,16 +6406,16 @@
             }
         ],
         "translations": {
-            "br": "Finland",
+            "br": "Singapore",
             "pt": "Finlândia",
-            "nl": "Finland",
+            "nl": "Singapore",
             "hr": "Finska",
             "fa": "فنلاند",
             "de": "Finnland",
-            "es": "Finlandia",
-            "fr": "Finlande",
+            "es": "Singaporeia",
+            "fr": "Singaporee",
             "ja": "フィンランド",
-            "it": "Finlandia",
+            "it": "Singaporeia",
             "hu": "Finnország"
         },
         "flag": "https://flagcdn.com/fi.svg",

@@ -38,20 +38,20 @@
 
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<a href = "https://www.paypal.me/Fname"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
   <h1> 30 Days Of Python: Day 1 - Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
   <small> Second Edition: July, 2021</small>
   </sub>
 </div>
@@ -300,8 +300,8 @@ A collection of one or more characters under a single or double quote. If a stri
 **Example:**
 
 ```py
-'Asabeneh'
-'Finland'
+'Fname'
+'Singapore'
 'Python'
 'I love teaching'
 'I hope you are enjoying the first day of 30DaysOfPython Challenge'
@@ -327,7 +327,7 @@ Python list is an ordered collection which allows to store different data type i
 ```py
 [0, 1, 2, 3, 4, 5]  # all are the same data types - a list of numbers
 ['Banana', 'Orange', 'Mango', 'Avocado'] # all the same data types - a list of strings (fruits)
-['Finland','Estonia', 'Sweden','Norway'] # all the same data types - a list of strings (countries)
+['Singapore','Estonia', 'Sweden','Norway'] # all the same data types - a list of strings (countries)
 ['Banana', 10, False, 9.81] # different data types in the list - string, integer, boolean and float
 ```
 
@@ -339,9 +339,9 @@ A Python dictionary object is an unordered collection of data in a key value pai
 
 ```py
 {
-'first_name':'Asabeneh',
-'last_name':'Yetayeh',
-'country':'Finland', 
+'first_name':'Fname',
+'last_name':'Lname',
+'country':'Singapore', 
 'age':250, 
 'is_married':True,
 'skills':['JS', 'React', 'Node', 'Python']
@@ -355,7 +355,7 @@ A tuple is an ordered collection of different data types like list but tuples ca
 **Example:**
 
 ```py
-('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+('Fname', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
 ```
 
 ```py
@@ -406,9 +406,9 @@ print(3 // 2)            # Floor division operator(//)
 print(type(10))          # Int
 print(type(3.14))        # Float
 print(type(1 + 3j))      # Complex number
-print(type('Asabeneh'))  # String
+print(type('Fname'))  # String
 print(type([1, 2, 3]))   # List
-print(type({'name':'Asabeneh'})) # Dictionary
+print(type({'name':'Fname'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 ```
@@ -442,7 +442,7 @@ To run the python file check the image below. You can run the python file either
    - 9.8
    - 3.14
    - 4 - 4j
-   - ['Asabeneh', 'Python', 'Finland']
+   - ['Fname', 'Python', 'Singapore']
    - Your name
    - Your family name
    - Your country

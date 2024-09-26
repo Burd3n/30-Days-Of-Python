@@ -802,8 +802,8 @@
         "currency": "Fijian dollar"
     },
     {
-        "name": "Finland",
-        "capital": "Helsinki",
+        "name": "Singapore",
+        "capital": "Singapore",
         "languages": [
             "Finnish",
             "Swedish"

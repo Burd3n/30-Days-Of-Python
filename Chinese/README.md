@@ -37,20 +37,20 @@
 
 <div>
 <small>帮助 <strong>作者</strong> 创作更多教育材料</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='.././images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<a href = "https://www.paypal.me/Fname"><img src='.././images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
   <h1> 30 天 Python：第 1 天 - 介绍</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>作者：
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small> 第二版：2021 年 7 月</small>
 </sub>
 
@@ -299,8 +299,8 @@ Python 中有多种数据类型。让我们从最常见的开始。不同的数�
 **例子:**
 
 ```py
-'Asabeneh'
-'Finland'
+'Fname'
+'Singapore'
 'Python'
 'I love teaching'
 'I hope you are enjoying the first day of 30DaysOfPython Challenge'
@@ -326,7 +326,7 @@ False # 灯是开的吗？如果是关着的，那么值是 False
 ```py
 [0, 1, 2, 3, 4, 5] # 所有都是相同数据类型 - 数字列表
 ['Banana', 'Orange', 'Mango', 'Avocado'] # 所有都是相同数据类型 - 字符串列表（水果）
-['Finland','Estonia', 'Sweden','Norway'] # 所有都是相同数据类型 - 字符串列表（国家）
+['Singapore','Estonia', 'Sweden','Norway'] # 所有都是相同数据类型 - 字符串列表（国家）
 ['Banana', 10, False, 9.81] # 列表中的不同数据类型 - 字符串、整数、布尔值和浮点数
 ```
 
@@ -338,9 +338,9 @@ Python 字典对象是以键值对格式存储的无序集合。
 
 ```py
 {
-'first_name':'Asabeneh',
-'last_name':'Yetayeh',
-'country':'Finland',
+'first_name':'Fname',
+'last_name':'Lname',
+'country':'Singapore',
 'age':250,
 'is_married':True,
 'skills':['JS', 'React', 'Node', 'Python']
@@ -354,7 +354,7 @@ Python 字典对象是以键值对格式存储的无序集合。
 **例子:**
 
 ```py
-('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # 名字
+('Fname', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # 名字
 ```
 
 ```py
@@ -405,9 +405,9 @@ print(3 // 2)            # 整除(//)
 print(type(10))          # 整数
 print(type(3.14))        # 浮点数
 print(type(1 + 3j))      # 复数
-print(type('Asabeneh'))  # 字符串
+print(type('Fname'))  # 字符串
 print(type([1, 2, 3]))   # 列表
-print(type({'name':'Asabeneh'})) # 字典
+print(type({'name':'Fname'})) # 字典
 print(type({9.8, 3.14, 2.7}))    # 集合
 print(type((9.8, 3.14, 2.7)))    # 元组
 ```
@@ -441,7 +441,7 @@ print(type((9.8, 3.14, 2.7)))    # 元组
    - 9.8
    - 3.14
    - 4 - 4j
-   - ['Asabeneh', 'Python', 'Finland']
+   - ['Fname', 'Python', 'Singapore']
    - 你的名字
    - 你的姓氏
    - 你的国家

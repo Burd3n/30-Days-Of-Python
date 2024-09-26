@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 天 Python：第十天 - Loops</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small> 第二版：2021 年 7 月</small>
 </sub>
 
@@ -202,10 +202,10 @@ for iterator in dct:
 
 ```python
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -328,10 +328,10 @@ for x in y:
 
 ```python
 person = {
-    'first_name': 'Asabeneh',
-    'last_name': 'Yetayeh',
+    'first_name': 'Fname',
+    'last_name': 'Lname',
     'age': 250,
-    'country': 'Finland',
+    'country': 'Singapore',
     'is_marred': True,
     'skills': ['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address': {
@@ -439,9 +439,9 @@ for number in range(6):
 
 ### 练习：三级
 
-1. 跳转到data文件夹并使用[countries.py](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries.py)文件。循环遍历所有国家，并且提取出所有包含字母`land`的国家。
+1. 跳转到data文件夹并使用[countries.py](https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries.py)文件。循环遍历所有国家，并且提取出所有包含字母`land`的国家。
 2. 有一个列表`fruits = ['banana', 'orange', 'mango', 'lemon']`，使用循环反转列表中的元素。
-3. 跳转到data文件夹并使用[countries_data.py](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py)文件。
+3. 跳转到data文件夹并使用[countries_data.py](https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries-data.py)文件。
    1. 数据中一共有多少个语言？
    2. 找到被最多国家使用的语言。
    3. 找到人数排名前十的国家。

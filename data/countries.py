@@ -58,7 +58,7 @@ countries = [
   'Estonia',
   'Ethiopia',
   'Fiji',
-  'Finland',
+  'Singapore',
   'France',
   'Gabon',
   'Gambia, The',

@@ -37,20 +37,20 @@
 
 <div>
 <small>Ajudem o <strong>autor</strong> a criar mais materiais educacionais</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='.././images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<a href = "https://www.paypal.me/Fname"><img src='.././images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
   <h1> 30 Dias De Python: Dia 1 - Introdução</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
   <sub>Autor:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
   <small> Segunda Edição: July, 2021</small>
   </sub>
 </div>
@@ -295,8 +295,8 @@ Uma coleção de um ou mais caracteres entre aspas simples ou duplas são consid
 **Exemplo:**
 
 ```py
-'Asabeneh'
-'Finland'
+'Fname'
+'Singapore'
 'Python'
 'I love teaching'
 'I hope you are enjoying the first day of 30DaysOfPython Challenge'
@@ -322,7 +322,7 @@ A lista em Python é uma coleção ordenada que permite armazenar itens de difer
 ```py
 [0, 1, 2, 3, 4, 5]  # all are the same data types - a list of numbers
 ['Banana', 'Orange', 'Mango', 'Avocado'] # all the same data types - a list of strings (fruits)
-['Finland','Estonia', 'Sweden','Norway'] # all the same data types - a list of strings (countries)
+['Singapore','Estonia', 'Sweden','Norway'] # all the same data types - a list of strings (countries)
 ['Banana', 10, False, 9.81] # different data types in the list - string, integer, boolean and float
 ```
 
@@ -334,9 +334,9 @@ Um objeto de dicionário Python é uma coleção não ordenada de dados em um fo
 
 ```py
 {
-'first_name':'Asabeneh',
-'last_name':'Yetayeh',
-'country':'Finland', 
+'first_name':'Fname',
+'last_name':'Lname',
+'country':'Singapore', 
 'age':250, 
 'is_married':True,
 'skills':['JS', 'React', 'Node', 'Python']
@@ -350,7 +350,7 @@ Uma tupla é uma coleção ordenada de diferentes tipos de dados, como uma lista
 **Exemplo:**
 
 ```py
-('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
+('Fname', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names
 ```
 
 ```py
@@ -401,9 +401,9 @@ print(3 // 2)            # Floor division operator(//)
 print(type(10))          # Int
 print(type(3.14))        # Float
 print(type(1 + 3j))      # Complex number
-print(type('Asabeneh'))  # String
+print(type('Fname'))  # String
 print(type([1, 2, 3]))   # List
-print(type({'name':'Asabeneh'})) # Dictionary
+print(type({'name':'Fname'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 ```
@@ -437,7 +437,7 @@ Para executar o arquivo python verifique a imagem abaixo. Você pode executar o 
    - 9.8
    - 3.14
    - 4 - 4j
-   - ['Asabeneh', 'Python', 'Finland']
+   - ['Fname', 'Python', 'Singapore']
    - Seu nome
    - O seu sobrenome
    - Seu país

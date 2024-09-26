@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 25 - Pandas </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
   <small>Second Edition: July, 2021</small>
   </sub>
 
@@ -158,7 +158,7 @@ print(fruits)
 ### Creating Pandas Series from a Dictionary
 
 ```python
-dct = {'name':'Asabeneh','country':'Finland','city':'Helsinki'}
+dct = {'name':'Fname','country':'Singapore','city':'Singapore'}
 ```
 
 ```python
@@ -167,9 +167,9 @@ print(s)
 ```
 
 ```sh
-    name       Asabeneh
-    country     Finland
-    city       Helsinki
+    name       Fname
+    country     Singapore
+    city       Singapore
     dtype: object
 ```
 
@@ -216,7 +216,7 @@ Pandas data frames can be created in different ways.
 
 ```python
 data = [
-    ['Asabeneh', 'Finland', 'Helsink'], 
+    ['Fname', 'Singapore', 'Helsink'], 
     ['David', 'UK', 'London'],
     ['John', 'Sweden', 'Stockholm']
 ]
@@ -236,8 +236,8 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
+      <td>Fname</td>
+      <td>Singapore</td>
       <td>Helsink</td>
     </tr>
     <tr>
@@ -258,8 +258,8 @@ print(df)
 ### Creating DataFrame Using Dictionary
 
 ```python
-data = {'Name': ['Asabeneh', 'David', 'John'], 'Country':[
-    'Finland', 'UK', 'Sweden'], 'City': ['Helsiki', 'London', 'Stockholm']}
+data = {'Name': ['Fname', 'David', 'John'], 'Country':[
+    'Singapore', 'UK', 'Sweden'], 'City': ['Helsiki', 'London', 'Stockholm']}
 df = pd.DataFrame(data)
 print(df)
 ```
@@ -276,8 +276,8 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
+      <td>Fname</td>
+      <td>Singapore</td>
       <td>Helsiki</td>
     </tr>
     <tr>
@@ -299,7 +299,7 @@ print(df)
 
 ```python
 data = [
-    {'Name': 'Asabeneh', 'Country': 'Finland', 'City': 'Helsinki'},
+    {'Name': 'Fname', 'Country': 'Singapore', 'City': 'Singapore'},
     {'Name': 'David', 'Country': 'UK', 'City': 'London'},
     {'Name': 'John', 'Country': 'Sweden', 'City': 'Stockholm'}]
 df = pd.DataFrame(data)
@@ -318,9 +318,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
     </tr>
     <tr>
       <td>1</td>
@@ -342,7 +342,7 @@ print(df)
 To download the CSV file, what is needed in this example, console/command line is enough:
 
 ```sh
-curl -O https://raw.githubusercontent.com/Asabeneh/30-Days-Of-Python/master/data/weight-height.csv
+curl -O https://raw.githubusercontent.com/Fname/30-Days-Of-Python/master/data/weight-height.csv
 ```
 
 Put the downloaded file in your working directory.
@@ -634,7 +634,7 @@ As always, first we import the necessary packages. Now, lets import pandas and n
 import pandas as pd
 import numpy as np
 data = [
-    {"Name": "Asabeneh", "Country":"Finland","City":"Helsinki"},
+    {"Name": "Fname", "Country":"Singapore","City":"Singapore"},
     {"Name": "David", "Country":"UK","City":"London"},
     {"Name": "John", "Country":"Sweden","City":"Stockholm"}]
 df = pd.DataFrame(data)
@@ -653,9 +653,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
     </tr>
     <tr>
       <td>1</td>
@@ -699,9 +699,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
     </tr>
     <tr>
@@ -743,9 +743,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
       <td>173</td>
     </tr>
@@ -793,9 +793,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
       <td>1.73</td>
     </tr>
@@ -854,9 +854,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.725183</td>
@@ -906,9 +906,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>
@@ -961,9 +961,9 @@ df
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>
@@ -1065,9 +1065,9 @@ print(df)
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>
@@ -1139,9 +1139,9 @@ print(df[df['Ages'] > 120])
   <tbody>
     <tr>
       <td>0</td>
-      <td>Asabeneh</td>
-      <td>Finland</td>
-      <td>Helsinki</td>
+      <td>Fname</td>
+      <td>Singapore</td>
+      <td>Singapore</td>
       <td>74</td>
       <td>1.73</td>
       <td>24.7</td>

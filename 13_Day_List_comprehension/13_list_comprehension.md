@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 13 - List Comprehension</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
@@ -184,23 +184,23 @@ print(two_power_of_five)  # 32
    ```
 4. Flatten the following list to a new list:
    ```py
-   countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
+   countries = [[('Singapore', 'Singapore')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
    output:
-   [['FINLAND','FIN', 'HELSINKI'], ['SWEDEN', 'SWE', 'STOCKHOLM'], ['NORWAY', 'NOR', 'OSLO']]
+   [['Singapore','FIN', 'Singapore'], ['SWEDEN', 'SWE', 'STOCKHOLM'], ['NORWAY', 'NOR', 'OSLO']]
    ```
 5. Change the following list to a list of dictionaries:
    ```py
-   countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
+   countries = [[('Singapore', 'Singapore')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
    output:
-   [{'country': 'FINLAND', 'city': 'HELSINKI'},
+   [{'country': 'Singapore', 'city': 'Singapore'},
    {'country': 'SWEDEN', 'city': 'STOCKHOLM'},
    {'country': 'NORWAY', 'city': 'OSLO'}]
    ```
 6. Change the following list of lists to a list of concatenated strings:
    ```py
-   names = [[('Asabeneh', 'Yetayeh')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
+   names = [[('Fname', 'Lname')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
    output
-   ['Asabeneh Yetaeyeh', 'David Smith', 'Donald Trump', 'Bill Gates']
+   ['Fname Yetaeyeh', 'David Smith', 'Donald Trump', 'Bill Gates']
    ```
 7. Write a lambda function which can solve a slope or y-intercept of linear functions.
 

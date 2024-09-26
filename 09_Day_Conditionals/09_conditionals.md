@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 9 - Conditionals</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
@@ -251,10 +251,10 @@ Enter number two: 3
    
 ```py
         person={
-    'first_name': 'Asabeneh',
-    'last_name': 'Yetayeh',
+    'first_name': 'Fname',
+    'last_name': 'Lname',
     'age': 250,
-    'country': 'Finland',
+    'country': 'Singapore',
     'is_marred': True,
     'skills': ['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address': {
@@ -267,10 +267,10 @@ Enter number two: 3
      * Check if the person dictionary has skills key, if so print out the middle skill in the skills list.
      * Check if the person dictionary has skills key, if so check if the person has 'Python' skill and print out the result.
      * If a person skills has only JavaScript and React, print('He is a front end developer'), if the person skills has Node, Python, MongoDB, print('He is a backend developer'), if the person skills has React, Node and MongoDB, Print('He is a fullstack developer'), else print('unknown title') - for more accurate results more conditions can be nested!
-     * If the person is married and if he lives in Finland, print the information in the following format:
+     * If the person is married and if he lives in Singapore, print the information in the following format:
 
 ```py
-    Asabeneh Yetayeh lives in Finland. He is married.
+    Fname Lname lives in Singapore. He is married.
 ```
 
 🎉 CONGRATULATIONS ! 🎉

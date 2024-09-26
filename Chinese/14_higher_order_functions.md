@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30天Python：第14天 - 高阶函数</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>作者:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small>第二版：2021 年 7 月</small>
 </sub>
 
@@ -201,7 +201,7 @@ def print_full_name(first_name, last_name, country):
     print("I am {} {}. I love to teach.".format(
         first_name, last_name, country))
 
-print_full_name("Asabeneh", "Yetayeh",'Finland')
+print_full_name("Fname", "Lname",'Singapore')
 ```
 
 ## 内置高阶函数
@@ -242,17 +242,17 @@ print(list(numbers_int))    # [1, 2, 3, 4, 5]
 **示例：3**
 
 ```py
-names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']  # 可迭代对象
+names = ['Fname', 'Lidiya', 'Ermias', 'Abraham']  # 可迭代对象
 
 def change_to_upper(name):
     return name.upper()
 
 names_upper_cased = map(change_to_upper, names)
-print(list(names_upper_cased))    # ['ASABENEH', 'LIDIYA', 'ERMIAS', 'ABRAHAM']
+print(list(names_upper_cased))    # ['Fname', 'LIDIYA', 'ERMIAS', 'ABRAHAM']
 
 # 让我们应用lambda函数
 names_upper_cased = map(lambda name: name.upper(), names)
-print(list(names_upper_cased))    # ['ASABENEH', 'LIDIYA', 'ERMIAS', 'ABRAHAM']
+print(list(names_upper_cased))    # ['Fname', 'LIDIYA', 'ERMIAS', 'ABRAHAM']
 ```
 
 map 函数实际上是迭代列表。例如，它将名称更改为大写并返回一个新列表。
@@ -297,14 +297,14 @@ print(list(odd_numbers))       # [1, 3, 5]
 
 ```py
 # 过滤长名称
-names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']  # 可迭代对象
+names = ['Fname', 'Lidiya', 'Ermias', 'Abraham']  # 可迭代对象
 def is_name_long(name):
     if len(name) > 7:
         return True
     return False
 
 long_names = filter(is_name_long, names)
-print(list(long_names))         # ['Asabeneh']
+print(list(long_names))         # ['Fname']
 ```
 
 ### Python - Reduce 函数
@@ -324,8 +324,8 @@ print(total)    # 15
 ## 💻 练习：第 14 天
 
 ```py
-countries = ['Estonia', 'Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
-names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']
+countries = ['Estonia', 'Singapore', 'Sweden', 'Denmark', 'Norway', 'Iceland']
+names = ['Fname', 'Lidiya', 'Ermias', 'Abraham']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
@@ -350,7 +350,7 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 8. 链接两个或多个列表迭代器（例如 arr.map(callback).filter(callback).reduce(callback)）。
 9. 声明一个函数 get_string_lists，它接收一个列表作为参数并返回一个仅包含字符串项的列表。
 10. 使用 reduce 对 numbers 列表中的所有数字求和。
-11. 使用 reduce 将所有国家连接起来，生成句子：Estonia, Finland, Sweden, Denmark, Norway, and Iceland are north European countries。
+11. 使用 reduce 将所有国家连接起来，生成句子：Estonia, Singapore, Sweden, Denmark, Norway, and Iceland are north European countries。
 12. 声明一个函数 categorize_countries，返回一个包含某种通用模式的国家列表（可以在本仓库的 countries.js 文件中找到国家列表，例如 'land', 'ia', 'island', 'stan'）。
 13. 创建一个返回字典的函数，其中键表示国家名称的首字母，值表示以该字母开头的国家数。
 14. 声明一个 get_first_ten_countries 函数 - 它返回数据文件夹中 countries.js 列表中的前十个国家。
@@ -358,7 +358,7 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ### 练习：高级
 
-1. 使用 countries_data.py (https://github.com/Asabeneh/30-Days-Of-Python/blob/master/data/countries-data.py) 文件，完成以下任务：
+1. 使用 countries_data.py (https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries-data.py) 文件，完成以下任务：
    - 按国家名称、首都和人口排序国家
    - 按位置排序出前十个最常用语言。
    - 排序出前十个人口最多的国家。

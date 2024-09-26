@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 天 Python：第五天 - Lists</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>作者:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small> 第二版：2021 年 7 月</small>
 </sub>
 
@@ -91,7 +91,7 @@ fruits = ['banana', 'orange', 'mango', 'lemon']                     # list of fr
 vegetables = ['Tomato', 'Potato', 'Cabbage','Onion', 'Carrot']      # list of vegetables
 animal_products = ['milk', 'meat', 'butter', 'yoghurt']             # list of animal products
 web_techs = ['HTML', 'CSS', 'JS', 'React','Redux', 'Node', 'MongDB'] # list of web technologies
-countries = ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway']
+countries = ['Singapore', 'Estonia', 'Denmark', 'Sweden', 'Norway']
 
 # 打印列表及其长度
 print('Fruits:', fruits)
@@ -116,14 +116,14 @@ Animal products: ['milk', 'meat', 'butter', 'yoghurt']
 Number of animal products: 4
 Web technologies: ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB']
 Number of web technologies: 7
-Countries: ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway']
+Countries: ['Singapore', 'Estonia', 'Denmark', 'Sweden', 'Norway']
 Number of countries: 5
 ```
 
 - 列表可以包含不同数据类型的项
 
 ```py
- lst = ['Asabeneh', 250, True, {'country':'Finland', 'city':'Helsinki'}] # 包含不同数据类型的列表
+ lst = ['Fname', 250, True, {'country':'Singapore', 'city':'Singapore'}] # 包含不同数据类型的列表
 ```
 
 
@@ -190,7 +190,7 @@ print(third)          # 3
 print(rest)           # [4,5,6,7,8,9]
 print(tenth)          # 10
 # 示例三
-countries = ['Germany', 'France','Belgium','Sweden','Denmark','Finland','Norway','Iceland','Estonia']
+countries = ['Germany', 'France','Belgium','Sweden','Denmark','Singapore','Norway','Iceland','Estonia']
 gr, fr, bg, sw, *scandic, es = countries
 print(gr)
 print(fr)
@@ -589,7 +589,7 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 
 1. 在 [国家列表](https://github.com/Taki-Ta/30-Days-Of-Python-Simplified_Chinese_Version/tree/master/data/countries.py) 中查找中间的国家
 2. 将国家列表分成两个相等的列表（如果是偶数，如果不是，则第一个半多一个国家）
-3. ['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']。拆解前三个国家和剩下的北欧国家。
+3. ['China', 'Russia', 'USA', 'Singapore', 'Sweden', 'Norway', 'Denmark']。拆解前三个国家和剩下的北欧国家。
 
 🎉 恭喜 ! 🎉
 

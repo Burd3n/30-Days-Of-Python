@@ -1,15 +1,15 @@
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Asabeneh/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme28-30.md) 
+🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
+🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md) 
 
 ---
 - [📘 Day 7](#%f0%9f%93%98-day-7)
@@ -360,10 +360,10 @@ dct = {'key1':'item1', 'key2':'item2', 'key3':'item3', 'key4':'item4'}
 **Example:**
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python']
     'address':{
@@ -385,10 +385,10 @@ print(len(dct)) # 4
 **Example:**
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -411,10 +411,10 @@ print(dct['key4']) # item4
 **Example:**
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -422,8 +422,8 @@ person = {
         'zipcode':'02210'
     }
     }
-print(person['first_name']) # Asabeneh
-print(person['country'])    # Finland
+print(person['first_name']) # Fname
+print(person['country'])    # Singapore
 print(person['skills'])     # ['HTML','CSS','JavaScript', 'React', 'Node', 'MongoDB', 'Python']
 print(person['city'])       # Error
 ```
@@ -431,10 +431,10 @@ Accessing an item by key name raises an error if the key does not exist. To avoi
 object if the data
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -442,8 +442,8 @@ person = {
         'zipcode':'02210'
     }
     }
-print(person.get('first_name')) # Asabeneh
-print(person.get('country'))    # Finland
+print(person.get('first_name')) # Fname
+print(person.get('country'))    # Singapore
 print(person.get('skills')) #['HTML','CSS','JavaScript', 'React', 'Node', 'MongoDB', 'Python']
 print(person.get('city'))   # None
 ```
@@ -461,10 +461,10 @@ dct['key5'] = 'item5'
 
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -487,10 +487,10 @@ dct['key1'] = 'item-one'
 **Example:**
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -530,10 +530,10 @@ del dct['key2'] # remove key 2 item
 
 ```py
 person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -779,10 +779,10 @@ June, July or August, the season is Summer
 1. Here we have a person dictionary. 
     ```py
     person = {
-    'first_name':'Asabeneh',
-    'last_name':'Yetayeh',
+    'first_name':'Fname',
+    'last_name':'Lname',
     'age':250,
-    'country':'Finland',
+    'country':'Singapore',
     'is_marred':True,
     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
     'address':{
@@ -794,9 +794,9 @@ June, July or August, the season is Summer
 * Check if the person dictionary has skills,  if it has skills key check print out the middle skill in the skills list.
 * Check if the person dictionary has skills,  if it has skills key check if the person has 'Python' skill and print the skill.
 * If a person skills has only JavaScript and React,  print('He is a front end developer'), if the person skills has Node, Python, MongoDB, print ('He is a backend developer'), if the person skills has React, Node and MongoDB, Print('He is a fullstack developer'), else print('unknown title') 
-* If the person is married and if he lives in Finland, print the following: 
+* If the person is married and if he lives in Singapore, print the following: 
     ```py
-    Asabeneh Yetayeh lives in Finland. He is married.
+    Fname Lname lives in Singapore. He is married.
     ```
-[<< Part 2 ](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme4-6.md) | [Part 4 >>](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme10-12.md)
+[<< Part 2 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md) | [Part 4 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)
 ***

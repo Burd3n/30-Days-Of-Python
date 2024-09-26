@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 天 Python ：第 12 天 - 模块 </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>作者:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small>第二版: 2021 年 7 月</small>
 </sub>
 
@@ -65,7 +65,7 @@ def generate_full_name(firstname, lastname):
 ```py
 # main.py 文件
 import mymodule
-print(mymodule.generate_full_name('Asabeneh', 'Yetayeh')) # Asabeneh Yetayeh
+print(mymodule.generate_full_name('Fname', 'Lname')) # Fname Lname
 ```
 
 ### 从模块中导入函数
@@ -75,7 +75,7 @@ print(mymodule.generate_full_name('Asabeneh', 'Yetayeh')) # Asabeneh Yetayeh
 ```py
 # main.py 文件
 from mymodule import generate_full_name, sum_two_nums, person, gravity
-print(generate_full_name('Asabneh','Yetayeh'))
+print(generate_full_name('Asabneh','Lname'))
 print(sum_two_nums(1,9))
 mass = 100
 weight = mass * gravity
@@ -90,7 +90,7 @@ print(person['firstname'])
 ```py
 # main.py 文件
 from mymodule import generate_full_name as fullname, sum_two_nums as total, person as p, gravity as g
-print(fullname('Asabneh','Yetayeh'))
+print(fullname('Asabneh','Lname'))
 print(total(1, 9))
 mass = 100
 weight = mass * g
@@ -135,13 +135,13 @@ print('Welcome {}. Enjoy  {} challenge!'.format(sys.argv[1], sys.argv[2]))
 现在要查看这个脚本的工作效果，我在命令行中写：
 
 ```sh
-python script.py Asabeneh 30DaysOfPython
+python script.py Fname 30DaysOfPython
 ```
 
 结果：
 
 ```sh
-Welcome Asabeneh. Enjoy  30DayOfPython challenge!
+Welcome Fname. Enjoy  30DayOfPython challenge!
 ```
 
 一些有用的 sys 命令：

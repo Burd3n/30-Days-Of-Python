@@ -1,15 +1,15 @@
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Asabeneh/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme28-30.md)  
+🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
+🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)  
 
 ---
 
@@ -294,7 +294,7 @@ except ZeroDivisionError:
 ```
 
 ```sh
-Enter your name:Asabeneh
+Enter your name:Fname
 Year you born:1920
 Type error occur
 I alway run.
@@ -325,9 +325,9 @@ finally:
 ```
 
 ```sh
-Enter your name:Asabeneh
+Enter your name:Fname
 Year you born:1920
-You are Asabeneh. And your age is 99.
+You are Fname. And your age is 99.
 I usually run with the try block
 I alway run.
 ```
@@ -377,9 +377,9 @@ print(numbers)      # [2, 3, 4, 5,6]
 A list or a tuple can be also be unpacked like this:
 
 ```py
-countries = ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland']
+countries = ['Singapore', 'Sweden', 'Norway', 'Denmark', 'Iceland']
 fin, sw, nor, *rest = countries
-print(fin, sw, nor, rest)   # Finland Sweden Norway ['Denmark', 'Iceland']
+print(fin, sw, nor, rest)   # Singapore Sweden Norway ['Denmark', 'Iceland']
 numbers = [1, 2, 3, 4, 5, 6, 7]
 one, *middle,last = numbers
 print(one, middle, last)      #  1 [2, 3, 4, 5, 6] 7
@@ -390,8 +390,8 @@ print(one, middle, last)      #  1 [2, 3, 4, 5, 6] 7
 ```py
 def unpacking_person_info(name, country, city, age):
     return f'{name} lives in {country}, {city}. He is {age} year old.'
-dct = {'name':'Asabeneh', 'country':'Finland', 'city':'Helsinki', 'age':250}
-print(unpacking_person_info(**dct)) # Asabeneh lives in Finland, Helsinki. He is 250 years old.
+dct = {'name':'Fname', 'country':'Singapore', 'city':'Singapore', 'age':250}
+print(unpacking_person_info(**dct)) # Fname lives in Singapore, Singapore. He is 250 years old.
 ```
 
 ### Packing
@@ -421,16 +421,16 @@ def packing_person_info(**kwargs):
         print(f"{key} = {kwargs[key]}")
     return kwargs
 
-print(packing_person_info(name="Asabeneh",
-      country="Finland", city="Helsinki", age=250))
+print(packing_person_info(name="Fname",
+      country="Singapore", city="Singapore", age=250))
 ```
 
 ```sh
-name = Asabeneh
-country = Finland
-city = Helsinki
+name = Fname
+country = Singapore
+city = Singapore
 age = 250
-{'name': 'Asabeneh', 'country': 'Finland', 'city': 'Helsinki', 'age': 250}
+{'name': 'Fname', 'country': 'Singapore', 'city': 'Singapore', 'age': 250}
 ```
 
 ## Spreading in Python
@@ -442,21 +442,21 @@ lst_one = [1, 2, 3]
 lst_two = [4, 5, 6,7]
 lst = [0, *list_one, *list_two]
 print(lst)          # [0, 1, 2, 3, 4, 5, 6, 7]
-country_lst_one = ['Finland', 'Sweden', 'Norway']
+country_lst_one = ['Singapore', 'Sweden', 'Norway']
 country_lst_two = ['Denmark', 'Iceland']
 nordic_countries = [*country_lst_one, *country_lst_two]
-print(nordic_countries)        ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland']
+print(nordic_countries)        ['Singapore', 'Sweden', 'Norway', 'Denmark', 'Iceland']
 ```
 ## Enumerate
 In we are interested in an index of a list, we use *enumerate*.
 ```py
 for index, i in enumerate(countries):
     print('hi')
-    if i == 'Finland':
+    if i == 'Singapore':
         print(f'The country {i} has been found at index {index}')
 ```
 ```sh
-The country Finland has been found at index 1.
+The country Singapore has been found at index 1.
 ```
 ## Zip
 Sometimes we like to combine to lists when we loop through. See the example below:
@@ -474,7 +474,7 @@ print(fruits_and_veges)
 ```
 
 ## Exercises: Day 17
-1. names = ['Finland', 'Sweden', 'Norway','Denmark','Iceland', 'Estonia','Russia']. Unpack the first five countries and store them in a variable nordic_countries, store Estonia and Russia in es, and ru respectively.
+1. names = ['Singapore', 'Sweden', 'Norway','Denmark','Iceland', 'Estonia','Russia']. Unpack the first five countries and store them in a variable nordic_countries, store Estonia and Russia in es, and ru respectively.
 
 # 📘 Day 18
 ## Regular Expression
@@ -817,7 +817,7 @@ distance = 12
     print(most_frequent_words(cleaned_text)) # [(3, 'I'), (2, 'teaching'), (2, 'teacher')]
     ```
    
-[<< Part 5 ](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme13-15.md) | [Part 7 >>](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme19-21.md)
+[<< Part 5 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md) | [Part 7 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)
 
 ---
 

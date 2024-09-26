@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 11 - Functions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
@@ -68,8 +68,8 @@ Function can be declared without parameters.
 
 ```py
 def generate_full_name ():
-    first_name = 'Asabeneh'
-    last_name = 'Yetayeh'
+    first_name = 'Fname'
+    last_name = 'Lname'
     space = ' '
     full_name = first_name + space + last_name
     print(full_name)
@@ -89,8 +89,8 @@ Function can also return values, if a function does not have a return statement,
 
 ```py
 def generate_full_name ():
-    first_name = 'Asabeneh'
-    last_name = 'Yetayeh'
+    first_name = 'Fname'
+    last_name = 'Lname'
     space = ' '
     full_name = first_name + space + last_name
     return full_name
@@ -127,7 +127,7 @@ def greetings (name):
     message = name + ', welcome to Python for Everyone!'
     return message
 
-print(greetings('Asabeneh'))
+print(greetings('Fname'))
 
 def add_ten(num):
     ten = 10
@@ -172,7 +172,7 @@ def generate_full_name (first_name, last_name):
     space = ' '
       full_name = first_name + space + last_name
       return full_name
-print('Full Name: ', generate_full_name('Asabeneh','Yetayeh'))
+print('Full Name: ', generate_full_name('Fname','Lname'))
 
 def sum_two_numbers (num_one, num_two):
     sum = num_one + num_two
@@ -212,7 +212,7 @@ def print_fullname(firstname, lastname):
     space = ' '
     full_name = firstname  + space + lastname
     print(full_name)
-print(print_fullname(firstname = 'Asabeneh', lastname = 'Yetayeh'))
+print(print_fullname(firstname = 'Fname', lastname = 'Lname'))
 
 def add_two_numbers (num1, num2):
     total = num1 + num2
@@ -230,13 +230,13 @@ If we do not return a value with a function, then our function is returning _Non
 ```py
 def print_name(firstname):
     return firstname
-print_name('Asabeneh') # Asabeneh
+print_name('Fname') # Fname
 
 def print_full_name(firstname, lastname):
     space = ' '
     full_name = firstname  + space + lastname
     return full_name
-print_full_name(firstname='Asabeneh', lastname='Yetayeh')
+print_full_name(firstname='Fname', lastname='Lname')
 ```
 
 - Returning a number:
@@ -303,9 +303,9 @@ def greetings (name = 'Peter'):
     message = name + ', welcome to Python for Everyone!'
     return message
 print(greetings())
-print(greetings('Asabeneh'))
+print(greetings('Fname'))
 
-def generate_full_name (first_name = 'Asabeneh', last_name = 'Yetayeh'):
+def generate_full_name (first_name = 'Fname', last_name = 'Lname'):
     space = ' '
     full_name = first_name + space + last_name
     return full_name
@@ -357,7 +357,7 @@ def generate_groups (team,*args):
     print(team)
     for i in args:
         print(i)
-print(generate_groups('Team-1','Asabeneh','Brook','David','Eyob'))
+print(generate_groups('Team-1','Fname','Brook','David','Eyob'))
 ```
 
 ### Function as a Parameter of Another Function

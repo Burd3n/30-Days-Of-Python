@@ -1,16 +1,8 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 23 - Virtual Environment </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
-  </a>
+   
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
+ 
 </div>
 
 [<< Day 22](../22_Day_Web_scraping/22_web_scraping.md) | [Day 24 >>](../24_Day_Statistics/24_statistics.md)

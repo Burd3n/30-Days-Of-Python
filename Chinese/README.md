@@ -42,12 +42,7 @@
 
 <div align="center">
   <h1> 30 天 Python：第 1 天 - 介绍</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Fname">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fname?style=social">
-  </a>
+   
 
 <sub>作者：
 <a href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br>

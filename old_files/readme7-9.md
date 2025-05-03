@@ -1,18 +1,18 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md) 
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md) 
 
 ---
-- [📘 Day 7](#%f0%9f%93%98-day-7)
+- [📘 lesson 7](#%f0%9f%93%98-lesson-7)
   - [Set](#set)
     - [Creating a set](#creating-a-set)
     - [Getting set length](#getting-set-length)
@@ -29,8 +29,8 @@
     - [Checking difference between two sets](#checking-difference-between-two-sets)
     - [Finding Symmetric difference between two sets](#finding-symmetric-difference-between-two-sets)
     - [Joining set](#joining-set)
-  - [💻 Exercises: Day 7](#%f0%9f%92%bb-exercises-day-7)
-- [📘 Day 8](#%f0%9f%93%98-day-8)
+  - [💻 Exercises: lesson 7](#%f0%9f%92%bb-exercises-lesson-7)
+- [📘 lesson 8](#%f0%9f%93%98-lesson-8)
   - [Dictionary](#dictionary)
     - [Creating a dictionary](#creating-a-dictionary)
     - [Dictionary Length](#dictionary-length)
@@ -45,8 +45,8 @@
     - [Copy a dictionary](#copy-a-dictionary)
     - [Getting dictionary keys as list](#getting-dictionary-keys-as-list)
     - [Getting dictionary values as list](#getting-dictionary-values-as-list)
-  - [💻 Exercises: Day 8](#%f0%9f%92%bb-exercises-day-8)
-- [📘 Day 9](#%f0%9f%93%98-day-9)
+  - [💻 Exercises: lesson 8](#%f0%9f%92%bb-exercises-lesson-8)
+- [📘 lesson 9](#%f0%9f%93%98-lesson-9)
   - [Conditionals](#conditionals)
     - [If condition](#if-condition)
     - [If Else](#if-else)
@@ -55,9 +55,9 @@
     - [Nested condition](#nested-condition)
     - [If condition and and logical operator](#if-condition-and-and-logical-operator)
     - [If and or logical operator](#if-and-or-logical-operator)
-  - [💻 Exercises: Day 9](#%f0%9f%92%bb-exercises-day-9)
+  - [💻 Exercises: lesson 9](#%f0%9f%92%bb-exercises-lesson-9)
 
-# 📘 Day 7
+# 📘 lesson 7
 ## Set
 Let me take you back to your elementary or high school Mathematics lesson. The Mathematics definition of set can be applied also in python. Set is a collection of unordered and unindexed distinct elements. In python set uses to store unique items, and it is possible to find the *union*, *intersection*, *difference*, *symmetric difference*, *subset*, *super set* and *disjoint set* among sets.
 ### Creating a set
@@ -322,7 +322,7 @@ dragon = {'d', 'r', 'a', 'g', 'o','n'}
 python.disjoint(dragon)  # False, there is common items {'o', 'n'}
 ```
 
-## 💻 Exercises: Day 7
+## 💻 Exercises: lesson 7
 ```py
 # sets
 it_companies = {'Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon'}
@@ -346,7 +346,7 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 14. Explain the difference among the following data types: string, list, tuple and set
 15. *I am a teacher and I love to inspire and teach people.* How many unique words have been used in the sentence.
 
-# 📘 Day 8
+# 📘 lesson 8
 ## Dictionary
 A dictionary is a collection of unordered, modifiable(mutable) key value paired data type.
 ### Creating a dictionary
@@ -590,7 +590,7 @@ dct = {'key1':'item1', 'key2':'item2', 'key3':'item3', 'key4':'item4'}
 values = dct.values()
 print(values)     # dict_values(['item1', 'item2', 'item3', 'item4'])
 ```
-## 💻 Exercises: Day 8
+## 💻 Exercises: lesson 8
 1. Create a an empty dictionary called dog
 2. Add name, color, breed, legs, age to the dog, dictionary
 3. Create a student dictionary and add first_name, last_name, gender, age, marital status, skills, country, city and address as key for the dictionary
@@ -604,7 +604,7 @@ print(values)     # dict_values(['item1', 'item2', 'item3', 'item4'])
 11. Delete the dictionary completely
 
 
-# 📘 Day 9
+# 📘 lesson 9
 ## Conditionals
 By default , statements in python script executed sequentially from top to bottom. If the processing logic require so, the sequential flow of execution can be altered in two way:
 * Conditional execution: a block of one or more statements will be executed if a certain expression is true
@@ -738,7 +738,7 @@ else:
     print('A negative number')
 ```
 
-## 💻 Exercises: Day 9
+## 💻 Exercises: lesson 9
 1. Get user input using input(“Enter your age:”). If user is 18 or older , give feedback:You are old enough to drive but if not 18 give feedback to wait for the years he supposed to wait for. Output:
     ```sh
     Enter your age: 30
@@ -798,5 +798,5 @@ June, July or August, the season is Summer
     ```py
     Fname Lname lives in Singapore. He is married.
     ```
-[<< Part 2 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md) | [Part 4 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)
+[<< Part 2 ](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md) | [Part 4 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)
 ***

@@ -9,29 +9,29 @@
 | 05     |                            [列表](./05_lists.md)                            |
 | 06     |                           [元组](./06_tuples.md)                           |
 | 07     |                             [集合](./07_sets.md)                             |
-| 08     |                     [字典](./08_Day_Dictionaries/08_dictionaries.md)                     |
-| 09     |                     [条件](./09_Day_Conditionals/09_conditionals.md)                     |
-| 10     |                            [循环](./10_Day_Loops/10_loops.md)                            |
-| 11     |                        [函数](./11_Day_Functions/11_functions.md)                        |
-| 12     |                          [模块](./12_Day_Modules/12_modules.md)                          |
-| 13     |             [列表解析](./13_Day_List_comprehension/13_list_comprehension.md)             |
-| 14     |         [高阶函数](./14_Day_Higher_order_functions/14_higher_order_functions.md)         |
-| 15     |             [类型错误](./15_Day_Python_type_errors/15_python_type_errors.md)             |
-| 16     |            [Python 日期时间](./16_Day_Python_date_time/16_python_datetime.md)            |
-| 17     |             [异常处理](./17_Day_Exception_handling/17_exception_handling.md)             |
-| 18     |           [正则表达式](./18_Day_Regular_expressions/18_regular_expressions.md)           |
-| 19     |                  [文件处理](./19_Day_File_handling/19_file_handling.md)                  |
-| 20     |         [包管理器](./20_Day_Python_package_manager/20_python_package_manager.md)         |
-| 21     |            [类和对象](./21_Day_Classes_and_objects/21_classes_and_objects.md)            |
-| 22     |                   [网页抓取](./22_Day_Web_scraping/22_web_scraping.md)                   |
-| 23     |            [虚拟环境](./23_Day_Virtual_environment/23_virtual_environment.md)            |
-| 24     |                       [统计](./24_Day_Statistics/24_statistics.md)                       |
-| 25     |                          [Pandas](./25_Day_Pandas/25_pandas.md)                          |
-| 26     |                   [Python 网页](./26_Day_Python_web/26_python_web.md)                    |
-| 27     |       [Python 与 MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md)        |
-| 28     |                              [API](./28_Day_API/28_API.md)                               |
-| 29     |                   [构建 API](./29_Day_Building_API/29_building_API.md)                   |
-| 30     |                      [结论](./30_Day_Conclusions/30_conclusions.md)                      |
+| 08     |                     [字典](./08_lesson_Dictionaries/08_dictionaries.md)                     |
+| 09     |                     [条件](./09_lesson_Conditionals/09_conditionals.md)                     |
+| 10     |                            [循环](./10_lesson_Loops/10_loops.md)                            |
+| 11     |                        [函数](./11_lesson_Functions/11_functions.md)                        |
+| 12     |                          [模块](./12_lesson_Modules/12_modules.md)                          |
+| 13     |             [列表解析](./13_lesson_List_comprehension/13_list_comprehension.md)             |
+| 14     |         [高阶函数](./14_lesson_Higher_order_functions/14_higher_order_functions.md)         |
+| 15     |             [类型错误](./15_lesson_Python_type_errors/15_python_type_errors.md)             |
+| 16     |            [Python 日期时间](./16_lesson_Python_date_time/16_python_datetime.md)            |
+| 17     |             [异常处理](./17_lesson_Exception_handling/17_exception_handling.md)             |
+| 18     |           [正则表达式](./18_lesson_Regular_expressions/18_regular_expressions.md)           |
+| 19     |                  [文件处理](./19_lesson_File_handling/19_file_handling.md)                  |
+| 20     |         [包管理器](./20_lesson_Python_package_manager/20_python_package_manager.md)         |
+| 21     |            [类和对象](./21_lesson_Classes_and_objects/21_classes_and_objects.md)            |
+| 22     |                   [网页抓取](./22_lesson_Web_scraping/22_web_scraping.md)                   |
+| 23     |            [虚拟环境](./23_lesson_Virtual_environment/23_virtual_environment.md)            |
+| 24     |                       [统计](./24_lesson_Statistics/24_statistics.md)                       |
+| 25     |                          [Pandas](./25_lesson_Pandas/25_pandas.md)                          |
+| 26     |                   [Python 网页](./26_lesson_Python_web/26_python_web.md)                    |
+| 27     |       [Python 与 MongoDB](./27_lesson_Python_with_mongodb/27_python_with_mongodb.md)        |
+| 28     |                              [API](./28_lesson_API/28_API.md)                               |
+| 29     |                   [构建 API](./29_lesson_Building_API/29_building_API.md)                   |
+| 30     |                      [结论](./30_lesson_Conclusions/30_conclusions.md)                      |
 
 🧡🧡🧡 快乐编码 🧡🧡🧡
 
@@ -51,9 +51,9 @@
 
 </div>
 
-[第 2 天 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[第 2 天 >>](./02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md)
 
-![30DaysOfPython](.././images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](.././images/30lessonsOfPython_banner3@2x.png)
 
 - [🐍 30 天 Python](#-30-天-python)
 - [📘 第 1 天](#第-1-天)
@@ -88,9 +88,9 @@
 
 ## 欢迎！
 
-**恭喜** 你决定参加 _30 天 Python_ 编程挑战。在这个挑战中，你将学习成为一名 Python 程序员所需的一切以及所有编程概念。挑战结束时，你将获得 _30DaysOfPython_ 编程挑战证书。
+**恭喜** 你决定参加 _30 天 Python_ 编程挑战。在这个挑战中，你将学习成为一名 Python 程序员所需的一切以及所有编程概念。挑战结束时，你将获得 _30lessonsOfPython_ 编程挑战证书。
 
-如果你想积极参与挑战，可以加入 Telegram 群组 [30DaysOfPython challenge](https://t.me/ThirtyDaysOfPython)。
+如果你想积极参与挑战，可以加入 Telegram 群组 [30lessonsOfPython challenge](https://t.me/ThirtylessonsOfPython)。
 
 ## 介绍
 
@@ -101,7 +101,7 @@ Python 是一种高级编程语言，适用于通用编程。它是一种开源�
 本挑战易于阅读，最初以通俗英语编写，并翻译成中文，既具有吸引力、激励性，又具有很高的挑战性。你需要投入大量时间来完成这个挑战。如果你是通过观看学习效果更好的人，可以观看视频教程，访问 <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw">
 Washera YouTube 频道</a> 你可以从 [Python 对绝对初学者的视频](https://youtu.be/OCCWZheOesI) 开始。订阅频道，在 YouTube 视频中评论你的问题，并积极主动，作者最终会注意到你。
 
-作者喜欢听取你对挑战的意见，分享文章并反馈你对 30DaysOfPython 挑战的看法。你可以在此处留下对文章的反馈：[link](https://testimonial-vdzd.onrender.com/)
+作者喜欢听取你对挑战的意见，分享文章并反馈你对 30lessonsOfPython 挑战的看法。你可以在此处留下对文章的反馈：[link](https://testimonial-vdzd.onrender.com/)
 
 ## 为什么选择 Python？
 
@@ -219,13 +219,13 @@ Python 交互式 Shell 非常适合测试小的脚本代码，但对于大型项
 
 ![Visual studio Code](../images/vscode_ui.png)
 
-在桌面上创建一个名为 30DaysOfPython 的文件夹。然后使用 Visual Studio Code 打开它。
+在桌面上创建一个名为 30lessonsOfPython 的文件夹。然后使用 Visual Studio Code 打开它。
 
 ![Opening Project on Visual studio](../images/how_to_open_project_on_vscode.png)
 
 ![Opening a project](../images/opening_project.png)
 
-打开后，你会看到在 30DaysOfPython 项目目录中创建文件和文件夹的快捷方式。如下所示，我创建了第一个文件 helloworld.py。你也可以这样做。
+打开后，你会看到在 30lessonsOfPython 项目目录中创建文件和文件夹的快捷方式。如下所示，我创建了第一个文件 helloworld.py。你也可以这样做。
 
 ![Creating a python file](../images/helloworld.png)
 
@@ -298,7 +298,7 @@ Python 中有多种数据类型。让我们从最常见的开始。不同的数�
 'Singapore'
 'Python'
 'I love teaching'
-'I hope you are enjoying the first day of 30DaysOfPython Challenge'
+'I hope you are enjoying the first lesson of 30lessonsOfPython Challenge'
 ```
 
 #### 布尔值
@@ -377,7 +377,7 @@ Python 字典对象是以键值对格式存储的无序集合。
 
 ### Python 文件
 
-首先打开你的项目文件夹，30DaysOfPython。如果你没有这个文件夹，创建一个名为 30DaysOfPython 的文件夹。在这个文件夹内，创建一个名为 helloworld.py 的文件。现在，让我们在 Visual Studio Code 中做我们在 Python 交互式 Shell 中所做的事情。
+首先打开你的项目文件夹，30lessonsOfPython。如果你没有这个文件夹，创建一个名为 30lessonsOfPython 的文件夹。在这个文件夹内，创建一个名为 helloworld.py 的文件。现在，让我们在 Visual Studio Code 中做我们在 Python 交互式 Shell 中所做的事情。
 
 Python 交互式 Shell 在不使用 **print** 的情况下打印，但在 Visual Studio Code 中，为了查看我们的结果，我们应该使用内置函数 _print()_。_print()_ 内置函数接受一个或多个参数，如下所示 _print('arument1', 'argument2', 'argument3')_。请参见以下示例。
 
@@ -386,7 +386,7 @@ Python 交互式 Shell 在不使用 **print** 的情况下打印，但在 Visual
 ​ 文件名是 helloworld.py
 
 ```py
-# 第 1 天 - 30DaysOfPython 挑战
+# 第 1 天 - 30lessonsOfPython 挑战
 
 print(2 + 3)             # 加法(+)
 print(3 - 1)             # 减法(-)
@@ -443,7 +443,7 @@ print(type((9.8, 3.14, 2.7)))    # 元组
 
 ### 练习：等级 2
 
-1. 在 30DaysOfPython 文件夹中创建一个名为 day*1 的文件夹。在 day_1 文件夹中，创建一个名为 helloworld.py 的 Python 文件，并重复问题 1、2、3 和 4。记住在处理 Python 文件时使用 \_print()*。导航到你保存文件的目录，并运行它。
+1. 在 30lessonsOfPython 文件夹中创建一个名为 lesson*1 的文件夹。在 lesson_1 文件夹中，创建一个名为 helloworld.py 的 Python 文件，并重复问题 1、2、3 和 4。记住在处理 Python 文件时使用 \_print()*。导航到你保存文件的目录，并运行它。
 
 ### 练习：等级 3
 

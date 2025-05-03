@@ -1,16 +1,16 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)  
-- [📘 Day 28](#%f0%9f%93%98-day-28)
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md)  
+- [📘 lesson 28](#%f0%9f%93%98-lesson-28)
 - [Application Programming Interface(API)](#application-programming-interfaceapi)
   - [API](#api)
   - [Building API](#building-api)
@@ -21,8 +21,8 @@
     - [Header Fields](#header-fields)
     - [The message body](#the-message-body)
     - [Request Methods](#request-methods)
-  - [💻 Exercises: Day 28](#%f0%9f%92%bb-exercises-day-28)
-  - [Day 29](#day-29)
+  - [💻 Exercises: lesson 28](#%f0%9f%92%bb-exercises-lesson-28)
+  - [lesson 29](#lesson-29)
   - [Building API](#building-api-1)
     - [Structure of an API](#structure-of-an-api)
     - [Retrieving data using get](#retrieving-data-using-get)
@@ -30,11 +30,11 @@
     - [Creating data using POST](#creating-data-using-post)
     - [Updating using PUT](#updating-using-put)
     - [Deleting a document using Delete](#deleting-a-document-using-delete)
-  - [💻 Exercises: Day 29](#%f0%9f%92%bb-exercises-day-29)
-- [Day 30](#day-30)
+  - [💻 Exercises: lesson 29](#%f0%9f%92%bb-exercises-lesson-29)
+- [lesson 30](#lesson-30)
   - [Conclusions](#conclusions)
 
-# 📘 Day 28
+# 📘 lesson 28
 # Application Programming Interface(API)
 ## API
 Application Programming Interface(API). The kind of API will cover in this section is going to be Web APIS.
@@ -66,7 +66,7 @@ The format of the request and response messages are similar. Both kinds of messa
 * a blank line (i.e. a CRLF by itself), and
 * an optional message body (e.g. a file, or query data, or query output).
 
-Let's an example of request and response messages by navigating this site:https://thirtydaysofpython-v1-final.herokuapp.com/
+Let's an example of request and response messages by navigating this site:https://thirtylessonsofpython-v1-final.herokuapp.com/
 
 ![Request and Response header](./images/request_response_header.png)
 
@@ -97,7 +97,7 @@ A complete list of HTTP status code can be found [here](https://httpstatuses.com
 As you have seen in the above screenshot, header lines provide information about the request or response, or about the object sent in the message body.
 ```sh
 GET / HTTP/1.1
-Host: thirtydaysofpython-v1-final.herokuapp.com
+Host: thirtylessonsofpython-v1-final.herokuapp.com
 Connection: keep-alive
 Pragma: no-cache
 Cache-Control: no-cache
@@ -107,7 +107,7 @@ Sec-Fetch-User: ?1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: navigate
-Referer: https://thirtydaysofpython-v1-final.herokuapp.com/post
+Referer: https://thirtylessonsofpython-v1-final.herokuapp.com/post
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-GB,en;q=0.9,fi-FI;q=0.8,fi;q=0.7,en-CA;q=0.6,en-US;q=0.5,fr;q=0.4
 ```
@@ -130,10 +130,10 @@ The GET, POST, PUT and DELETE are the HTTP request methods which we are going to
 4. DELETE: Removes data 
 
 
-## 💻 Exercises: Day 28
+## 💻 Exercises: lesson 28
 1. Read about API and HTTP
 
-##  Day 29
+##  lesson 29
 
 ## Building API
 
@@ -161,7 +161,7 @@ POST       Used for object creation and object actions
 PUT        Used for object update
 DELETE     Used for object deletion
 ```
-Let's build an api which collects information about 30DaysOfPython students. We will collect the name, country, city, date of birth, skills and bio.
+Let's build an api which collects information about 30lessonsOfPython students. We will collect the name, country, city, date of birth, skills and bio.
 
 To implement this API, we will use:
 * Postman
@@ -233,9 +233,9 @@ import pymongo
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 
 @app.route('/api/v1.0/students', methods = ['GET'])
 def students ():
@@ -249,7 +249,7 @@ if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
     app.run(debug=True, host='0.0.0.0', port=port)
 ```
-By connecting the flask, we can fetch students collection data from the thirty_days_of_python database.
+By connecting the flask, we can fetch students collection data from the thirty_lessons_of_python database.
 ```sh
 [
     {
@@ -299,9 +299,9 @@ import pymongo
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 
 @app.route('/api/v1.0/students', methods = ['GET']) 
 def students ():
@@ -349,9 +349,9 @@ from datetime import datetime
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 
 @app.route('/api/v1.0/students', methods = ['GET']) 
 def students ():
@@ -405,9 +405,9 @@ from datetime import datetime
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 
 @app.route('/api/v1.0/students', methods = ['GET']) 
 def students ():
@@ -485,9 +485,9 @@ from datetime import datetime
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 
 @app.route('/api/v1.0/students', methods = ['GET']) 
 def students ():
@@ -575,18 +575,18 @@ if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=port)
 ```
 
-## 💻 Exercises: Day 29
-1. Implement the above example and develop [this](https://thirtydayofpython-api.herokuapp.com/)
+## 💻 Exercises: lesson 29
+1. Implement the above example and develop [this](https://thirtylessonofpython-api.herokuapp.com/)
 
-# Day 30
+# lesson 30
 ## Conclusions
 In the process of preparing this material I I have learning quite a lot and you have inspired me to do more. Congratulations for making it to this level. If you have done all the exercise and the projects, now you are capable to go a data analysis, data science, machine learning or web development.
 
-GIVE FEEDBACK: http://thirtydayofpython-api.herokuapp.com/feedback
+GIVE FEEDBACK: http://thirtylessonofpython-api.herokuapp.com/feedback
 
 
 
-[<< Part 9 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-25.md) | [Part 10 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)
+[<< Part 9 ](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-25.md) | [Part 10 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md)
 
 ---
 

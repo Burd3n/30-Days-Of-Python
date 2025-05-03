@@ -9,9 +9,9 @@
 
 </div>
 
-[<< 第 13 天](../13_Day_List_comprehension/13_list_comprehension.md) | [第 15 天>>](../15_Day_Python_type_errors/15_python_type_errors.md)
+[<< 第 13 天](../13_lesson_List_comprehension/13_list_comprehension.md) | [第 15 天>>](../15_lesson_Python_type_errors/15_python_type_errors.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 - [📘 第 14 天](#-第14天)
   - [高阶函数](#高阶函数)
@@ -353,11 +353,11 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ### 练习：高级
 
-1. 使用 countries_data.py (https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries-data.py) 文件，完成以下任务：
+1. 使用 countries_data.py (https://github.com/Fname/30-lessons-Of-Python/blob/master/data/countries-data.py) 文件，完成以下任务：
    - 按国家名称、首都和人口排序国家
    - 按位置排序出前十个最常用语言。
    - 排序出前十个人口最多的国家。
 
 🎉 恭喜你！ 🎉
 
-[<< 第 13 天](../13_Day_List_comprehension/13_list_comprehension.md) | [第 15 天>>](../15_Day_Python_type_errors/15_python_type_errors.md)
+[<< 第 13 天](../13_lesson_List_comprehension/13_list_comprehension.md) | [第 15 天>>](../15_lesson_Python_type_errors/15_python_type_errors.md)

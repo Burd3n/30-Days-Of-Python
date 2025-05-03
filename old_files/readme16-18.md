@@ -1,19 +1,19 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)  
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md)  
 
 ---
 
-- [📘 Day 16](#%f0%9f%93%98-day-16)
+- [📘 lesson 16](#%f0%9f%93%98-lesson-16)
   - [Python Datetime](#python-datetime)
     - [Getting the datetime information](#getting-the-datetime-information)
     - [Formating datetime output using strftime](#formating-datetime-output-using-strftime)
@@ -22,8 +22,8 @@
     - [Time object to represent time](#time-object-to-represent-time)
     - [Difference between two datetime](#difference-between-two-datetime)
     - [Difference between two dates and times using timedelata](#difference-between-two-dates-and-times-using-timedelata)
-  - [💻 Exercises: Day 16](#%f0%9f%92%bb-exercises-day-16)
-- [📘 Day 17](#%f0%9f%93%98-day-17)
+  - [💻 Exercises: lesson 16](#%f0%9f%92%bb-exercises-lesson-16)
+- [📘 lesson 17](#%f0%9f%93%98-lesson-17)
   - [Exception Handling](#exception-handling)
   - [Packing and Unpacking Arguments in Python](#packing-and-unpacking-arguments-in-python)
     - [Unpacking](#unpacking)
@@ -35,8 +35,8 @@
   - [Spreading in Python](#spreading-in-python)
   - [Enumerate](#enumerate)
   - [Zip](#zip)
-  - [Exercises: Day 17](#exercises-day-17)
-- [📘 Day 18](#%f0%9f%93%98-day-18)
+  - [Exercises: lesson 17](#exercises-lesson-17)
+- [📘 lesson 18](#%f0%9f%93%98-lesson-18)
   - [Regular Expression](#regular-expression)
     - [Import re module](#import-re-module)
     - [re functions](#re-functions)
@@ -54,9 +54,9 @@
     - [Zero or one times(?)](#zero-or-one-times)
     - [Quantifier in RegEx](#quantifier-in-regex)
     - [Cart ^](#cart)
-  - [💻 Exercises: Day 18](#%f0%9f%92%bb-exercises-day-18)
-GIVE FEEDBACK: http://thirtydayofpython-api.herokuapp.com/feedback
-# 📘 Day 16
+  - [💻 Exercises: lesson 18](#%f0%9f%92%bb-exercises-lesson-18)
+GIVE FEEDBACK: http://thirtylessonofpython-api.herokuapp.com/feedback
+# 📘 lesson 16
 
 ## Python Datetime
 
@@ -76,16 +76,16 @@ Using the dir or help builtin function it is possible to know the available func
 from datetime import datetime
 now = datetime.now()
 print(now)                      # 2019-12-04 23:34:46.549883
-day = now.day                   # 4
+lesson = now.lesson                   # 4
 month = now.month               # 12
 year = now.year                 # 2019
 hour = now.hour                 # 23
 minute = now.minute             # 38
 second = now.second
 timestamp = now.timestamp()
-print(day, month, year, hour, minute)
+print(lesson, month, year, hour, minute)
 print('timestamp', timestamp)
-print(f'{day}/{month}/{year}, {hour}:{minute}')  # 4/12/2019, 23:38
+print(f'{lesson}/{month}/{year}, {hour}:{minute}')  # 4/12/2019, 23:38
 ```
 
 ### Formating datetime output using strftime
@@ -94,14 +94,14 @@ print(f'{day}/{month}/{year}, {hour}:{minute}')  # 4/12/2019, 23:38
 from datetime import datetime
 new_year = datetime(2020, 1, 1)
 print(new_year)      # 2020-01-01 00:00:00
-day = new_year.day
+lesson = new_year.lesson
 month = new_year.month
 year = new_year.year
 hour = new_year.hour
 minute = new_year.minute
 second = new_year.second
-print(day, month, year, hour, minute) #1 1 2020 0 0
-print(f'{day}/{month}/{year}, {hour}:{minute}')  # 1/1/2020, 0:0
+print(lesson, month, year, hour, minute) #1 1 2020 0 0
+print(f'{lesson}/{month}/{year}, {hour}:{minute}')  # 1/1/2020, 0:0
 
 ```
 
@@ -152,12 +152,12 @@ date_object = 2019-12-05 00:00:00
 from datetime import date
 d = date(2020, 1, 1)
 print(d)
-print('Current date:', d.today())    # 2019-12-05
-# date object of today's date
-today = date.today()
-print("Current year:", today.year)   # 2019
-print("Current month:", today.month) # 12
-print("Current day:", today.day)     # 5
+print('Current date:', d.tolesson())    # 2019-12-05
+# date object of tolesson's date
+tolesson = date.tolesson()
+print("Current year:", tolesson.year)   # 2019
+print("Current month:", tolesson.month) # 12
+print("Current lesson:", tolesson.lesson)     # 5
 ```
 
 ### Time object to represent time
@@ -187,24 +187,24 @@ d = 10:30:50.200555
 ### Difference between two datetime
 
 ```py
-today = date(year=2019, month=12, day=5)
-new_year = date(year=2020, month=1, day=1)
-time_left_for_newyear = new_year - today
-# Time left for new year:  27 days, 0:00:00
+tolesson = date(year=2019, month=12, lesson=5)
+new_year = date(year=2020, month=1, lesson=1)
+time_left_for_newyear = new_year - tolesson
+# Time left for new year:  27 lessons, 0:00:00
 print('Time left for new year: ', time_left_for_newyear)
 
-t1 = datetime(year = 2019, month = 12, day = 5, hour = 0, minute = 59, second = 0)
-t2 = datetime(year = 2020, month = 1, day = 1, hour = 0, minute = 0, second = 0)
+t1 = datetime(year = 2019, month = 12, lesson = 5, hour = 0, minute = 59, second = 0)
+t2 = datetime(year = 2020, month = 1, lesson = 1, hour = 0, minute = 0, second = 0)
 diff = t2 - t1
-print('Time left for new year:', diff) # Time left for new year: 26 days, 23: 01: 00
+print('Time left for new year:', diff) # Time left for new year: 26 lessons, 23: 01: 00
 ```
 
 ### Difference between two dates and times using timedelata
 
 ```py
 from datetime import timedelta
-t1 = timedelta(weeks=12, days=10, hours=4, seconds=20)
-t2 = timedelta(days=7, hours=5, minutes=3, seconds=30)
+t1 = timedelta(weeks=12, lessons=10, hours=4, seconds=20)
+t2 = timedelta(lessons=7, hours=5, minutes=3, seconds=30)
 t3 = t1 - t2
 print("t3 =", t3)
 ```
@@ -212,14 +212,14 @@ print("t3 =", t3)
 ```sh
     date_string = 5 December, 2019
     date_object = 2019-12-05 00:00:00
-    t3 = 86 days, 22:56:50
+    t3 = 86 lessons, 22:56:50
 ```
 
-## 💻 Exercises: Day 16
+## 💻 Exercises: lesson 16
 
-1. Get the current day, month, year, hour, minute and timestamp from time date module
+1. Get the current lesson, month, year, hour, minute and timestamp from time date module
 1. Format the current date using in this format: "%m/%d/%Y, %H:%M:%S")
-1. Today is 5 December, 2019. Change this time string to time.
+1. Tolesson is 5 December, 2019. Change this time string to time.
 1. Calculate the time difference from now to new year.
 1. Calculate the time difference between 1 January 1970 and now.
 1. Think about for what you can you use datetime module,
@@ -227,7 +227,7 @@ print("t3 =", t3)
    - To get time stamp of any activities in an application
    - And many other users
 
-# 📘 Day 17
+# 📘 lesson 17
 
 ## Exception Handling
 
@@ -473,10 +473,10 @@ print(fruits_and_veges)
 [{'fruit': 'banana', 'veg': 'Tomato'}, {'fruit': 'orange', 'veg': 'Potato'}, {'fruit': 'mango', 'veg': 'Cabbage'}, {'fruit': 'lemon', 'veg': 'Onion'}]
 ```
 
-## Exercises: Day 17
+## Exercises: lesson 17
 1. names = ['Singapore', 'Sweden', 'Norway','Denmark','Iceland', 'Estonia','Russia']. Unpack the first five countries and store them in a variable nordic_countries, store Estonia and Russia in es, and ru respectively.
 
-# 📘 Day 18
+# 📘 lesson 18
 ## Regular Expression
 A regular expression or RegEx is a small programming language that helps to find pattern in data. A RegEx can be used to check if some pattern exists in a different data type. To use RegEx in python first we should import the RegEx module which is *re*.
 
@@ -620,7 +620,7 @@ To declare a string variable we use a single or double quote. To declare RegEx v
 The following pattern only identifies apple with lowercase, to make it case insensitive either we should rewrite our pattern or we should add a flag.  
 ```py
 regex_pattern = r'apple'
-txt = 'Apple and banana are fruits. An old cliche says an apple a day a doctor way has been replaced by a banana a day keeps the doctor far far away. '
+txt = 'Apple and banana are fruits. An old cliche says an apple a lesson a doctor way has been replaced by a banana a lesson keeps the doctor far far away. '
 matches = re.findall(regex_pattern, txt)
 print(matches)  # ['apple']
 
@@ -669,14 +669,14 @@ Let's use example to clarify the above meta characters
 Let's use square bracket to include lower and upper case
 ```py
 regex_pattern = r'[Aa]pple' # this square bracket mean either A or a
-txt = 'Apple and banana are fruits. An old cliche says an apple a day a doctor way has been replaced by a banana a day keeps the doctor far far away. '
+txt = 'Apple and banana are fruits. An old cliche says an apple a lesson a doctor way has been replaced by a banana a lesson keeps the doctor far far away. '
 matches = re.findall(regex_pattern, txt)
 print(matches)  # ['Apple', 'apple']
 ```
 If we want to look for the banana, we write the pattern as follows:
 ```py
 regex_pattern = r'[Aa]pple|[Bb]anana' # this square bracket mean either A or a
-txt = 'Apple and banana are fruits. An old cliche says an apple a day a doctor way has been replaced by a banana a day keeps the doctor far far away. '
+txt = 'Apple and banana are fruits. An old cliche says an apple a lesson a doctor way has been replaced by a banana a lesson keeps the doctor far far away. '
 matches = re.findall(regex_pattern, txt)
 print(matches)  # ['Apple', 'banana', 'apple', 'banana']
 ```
@@ -766,7 +766,7 @@ print(matches)  # ['e-mail', 'email', 'Email', 'E-mail']
 ```
 
 
-## 💻 Exercises: Day 18
+## 💻 Exercises: lesson 18
   1. What is the most frequent word in the following paragraph ?
 ```py
     paragraph = 'I love teaching. If you do not love teaching what else can you love. I love Python if you do not love something which can give you all the capabilities to develop an application what else can you love.
@@ -817,7 +817,7 @@ distance = 12
     print(most_frequent_words(cleaned_text)) # [(3, 'I'), (2, 'teaching'), (2, 'teacher')]
     ```
    
-[<< Part 5 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md) | [Part 7 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)
+[<< Part 5 ](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md) | [Part 7 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)
 
 ---
 

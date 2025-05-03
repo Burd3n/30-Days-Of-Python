@@ -1,27 +1,27 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 2 - 변수, 내장 함수</h1>
+  <h1> 30 lessons Of Python: lesson 2 - 변수, 내장 함수</h1>
    
 
  
 
 </div>
 
-[<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< lesson 1](../readme.md) | [lesson 3 >>](../03_lesson_Operators/03_operators.md)
 
-![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../../images/30lessonsOfPython_banner3@2x.png)
 
-- [📘 Day 2](#-day-2)
+- [📘 lesson 2](#-lesson-2)
   - [내장 함수](#내장-함수)
   - [변수](#변수)
     - [한 줄로 여러개의 변수 선언](#한-줄로-여러개의-변수-선언)
   - [자료형](#자료형)
   - [자료형 확인 및 형변환](#자료형-확인-및-형변환)
   - [숫자](#숫자)
-  - [💻 Exercises - Day 2](#-exercises---day-2)
+  - [💻 Exercises - lesson 2](#-exercises---lesson-2)
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
 
-# 📘 Day 2
+# 📘 lesson 2
 
 ## 내장 함수
 
@@ -248,12 +248,12 @@ print(first_name_to_list)            # ['A', 's', 'a', 'b', 'e', 'n', 'e', 'h']
 
 🌕 당신은 정말 멋집니다. 여러분은 이제 막 2일차 도전을 마쳤고 위대함으로 가는 길에 두 걸음 앞서 있습니다. 이제 여러분의 뇌와 근육을 위한 운동을 하세요.
 
-## 💻 Exercises - Day 2
+## 💻 Exercises - lesson 2
 
 ### Exercises: Level 1
 
-1. 30DaysOfPython 내에 day_2라는 폴더를 생성하세요. 그 폴더 내에 variables.py 라는 파일을 생성하세요.
-2. 'Day 2: 30 Days of python programming'이라는 파이썬 주석을 작성합니다.
+1. 30lessonsOfPython 내에 lesson_2라는 폴더를 생성하세요. 그 폴더 내에 variables.py 라는 파일을 생성하세요.
+2. 'lesson 2: 30 lessons of python programming'이라는 파이썬 주석을 작성합니다.
 3. first name 변수를 선언하고 변수에 값을 할당합니다.
 4. last name 변수를 선언하고 변수에 값을 할당합니다.
 5. full name 변수를 선언하고 변수에 값을 할당합니다.
@@ -306,4 +306,4 @@ print(first_name_to_list)            # ['A', 's', 'a', 'b', 'e', 'n', 'e', 'h']
 
 🎉 축하합니다 ! 🎉
 
-[<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< lesson 1](../readme.md) | [lesson 3 >>](../03_lesson_Operators/03_operators.md)

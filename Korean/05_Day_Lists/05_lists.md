@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 5 - Lists</h1>
+  <h1> 30 lessons Of Python: lesson 5 - Lists</h1>
    
 
 <sub>Author:
@@ -9,11 +9,11 @@
 
 </div>
 
-[<< Day 4](../04_Day_Strings/04_strings.md) | [Day 6 >>](../06_Day_Tuples/06_tuples.md)
+[<< lesson 4](../04_lesson_Strings/04_strings.md) | [lesson 6 >>](../06_lesson_Tuples/06_tuples.md)
 
-![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../../images/30lessonsOfPython_banner3@2x.png)
 
-- [Day 5](#day-5)
+- [lesson 5](#lesson-5)
   - [Lists](#lists)
     - [How to Create a List](#how-to-create-a-list)
     - [Accessing List Items Using Positive Indexing](#accessing-list-items-using-positive-indexing)
@@ -34,11 +34,11 @@
     - [Finding Index of an Item](#finding-index-of-an-item)
     - [Reversing a List](#reversing-a-list)
     - [Sorting List Items](#sorting-list-items)
-  - [💻 Exercises: Day 5](#-exercises-day-5)
+  - [💻 Exercises: lesson 5](#-exercises-lesson-5)
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
 
-# Day 5
+# lesson 5
 
 ## Lists
 
@@ -521,7 +521,7 @@ print(ages) # [24, 25, 24, 26, 25, 24, 19, 22]
 
 🌕 당신은 성실하고 이미 많은 것을 성취했습니다. 여러분은 이제 막 5일차 도전을 마쳤고 위대함을 향한 5걸음 앞에 있습니다. 이제 여러분의 뇌와 근육을 위한 운동을 하세요.
 
-## 💻 Exercises: Day 5
+## 💻 Exercises: lesson 5
 
 ### Exercises: Level 1
 
@@ -574,10 +574,10 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 - 나이의 범위를 구합니다(최대값 빼기 최소값)
 -  (최소값 - 평균)과 (최대값 - 평균)의 값을 비교하고 _abs()_ 메서드를 사용합니다.
 
-1. [국가 목록](https://github.com/Fname/30-Days-Of-Python/tree/master/data/countries.py) 에서 중간 국가를 찾습니다.
+1. [국가 목록](https://github.com/Fname/30-lessons-Of-Python/tree/master/data/countries.py) 에서 중간 국가를 찾습니다.
 1. 국가 리스트를 두개의 리스트로 나눕니다. 짝수라면 두개의 리스트의 크기가 갖게, 아니라면 앞의 리스트가 하나의 국가를 더 갖도록 합니다.
 1. ['China', 'Russia', 'USA', 'Singapore', 'Sweden', 'Norway', 'Denmark']. 앞의 세개 국가와 나머지를 scandic countries로 unpack합니다.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 4](../04_Day_Strings/04_strings.md) | [Day 6 >>](../06_Day_Tuples/06_tuples.md)
+[<< lesson 4](../04_lesson_Strings/04_strings.md) | [lesson 6 >>](../06_lesson_Tuples/06_tuples.md)

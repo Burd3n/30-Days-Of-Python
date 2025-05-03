@@ -1,37 +1,37 @@
-# 🐍 30 Days Of Python 
+# 🐍 30 lessons Of Python 
 
-|# Day | Topics                                                    |
+|# lesson | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme_ko.md)|
-| 02  |  [Variables, Built-in Functions](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
-| 03  |  [Operators](../03_Day_Operators/03_operators.md)|
-| 04  |  [Strings](../04_Day_Strings/04_strings.md)|
-| 05  |  [Lists](../05_Day_Lists/05_lists.md)|
-| 06  |  [Tuples](../06_Day_Tuples/06_tuples.md)|
-| 07  |  [Sets](../07_Day_Sets/07_sets.md)|
-| 08  |  [Dictionaries](../08_Day_Dictionaries/08_dictionaries.md)|
-| 09  |  [Conditionals](../09_Day_Conditionals/09_conditionals.md)|
-| 10  |  [Loops](../10_Day_Loops/10_loops.md)|
-| 11  |  [Functions](../11_Day_Functions/11_functions.md)|
-| 12  |  [Modules](../12_Day_Modules/12_modules.md)|
-| 13  |  [List Comprehension](../13_Day_List_comprehension/13_list_comprehension.md)|
-| 14  |  [Higher Order Functions](../14_Day_Higher_order_functions/14_higher_order_functions.md)|     
-| 15  |  [Python Type Errors](../15_Day_Python_type_errors/15_python_type_errors.md)| 
-| 16 |  [Python Date time](../16_Day_Python_date_time/16_python_datetime.md) |     
-| 17 |  [Exception Handling](../17_Day_Exception_handling/17_exception_handling.md)|    
-| 18 |  [Regular Expressions](../18_Day_Regular_expressions/18_regular_expressions.md)|    
-| 19 |  [File Handling](../19_Day_File_handling/19_file_handling.md)|
-| 20 |  [Python Package Manager](../20_Day_Python_package_manager/20_python_package_manager.md)|
-| 21 |  [Classes and Objects](../21_Day_Classes_and_objects/21_classes_and_objects.md)|
-| 22 |  [Web Scraping](../22_Day_Web_scraping/22_web_scraping.md)|
-| 23 |  [Virtual Environment](../23_Day_Virtual_environment/23_virtual_environment.md)|
-| 24 |  [Statistics](../24_Day_Statistics/24_statistics.md)|
-| 25 |  [Pandas](../25_Day_Pandas/25_pandas.md)|
-| 26 |  [Python web](../26_Day_Python_web/26_python_web.md)|
-| 27 |  [Python with MongoDB](../27_Day_Python_with_mongodb/27_python_with_mongodb.md)|
-| 28 |  [API](../28_Day_API/28_API.md)|
-| 29 |  [Building API](../29_Day_Building_API/29_building_API.md)|
-| 30 |  [Conclusions](../30_Day_Conclusions/30_conclusions.md)|
+| 02  |  [Variables, Built-in Functions](../02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md)|
+| 03  |  [Operators](../03_lesson_Operators/03_operators.md)|
+| 04  |  [Strings](../04_lesson_Strings/04_strings.md)|
+| 05  |  [Lists](../05_lesson_Lists/05_lists.md)|
+| 06  |  [Tuples](../06_lesson_Tuples/06_tuples.md)|
+| 07  |  [Sets](../07_lesson_Sets/07_sets.md)|
+| 08  |  [Dictionaries](../08_lesson_Dictionaries/08_dictionaries.md)|
+| 09  |  [Conditionals](../09_lesson_Conditionals/09_conditionals.md)|
+| 10  |  [Loops](../10_lesson_Loops/10_loops.md)|
+| 11  |  [Functions](../11_lesson_Functions/11_functions.md)|
+| 12  |  [Modules](../12_lesson_Modules/12_modules.md)|
+| 13  |  [List Comprehension](../13_lesson_List_comprehension/13_list_comprehension.md)|
+| 14  |  [Higher Order Functions](../14_lesson_Higher_order_functions/14_higher_order_functions.md)|     
+| 15  |  [Python Type Errors](../15_lesson_Python_type_errors/15_python_type_errors.md)| 
+| 16 |  [Python Date time](../16_lesson_Python_date_time/16_python_datetime.md) |     
+| 17 |  [Exception Handling](../17_lesson_Exception_handling/17_exception_handling.md)|    
+| 18 |  [Regular Expressions](../18_lesson_Regular_expressions/18_regular_expressions.md)|    
+| 19 |  [File Handling](../19_lesson_File_handling/19_file_handling.md)|
+| 20 |  [Python Package Manager](../20_lesson_Python_package_manager/20_python_package_manager.md)|
+| 21 |  [Classes and Objects](../21_lesson_Classes_and_objects/21_classes_and_objects.md)|
+| 22 |  [Web Scraping](../22_lesson_Web_scraping/22_web_scraping.md)|
+| 23 |  [Virtual Environment](../23_lesson_Virtual_environment/23_virtual_environment.md)|
+| 24 |  [Statistics](../24_lesson_Statistics/24_statistics.md)|
+| 25 |  [Pandas](../25_lesson_Pandas/25_pandas.md)|
+| 26 |  [Python web](../26_lesson_Python_web/26_python_web.md)|
+| 27 |  [Python with MongoDB](../27_lesson_Python_with_mongodb/27_python_with_mongodb.md)|
+| 28 |  [API](../28_lesson_API/28_API.md)|
+| 29 |  [Building API](../29_lesson_Building_API/29_building_API.md)|
+| 30 |  [Conclusions](../30_lesson_Conclusions/30_conclusions.md)|
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
+  <h1> 30 lessons Of Python: lesson 1 - Introduction</h1>
    
 
   <sub>Author:
@@ -51,12 +51,12 @@
 </div>
 
 
-[Day 2 >>](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[lesson 2 >>](../02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
-- [🐍 30 Days Of Python](#-30-days-of-python)
-- [📘 Day 1](#-day-1)
+- [🐍 30 lessons Of Python](#-30-lessons-of-python)
+- [📘 lesson 1](#-lesson-1)
   - [환영합니다](#환영합니다)
   - [소개](#소개)
   - [왜 Python이느냐?](#왜-python이느냐?)
@@ -79,18 +79,18 @@
       - [Set](#set)
     - [데이터 타입 체크](#데이터-타입-체크)
     - [Python 파일](#python-파일)
-  - [💻 Exercises - Day 1](#-exercises---day-1)
+  - [💻 Exercises - lesson 1](#-exercises---lesson-1)
     - [Exercise: Level 1](#exercise-level-1)
     - [Exercise: Level 2](#exercise-level-2)
     - [Exercise: Level 3](#exercise-level-3)
 
-# 📘 Day 1
+# 📘 lesson 1
 
 ## 환영합니다
 
-_30 days of Python_에 참여하기로 결정하신 것을 **축하드립니다**. 이 챌린지에서는 Python 프로그래머가 되기 위해 필요한 모든 것과 프로그래밍의 전체 개념을 배우게 됩니다. 챌린지가 끝나면 _30DaysOfPython_프로그래밍 챌린지 인증서를 받게 됩니다.
+_30 lessons of Python_에 참여하기로 결정하신 것을 **축하드립니다**. 이 챌린지에서는 Python 프로그래머가 되기 위해 필요한 모든 것과 프로그래밍의 전체 개념을 배우게 됩니다. 챌린지가 끝나면 _30lessonsOfPython_프로그래밍 챌린지 인증서를 받게 됩니다.
 
-챌린지에 적극적으로 참여하고 싶다면 [30DaysOfPython challenge](https://t.me/ThirtyDaysOfPython) 텔레그램 그룹에 가입할 수 있습니다. 
+챌린지에 적극적으로 참여하고 싶다면 [30lessonsOfPython challenge](https://t.me/ThirtylessonsOfPython) 텔레그램 그룹에 가입할 수 있습니다. 
 
 ## 소개
 
@@ -213,13 +213,13 @@ Visual Studio 아이콘을 두 번 클릭하여 Visual Studio 코드를 엽니�
 
 ![Visual studio Code](../images/vscode_ui.png)
 
-바탕 화면에 30DaysOfPython이라는 폴더를 만듭니다. 그런 다음 Visual Studio 코드를 사용하여 엽시다.
+바탕 화면에 30lessonsOfPython이라는 폴더를 만듭니다. 그런 다음 Visual Studio 코드를 사용하여 엽시다.
 
 ![Opening Project on Visual studio](../images/how_to_open_project_on_vscode.png)
 
 ![Opening a project](../images/opening_project.png)
 
-파일을 열면 30DaysOfPython 프로젝트의 디렉토리 내부에 파일과 폴더를 생성하기 위한 바로 가기가 표시됩니다. 아래에서 볼 수 있듯이 첫 번째 파일인 helloworld.py를 만들었습니다. 당신도 똑같이 할 수 있습니다.
+파일을 열면 30lessonsOfPython 프로젝트의 디렉토리 내부에 파일과 폴더를 생성하기 위한 바로 가기가 표시됩니다. 아래에서 볼 수 있듯이 첫 번째 파일인 helloworld.py를 만들었습니다. 당신도 똑같이 할 수 있습니다.
 
 ![Creating a python file](../images/helloworld.png)
 
@@ -292,7 +292,7 @@ Python에는 여러 유형의 데이터 유형이 있습니다. 가장 일반적
 'Singapore'
 'Python'
 'I love teaching'
-'I hope you are enjoying the first day of 30DaysOfPython Challenge'
+'I hope you are enjoying the first lesson of 30lessonsOfPython Challenge'
 ```
 
 #### Boolean
@@ -371,7 +371,7 @@ Python 사전 개체는 키 값 쌍 형식의 정렬되지 않은 데이터 모�
 
 ### Python 파일
 
-먼저 프로젝트 폴더인 30DaysOfPython을 엽니다. 이 폴더가 없으면 30DaysOfPython이라는 폴더 이름을 만듭니다. 이 폴더 안에 helloworld.py라는 파일을 만듭니다. 이제 Visual Studio 코드를 사용하여 Python 대화형 셸에서 수행한 작업을 수행해 보겠습니다.
+먼저 프로젝트 폴더인 30lessonsOfPython을 엽니다. 이 폴더가 없으면 30lessonsOfPython이라는 폴더 이름을 만듭니다. 이 폴더 안에 helloworld.py라는 파일을 만듭니다. 이제 Visual Studio 코드를 사용하여 Python 대화형 셸에서 수행한 작업을 수행해 보겠습니다.
 
 Python 대화형 셸은 **print**를 사용하지 않고 인쇄했지만 Visual Studio 코드에서 결과를 보려면 내장 함수 *print()를 사용해야 합니다. *print()* 내장 함수는 *print('arument1', 'argument2', 'argument3')*와 같이 하나 이상의 인수를 사용합니다. 아래 예를 참조하십시오.
 
@@ -380,7 +380,7 @@ Python 대화형 셸은 **print**를 사용하지 않고 인쇄했지만 Visual 
 파일 이름은 helloworld.py.
 
 ```py
-# Day 1 - 30DaysOfPython Challenge
+# lesson 1 - 30lessonsOfPython Challenge
 
 print(2 + 3)             # addition(+)
 print(3 - 1)             # subtraction(-)
@@ -407,7 +407,7 @@ Python 파일을 실행하려면 아래 이미지를 확인하세요. Visual Stu
 
 🌕  좋습니다. 당신은 방금 1일차 도전을 완료했고 당신은 위대한 여정에 있습니다. 이제 뇌와 근육을 위한 몇 가지 훈련을 해봅시다.
 
-## 💻 Exercises - Day 1
+## 💻 Exercises - lesson 1
 
 ### Exercise: Level 1
 
@@ -424,7 +424,7 @@ Python 파일을 실행하려면 아래 이미지를 확인하세요. Visual Stu
    - 이름
    - 가족 이름
    - 국가 이름
-   - I am enjoying 30 days of python
+   - I am enjoying 30 lessons of python
 4. 다음 데이터의 데이터 유형을 확인하십시오.:
    - 10
    - 9.8
@@ -437,7 +437,7 @@ Python 파일을 실행하려면 아래 이미지를 확인하세요. Visual Stu
 
 ### Exercise: Level 2
 
-1. 30DaysOfPython 폴더 안에 day_1이라는 폴더를 만듭니다. day_1 폴더 안에 python 파일 helloworld.py를 만들고 질문 1, 2, 3, 4를 반복하세요. Python 파일에서 작업할 때 _print()_를 사용하는 것을 잊지 마세요. 파일을 저장한 디렉토리로 이동하여 실행합니다.
+1. 30lessonsOfPython 폴더 안에 lesson_1이라는 폴더를 만듭니다. lesson_1 폴더 안에 python 파일 helloworld.py를 만들고 질문 1, 2, 3, 4를 반복하세요. Python 파일에서 작업할 때 _print()_를 사용하는 것을 잊지 마세요. 파일을 저장한 디렉토리로 이동하여 실행합니다.
 
 ### Exercise: Level 3
 
@@ -446,4 +446,4 @@ Python 파일을 실행하려면 아래 이미지를 확인하세요. Visual Stu
 
 🎉 축하합니다 ! 🎉
 
-[Day 2 >>](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[lesson 2 >>](../02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md)

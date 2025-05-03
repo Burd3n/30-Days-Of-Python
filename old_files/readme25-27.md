@@ -1,17 +1,17 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)  
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md)  
 
-- [📘 Day 25](#%f0%9f%93%98-day-25)
+- [📘 lesson 25](#%f0%9f%93%98-lesson-25)
   - [Pandas](#pandas)
   - [Importing pandas](#importing-pandas)
     - [Creating Pandas Series with default index](#creating-pandas-series-with-default-index)
@@ -32,8 +32,8 @@
     - [Formating DataFrame column](#formating-dataframe-column)
   - [Checking data types of Column values](#checking-data-types-of-column-values)
     - [Boolean Indexing](#boolean-indexing)
-  - [Exercises: Day 25](#exercises-day-25)
-- [📘 Day 26](#%f0%9f%93%98-day-26)
+  - [Exercises: lesson 25](#exercises-lesson-25)
+- [📘 lesson 26](#%f0%9f%93%98-lesson-26)
   - [Python for Web](#python-for-web)
     - [Flask](#flask)
       - [Folder structure](#folder-structure)
@@ -48,8 +48,8 @@
       - [Login to Heroku](#login-to-heroku)
       - [Create requirements and Procfile](#create-requirements-and-procfile)
       - [Pushing project to heroku](#pushing-project-to-heroku)
-  - [Exercises: Day 26](#exercises-day-26)
-- [📘 Day 27](#%f0%9f%93%98-day-27)
+  - [Exercises: lesson 26](#exercises-lesson-26)
+- [📘 lesson 27](#%f0%9f%93%98-lesson-27)
 - [Python with MongoDB](#python-with-mongodb)
   - [MongoDB](#mongodb)
     - [SQL versus NoSQL](#sql-versus-nosql)
@@ -65,9 +65,9 @@
     - [Update with query](#update-with-query)
     - [Delete Document](#delete-document)
     - [Drop a collection](#drop-a-collection)
-  - [💻 Exercises: Day 27](#%f0%9f%92%bb-exercises-day-27)
-GIVE FEEDBACK: http://thirtydayofpython-api.herokuapp.com/feedback
-# 📘 Day 25
+  - [💻 Exercises: lesson 27](#%f0%9f%92%bb-exercises-lesson-27)
+GIVE FEEDBACK: http://thirtylessonofpython-api.herokuapp.com/feedback
+# 📘 lesson 25
 ## Pandas
 
 Pandas is an open source,high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
@@ -1633,7 +1633,7 @@ df['Ages']  = df[df['Ages'] > 120]
         
 ```
 
-## Exercises: Day 25
+## Exercises: lesson 25
 1. Read the hacker_ness.csv file from data directory 
 1. Get the first five rows
 1. Get the last five rows
@@ -1642,11 +1642,11 @@ df['Ages']  = df[df['Ages'] > 120]
     * Filter the titles which contain python
     * Filter the titles which contain JavaScript
     * Explore the data and make sense of the data
-# 📘 Day 26
+# 📘 lesson 26
 
 ## Python for Web
 
-Python is a general purpose programming language and it can be used for many places. In this section, we will see how we use python for the web. There are many python web frame works. Django and Flask are the most popular ones. Today, we will see how to use Flask for web development.
+Python is a general purpose programming language and it can be used for many places. In this section, we will see how we use python for the web. There are many python web frame works. Django and Flask are the most popular ones. Tolesson, we will see how to use Flask for web development.
 
 ### Flask
 
@@ -1852,12 +1852,12 @@ app = Flask(__name__)
 @app.route('/') # this decorator create the home route
 def home ():
     techs = ['HTML', 'CSS', 'Flask', 'Python']
-    name = '30 Days Of Python Programming'
+    name = '30 lessons Of Python Programming'
     return render_template('home.html', techs=techs, name = name, title = 'Home')
 
 @app.route('/about')
 def about():
-    name = '30 Days Of Python Programming'
+    name = '30 lessons Of Python Programming'
     return render_template('about.html', name = name, title = 'About Us')
 
 @app.route('/post')
@@ -1945,9 +1945,9 @@ layout.html
       href="{{ url_for('static', filename='css/main.css') }}"
     />
     {% if title %}
-    <title>30 Days of Python - {{ title}}</title>
+    <title>30 lessons of Python - {{ title}}</title>
     {% else %}
-    <title>30 Days of Python</title>
+    <title>30 lessons of Python</title>
     {% endif %}
   </head>
 
@@ -1955,7 +1955,7 @@ layout.html
     <header>
       <div class="menu-container">
         <div>
-          <a class="brand-name nav-link" href="/">30DaysOfPython</a>
+          <a class="brand-name nav-link" href="/">30lessonsOfPython</a>
         </div>
         <ul class="nav-lists">
           <li class="nav-list">
@@ -2010,7 +2010,7 @@ about.html
 <div class="container">
   <h1>About {{name}}</h1>
   <p>
-    This is a 30 days of python programming challenge. If you have been coding
+    This is a 30 lessons of python programming challenge. If you have been coding
     this far, you are awesome. Congratulations for the job well done!
   </p>
 </div>
@@ -2023,7 +2023,7 @@ post.html
 {% extends 'layout.html' %} {% block content %}
 <div class="container">
   <h1>Text Analyzer</h1>
-  <form action="https://thirtydaysofpython-v1.herokuapp.com/post" method="POST">
+  <form action="https://thirtylessonsofpython-v1.herokuapp.com/post" method="POST">
     <div>
       <textarea rows="25" name="content" autofocus></textarea>
     </div>
@@ -2055,12 +2055,12 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 @app.route('/') # this decorator create the home route
 def home ():
     techs = ['HTML', 'CSS', 'Flask', 'Python']
-    name = '30 Days Of Python Programming'
+    name = '30 lessons Of Python Programming'
     return render_template('home.html', techs=techs, name = name, title = 'Home')
 
 @app.route('/about')
 def about():
-    name = '30 Days Of Python Programming'
+    name = '30 lessons Of Python Programming'
     return render_template('about.html', name = name, title = 'About Us')
 
 @app.route('/result')
@@ -2162,13 +2162,13 @@ Now, it is ready to be deployed. Steps to deploy the application on heroku
 5. git push heroku master
 6. heroku open(to launch the deployed application)
 
-After this step you will get an application like [this](http://thirdaysofpython-practice.herokuapp.com/)
+After this step you will get an application like [this](http://thirlessonsofpython-practice.herokuapp.com/)
 
-## Exercises: Day 26
+## Exercises: lesson 26
 
-1. You will build [this application](https://thirtydaysofpython-v1-final.herokuapp.com/). Only the text analyser part is left
+1. You will build [this application](https://thirtylessonsofpython-v1-final.herokuapp.com/). Only the text analyser part is left
 
-# 📘 Day 27
+# 📘 lesson 27
 
 # Python with MongoDB
 
@@ -2223,7 +2223,7 @@ Select python 3.6 or above driver
 Copy the connection string only link and you get something like this
 
 ```sh
-mongodb+srv://Fname:<password>@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://Fname:<password>@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority
 ```
 
 Don't worry about the url, it is a means to connect your application with mongoDB.
@@ -2231,10 +2231,10 @@ Let's replace the password placeholder with the passed you use to add a user.
 **Example:**
 
 ```sh
-mongodb+srv://Fname:123123123@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://Fname:123123123@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority
 ```
 
-Now, I replaced everything and the password is 123123 and the name of the database is thirty_days_python. This is just an example, your password must a bit strong than this.
+Now, I replaced everything and the password is 123123 and the name of the database is thirty_lessons_python. This is just an example, your password must a bit strong than this.
 
 Python needs a mongoDB driver to access mongoDB database. We will use _pymongo_ with _dnspython_ to connect our application with mongoDB base . Inside your project directory install pymongo and dnspython.
 
@@ -2250,7 +2250,7 @@ The "dnspython" module must be installed to use mongodb+srv:// URIs. The dnspyth
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 print(client.list_database_names())
 
@@ -2271,7 +2271,7 @@ When we run the above code we get the default mongoDB databases.
 
 ### Creating a database and collection
 
-Let's create a database, database and collection in mongoDB will be created if it doesn't exist. Let's create a data base name _thirty_days_of_python_ and _students_ collection.
+Let's create a database, database and collection in mongoDB will be created if it doesn't exist. Let's create a data base name _thirty_lessons_of_python_ and _students_ collection.
 To create a database
 
 ```sh
@@ -2283,10 +2283,10 @@ db = client['name_of_database']
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 # Creating database
-db = client.thirty_days_of_python
+db = client.thirty_lessons_of_python
 # Creating students collection and inserting a document
 db.students.insert_one({'name': 'Fname', 'country': 'Singapore', 'city': 'Singapore', 'age': 250})
 print(client.list_database_names())
@@ -2300,11 +2300,11 @@ if __name__ == '__main__':
 ```
 
 After we create a database, we also created a students collection and we used _insert_one_ method to insert a document.
-Now, the data _thirty_days_of_python_ and _students_ collection have been created and the document has been inserted.
+Now, the data _thirty_lessons_of_python_ and _students_ collection have been created and the document has been inserted.
 Check your mongoDB cluster and you will see both the database and the collection. Inside the collection, there will be a document.
 
 ```sh
-['thirty_days_of_python', 'admin', 'local']
+['thirty_lessons_of_python', 'admin', 'local']
 ```
 
 If you see this on the mongoDB cluster, it means you have successfully created a database and a collection.
@@ -2322,7 +2322,7 @@ We can use for loop to inset many documents at once.
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 
 students = [
@@ -2353,9 +2353,9 @@ Let's use the _find_one()_ method to get documents in the database collection.
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 student = db.students.find_one()
 print(student)
 
@@ -2381,9 +2381,9 @@ The above query returns the first entry but we can target specific document usin
 from flask import Flask, render_template
 import os # importing operating system module
 from bson.objectid import ObjectId # id object
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 student = db.students.find_one({'_id':ObjectId('5df68a23f106fe2d315bbc8c')})
 print(student)
 
@@ -2408,9 +2408,9 @@ We have seen, how to use _find_one()_ using the above examples. Let's move one t
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find()
 for student in students:
     print(student)
@@ -2437,9 +2437,9 @@ We can specify which fields to return by passing second object in the _find({}, 
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find({}, {"_id":0,  "name": 1, "country":1}) # 0 means not include and 1 means include
 for student in students:
     print(student)
@@ -2468,9 +2468,9 @@ In mongoDB find take a query object. We can pass a query object and we can filte
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find(query)
 
 for student in students:
@@ -2497,9 +2497,9 @@ Query with modifiers
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find(query)
 
 for student in students:
@@ -2526,9 +2526,9 @@ if __name__ == '__main__':
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find(query)
 
 for student in students:
@@ -2555,9 +2555,9 @@ Query with modifiers
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 query = {"age":{"$gt":30}}
 students = db.students.find(query)
 for student in students:
@@ -2582,9 +2582,9 @@ if __name__ == '__main__':
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 query = {"age":{"$gt":30}}
 students = db.students.find(query)
 for student in students:
@@ -2602,9 +2602,9 @@ We can limit the number of documents we return using the *limit()* method.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 db.students.find().limit(3)
 ```
 
@@ -2617,9 +2617,9 @@ By default, sort is in ascending order. We can change to descending by adding -1
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find().sort('name')
 for student in students:
     print(student)
@@ -2673,9 +2673,9 @@ The first person, Fname got a very implausible age. Let's update Fname's age.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 
 query = {'age':250}
 new_value = {'$set':{'age':38}}
@@ -2713,9 +2713,9 @@ Let's remove one John from the collection.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 
 query = {'name':'John'}
 db.students.delete_one(query)
@@ -2754,18 +2754,18 @@ Using the _drop()_ method we can delete a collection from a database.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30daysofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
-db = client['thirty_days_of_python'] # accessing the database
+db = client['thirty_lessons_of_python'] # accessing the database
 db.students.drop()
 ```
 Now, we have deleted the students collection from the database.
 
-## 💻 Exercises: Day 27
+## 💻 Exercises: lesson 27
 
 
 
-[<< Part 8 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md) | [Part 10 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)
+[<< Part 8 ](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md) | [Part 10 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md)
 
 ---
 

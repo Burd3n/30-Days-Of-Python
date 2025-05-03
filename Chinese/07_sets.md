@@ -9,9 +9,9 @@
 
 </div>
 
-[<< 第 6 天](../06_Day_Tuples/06_tuples.md) | [第 8 天 >>](../08_Day_Dictionaries/08_dictionaries.md)
+[<< 第 6 天](../06_lesson_Tuples/06_tuples.md) | [第 8 天 >>](../08_lesson_Dictionaries/08_dictionaries.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 - [📘 第 7 天](#-第-7-天)
   - [集合](#集合)
@@ -423,4 +423,4 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 
 🎉 恭喜！ 🎉
 
-[<< 第 6 天](../06_Day_Tuples/06_tuples.md) | [第 8 天 >>](../08_Day_Dictionaries/08_dictionaries.md)
+[<< 第 6 天](../06_lesson_Tuples/06_tuples.md) | [第 8 天 >>](../08_lesson_Dictionaries/08_dictionaries.md)

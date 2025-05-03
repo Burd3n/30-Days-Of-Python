@@ -1,19 +1,19 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md) 
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md) 
 
 ---
 
-- [📘 Day 1](#%f0%9f%93%98-day-1)
+- [📘 lesson 1](#%f0%9f%93%98-lesson-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)
   - [Why Python ?](#why-python)
@@ -36,34 +36,34 @@
       - [Set](#set)
     - [Checking Data types](#checking-data-types)
     - [Python File](#python-file)
-  - [💻 Exercises - Day 1](#%f0%9f%92%bb-exercises---day-1)
-- [📘 Day 2](#%f0%9f%93%98-day-2)
+  - [💻 Exercises - lesson 1](#%f0%9f%92%bb-exercises---lesson-1)
+- [📘 lesson 2](#%f0%9f%93%98-lesson-2)
   - [Built in functions](#built-in-functions)
   - [Variables](#variables)
   - [Data Types](#data-types-1)
   - [Checking Data types and Casting](#checking-data-types-and-casting)
   - [Number](#number-1)
-  - [💻 Exercises - Day 2](#%f0%9f%92%bb-exercises---day-2)
-- [📘 Day 3](#%f0%9f%93%98-day-3)
+  - [💻 Exercises - lesson 2](#%f0%9f%92%bb-exercises---lesson-2)
+- [📘 lesson 3](#%f0%9f%93%98-lesson-3)
   - [Boolean](#boolean)
   - [Operators:](#operators)
     - [Assignment Operators:](#assignment-operators)
     - [Arithmetic Operators:](#arithmetic-operators)
     - [Comparison Operators](#comparison-operators)
     - [Logical Operators](#logical-operators)
-  - [💻 Exercises - Day 3](#%f0%9f%92%bb-exercises---day-3)
+  - [💻 Exercises - lesson 3](#%f0%9f%92%bb-exercises---lesson-3)
 
-# 📘 Day 1
+# 📘 lesson 1
 
 ## Welcome
 
-**Congratulations** for deciding to participate in a **_30 days of Python_** programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concepts of programming. In the end of the challenge you will get a **_30DaysOfPython_** programming challenge certificate.
+**Congratulations** for deciding to participate in a **_30 lessons of Python_** programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concepts of programming. In the end of the challenge you will get a **_30lessonsOfPython_** programming challenge certificate.
 
-[Join the telegram channel to get help](https://t.me/ThirtyDaysOfPython)
+[Join the telegram channel to get help](https://t.me/ThirtylessonsOfPython)
 
 ## Introduction
 
-Python is a high-level programming language for general-purpose programming. It is an open source. This 30 days python challenge will help you learn the latest version of Python, Python 3 step by step. The topics are broken down into 30 days, where each days contains several topics with easy-to-understand explanations, real-world examples and many hands on exercises.
+Python is a high-level programming language for general-purpose programming. It is an open source. This 30 lessons python challenge will help you learn the latest version of Python, Python 3 step by step. The topics are broken down into 30 lessons, where each lessons contains several topics with easy-to-understand explanations, real-world examples and many hands on exercises.
 
 This challenge is designed for beginners and professionals who want to learn python programming language.
 
@@ -166,7 +166,7 @@ Before we move on to the next section, lets practice more on the python interact
 
 ### Installing Visual Studio Code
 
-The python interactive shell is good to try and test small script codes but it won't be for a big project. In real work environment, developers use different code editors to write codes. In this 30 days of python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
+The python interactive shell is good to try and test small script codes but it won't be for a big project. In real work environment, developers use different code editors to write codes. In this 30 lessons of python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
 
 [![Visual Studio Code](./images/vscode.png)](https://code.visualstudio.com/)
 
@@ -178,17 +178,17 @@ Open the visual studio code by double clicking the visual studio icon. When you 
 
 ![Visual studio Code](images/vscode_ui.png)
 
-Create a folder name 30DaysOfPython on your desktop. Then open it using visual studio code.
+Create a folder name 30lessonsOfPython on your desktop. Then open it using visual studio code.
 
 ![Opening Project on Visual studio](./images/how_to_open_project_on_vscode.png)
 
 ![Opening a project](./images/opening_project.png)
 
-After you opened you can create file and folder inside the your project directory which is 30DaysOfPython. As you can see below, I have created the very first file, helloworld.py. You can do the same.
+After you opened you can create file and folder inside the your project directory which is 30lessonsOfPython. As you can see below, I have created the very first file, helloworld.py. You can do the same.
 
 ![Creating a python file](./images/helloworld.png)
 
-After a long day of coding, you want to close your code editor, right ?. This is how you will close the opened project.
+After a long lesson of coding, you want to close your code editor, right ?. This is how you will close the opened project.
 
 ![Closing project](./images/closing_opened_project.png)
 
@@ -257,7 +257,7 @@ A collection of one or more characters under a single or double quote. If a stri
 'Singapore'
 'Python'
 'I love teaching'
-'I hope you are enjoying the first day'
+'I hope you are enjoying the first lesson'
 ```
 
 #### Booleans
@@ -322,14 +322,14 @@ To check the data type of a certain data type we use the **type** function. In t
 
 ### Python File
 
-First open your project folder, 30DaysOfPython. If you don't have this folder,create a folder name called 30DaysOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
+First open your project folder, 30lessonsOfPython. If you don't have this folder,create a folder name called 30lessonsOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
 The python interactive shell was printing without using **print** but on visual studio code to see our result we should use a built in function **print(some data to print)**.
 
 **Example:**
 helloworld.py
 
 ```py
-# Day 1 - 30DaysOfPython Challenge
+# lesson 1 - 30lessonsOfPython Challenge
 print(2 + 3)             # addition(+)
 print(3 - 1)             # subtraction(-)
 print(2 * 3)             # multiplication(*)
@@ -351,9 +351,9 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 
 ![Running python script](./images/running_python_script.png)
 
-🌕  You are amazing. You have just completed day 1 challenge and you are in your way to greatness. Now do some exercises for your brain and for your muscle.
+🌕  You are amazing. You have just completed lesson 1 challenge and you are in your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## 💻 Exercises - Day 1
+## 💻 Exercises - lesson 1
 
 1. Check the python version you are using
 2. Open the python interactive shell and do the following operations. The operands are 3 and 4. Check the example above
@@ -368,7 +368,7 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
    - Your name
    - Your family name
    - Your country
-   - I am enjoying 30 days of python
+   - I am enjoying 30 lessons of python
 4. Check the data types of the following data:
    - 10
    - 9.8
@@ -378,9 +378,9 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
    - Your name
    - Your family name
    - Your country
-5. Create a folder name day_1 inside 30DaysOfPython folder. Inside day_1 folder, create a file python file helloword.py and repeat question 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you saved your file, and run it.
+5. Create a folder name lesson_1 inside 30lessonsOfPython folder. Inside lesson_1 folder, create a file python file helloword.py and repeat question 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you saved your file, and run it.
 
-# 📘 Day 2
+# 📘 lesson 2
 
 ## Built in functions
 
@@ -603,10 +603,10 @@ Numbers are python data types.
     Example:
         1 + j, 2 + 4j, 1 - 1j
 
-## 💻 Exercises - Day 2
+## 💻 Exercises - lesson 2
 
-1. Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file name called variables.py
-2. Writ a python comment saying 'Day 2: 30 Days of python programming'
+1. Inside 30lessonsOfPython create a folder called lesson_2. Inside this folder create a file name called variables.py
+2. Writ a python comment saying 'lesson 2: 30 lessons of python programming'
 3. Declare a first name variable and assign a value to it
 4. Declare a last name variable and assign a value to it
 5. Declare a full name variable and assign a value to it
@@ -636,7 +636,7 @@ Numbers are python data types.
 19. Use the built-in input function to get first name, last name, country and age from a user and store the value to their corresponding variable names
 20. Run help('keywords') on python shell or in your file check the reserved words
 
-# 📘 Day 3
+# 📘 lesson 3
 
 ## Boolean
 
@@ -852,7 +852,7 @@ print(not not True)  # True
 print(not not False) # False
 ```
 
-## 💻 Exercises - Day 3
+## 💻 Exercises - lesson 3
 
 1. Declare your age as integer variable
 2. Declare your height as a float variable
@@ -914,4 +914,4 @@ You lived 3153600000 seconds.
 5 1 5 25 125
 ```
 
-[Part 2 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)
+[Part 2 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)

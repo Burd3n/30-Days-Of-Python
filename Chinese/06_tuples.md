@@ -11,7 +11,7 @@
 
 [<< 第五天](./05_lists.md) | [第七天 >>](./07_sets.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 - [第六天:](#第六天)
   - [元组](#元组)

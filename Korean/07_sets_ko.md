@@ -1,13 +1,13 @@
-<div align="center">   <h1> 30 Days Of Python: Day 7 - Sets</h1>   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&amp;logo=linkedin&amp;style=social">   </a>   <a class="header-badge" target="_blank" href="https://twitter.com/Fname">   <img src="https://img.shields.io/twitter/follow/Fname?style=social" alt="Twitter Follow">   </a>
+<div align="center">   <h1> 30 lessons Of Python: lesson 7 - Sets</h1>   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/">   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&amp;logo=linkedin&amp;style=social">   </a>   <a class="header-badge" target="_blank" href="https://twitter.com/Fname">   <img src="https://img.shields.io/twitter/follow/Fname?style=social" alt="Twitter Follow">   </a>
 </div>
 <p data-md-type="paragraph"><sub data-md-type="raw_html">Author: <a data-md-type="raw_html" href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br> <small data-md-type="raw_html"> Second Edition: July, 2021</small></sub></p>
 <div data-md-type="block_html"></div>
 
-[&lt;&lt; Day 6](../06_Day_Tuples/06_tuples.md) | [Day 8 &gt;&gt;](../08_Day_Dictionaries/08_dictionaries.md)
+[&lt;&lt; lesson 6](../06_lesson_Tuples/06_tuples.md) | [lesson 8 &gt;&gt;](../08_lesson_Dictionaries/08_dictionaries.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
-- [📘 Day 7](#-day-7)
+- [📘 lesson 7](#-lesson-7)
     - [Sets](#sets)
         - [세트 만들기](#세트-만들기)
         - [세트의 길이 구하기](#세트의-길이-구하기)
@@ -24,12 +24,12 @@
         - [두 세트 간의 차이 확인](#두-세트-간의-차이-확인)
         - [두 집합 간의 대칭적 차이 찾기](#두-집합-간의-대칭적-차이-찾기)
         - [집합 결합](#집합-결합)
-    - [💻 Exercises: Day 7](#-exercises-day-7)
+    - [💻 Exercises: lesson 7](#-exercises-lesson-7)
         - [Exercises: Level 1](#exercises-level-1)
         - [Exercises: Level 2](#exercises-level-2)
         - [Exercises: Level 3](#exercises-level-3)
 
-# 📘 Day 7
+# 📘 lesson 7
 
 ## Sets
 
@@ -378,7 +378,7 @@ python.isdisjoint(dragon)  # False, there are common items {'o', 'n'}
 
 🌕 당신은 떠오르는 별입니다. 당신은 방금 7일차 챌린지를 완료했으며 위대함을 향한 당신의 길에 7걸음 앞서 있습니다. 이제 뇌와 근육을 위한 몇 가지 훈련을 하십시오.
 
-## 💻 Exercises: Day 7
+## 💻 Exercises: lesson 7
 
 ```py
 # sets
@@ -414,4 +414,4 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 
 🎉 축하합니다! 🎉
 
-[&lt;&lt; 6일차](../06_Day_Tuples/06_tuples.md) | [8일차 &gt;&gt;](../08_Day_Dictionaries/08_dictionaries.md)
+[&lt;&lt; 6일차](../06_lesson_Tuples/06_tuples.md) | [8일차 &gt;&gt;](../08_lesson_Dictionaries/08_dictionaries.md)

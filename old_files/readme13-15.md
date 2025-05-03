@@ -1,25 +1,25 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)  
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md)  
 
 ---
 
-- [📘 Day 13](#%f0%9f%93%98-day-13)
+- [📘 lesson 13](#%f0%9f%93%98-lesson-13)
   - [List Comprehension](#list-comprehension)
   - [Lambda Function](#lambda-function)
     - [Creating a lambda function](#creating-a-lambda-function)
     - [Lambda function inside other function](#lambda-function-inside-other-function)
-  - [💻 Exercises: Day 13](#%f0%9f%92%bb-exercises-day-13)
-- [📘 Day 14](#%f0%9f%93%98-day-14)
+  - [💻 Exercises: lesson 13](#%f0%9f%92%bb-exercises-lesson-13)
+- [📘 lesson 14](#%f0%9f%93%98-lesson-14)
   - [Higher Order Functions](#higher-order-functions)
     - [Function as a parameter](#function-as-a-parameter)
     - [Function as a return value](#function-as-a-return-value)
@@ -32,8 +32,8 @@
     - [Python - Map Function](#python---map-function)
     - [Python - Filter Function](#python---filter-function)
     - [Python - Reduce Function](#python---reduce-function)
-  - [💻 Exercises: Day 14](#%f0%9f%92%bb-exercises-day-14)
-- [📘 Day 15](#%f0%9f%93%98-day-15)
+  - [💻 Exercises: lesson 14](#%f0%9f%92%bb-exercises-lesson-14)
+- [📘 lesson 15](#%f0%9f%93%98-lesson-15)
   - [Python Error Types](#python-error-types)
     - [SyntaxError](#syntaxerror)
     - [NameError](#nameerror)
@@ -45,9 +45,9 @@
     - [ImportError](#importerror)
     - [ValueError](#valueerror)
     - [ZeroDivisionError](#zerodivisionerror)
-  - [💻 Exercises: Day 15](#%f0%9f%92%bb-exercises-day-15)
-GIVE FEEDBACK: http://thirtydayofpython-api.herokuapp.com/feedback
-# 📘 Day 13
+  - [💻 Exercises: lesson 15](#%f0%9f%92%bb-exercises-lesson-15)
+GIVE FEEDBACK: http://thirtylessonofpython-api.herokuapp.com/feedback
+# 📘 lesson 13
 
 ## List Comprehension
 
@@ -168,7 +168,7 @@ cube = power(2)(3) # 8
 two_power_of_five = power(2)(5) # 32
 ```
 
-## 💻 Exercises: Day 13
+## 💻 Exercises: lesson 13
 
 1. Filter only negative or zero in the list using list comprehension
    ```py
@@ -219,7 +219,7 @@ two_power_of_five = power(2)(5) # 32
    ```
 1. Write a lambda function which can solve slope or y-intercept.
 
-# 📘 Day 14
+# 📘 lesson 14
 
 ## Higher Order Functions
 
@@ -511,7 +511,7 @@ total = reduce(add_two, numbers_str)
 print(total)    # 15
 ```
 
-## 💻 Exercises: Day 14
+## 💻 Exercises: lesson 14
 
 ```py
 countries = ['Estonia', 'Singapore', 'Sweden', 'Denmark', 'Norway', 'Iceland']
@@ -536,17 +536,17 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 1. Declare a function called get_string_lists which takes an list as a parameter and then returns an list only with string items.
 1. Use reduce to sum all the numbers in the numbers list.
 1. Use reduce to concatenate all the countries and to produce this sentence: Estonia, Singapore, Sweden, Denmark, Norway, and IceLand are north European countries
-1. Declare a function called categorize_countries which returns an list of countries which have some common pattern(you find the [countries list](https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries.py) in this repository as countries.js(eg 'land', 'ia', 'island', 'stan')).
+1. Declare a function called categorize_countries which returns an list of countries which have some common pattern(you find the [countries list](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/countries.py) in this repository as countries.js(eg 'land', 'ia', 'island', 'stan')).
 1. Create a function which return a list of dictionary, which is the letter and the number of times the letter used to start a name of a country.
 1. Declare a get_first_ten_countries function and return an list of ten countries from the countries.js list in the data folder.
 1. Declare a get_last_ten_countries function which which returns the last ten countries in the countries list.
-1. Find out which letter is used many times as initial for a country name from the [countries list](https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries-data.py)(eg. Singapore, Fiji, France etc)
+1. Find out which letter is used many times as initial for a country name from the [countries list](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/countries-data.py)(eg. Singapore, Fiji, France etc)
 1. Use the countries_data.py file information, in the data folder.
    - Sort countries by name, by capital, by population
    - Sort out the ten most spoken languages by location.
    - Sort out the ten most populated countries.
 
-# 📘 Day 15
+# 📘 lesson 15
 
 ## Python Error Types
 
@@ -881,10 +881,10 @@ We can not divide a number by zero.
 We have covered some of the python error types, if you want to check more about it check the python documentation about python error types.
 If you are good at reading the error types then you will be able to fix your bugs fast and you will be also a better programmer.
 
-## 💻 Exercises: Day 15
+## 💻 Exercises: lesson 15
 
 1. Open you python interactive shell and try all the examples covered in this section.
 
-[<< Part 4 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md) | [Part 6 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)
+[<< Part 4 ](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md) | [Part 6 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)
 
 ---

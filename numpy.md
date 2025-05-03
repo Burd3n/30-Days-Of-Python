@@ -1,4 +1,4 @@
-- [📘 Day 24](#-day-24)
+- [📘 lesson 24](#-lesson-24)
   - [Python for Statistical Analysis](#python-for-statistical-analysis)
   - [Statistics](#statistics)
   - [Data](#data)
@@ -44,9 +44,9 @@
     - [Linear Algebra](#linear-algebra)
     - [NumPy Matrix Multiplication with np.matmul()](#numpy-matrix-multiplication-with-npmatmul)
 - [Summery](#summery)
-  - [💻 Exercises: Day 24](#-exercises-day-24)
+  - [💻 Exercises: lesson 24](#-exercises-lesson-24)
 
-# 📘 Day 24
+# 📘 lesson 24
 
 ## Python for Statistical Analysis
 
@@ -77,7 +77,7 @@ Numpy is the core library for scientific computing in Python. It provides a high
 So far, we have been using vscode but from now on I would recommend using Jupyter Notebook. To access jupter notebook let's install [anaconda](https://www.anaconda.com/). If you are using anaconda most of the common packages are included and you don't have install packages if you installed anaconda.
 
 ```sh
-Fname@Fname:~/Desktop/30DaysOfPython$ pip install numpy
+Fname@Fname:~/Desktop/30lessonsOfPython$ pip install numpy
 ```
 
 ## Importing NumPy
@@ -1250,6 +1250,6 @@ To summarise, the main differences with python lists are:
 1. An equivalent numpy array occupies much less space than a python list of lists.
 1. numpy arrays support boolean indexing.
 
-## 💻 Exercises: Day 24
+## 💻 Exercises: lesson 24
 
 1. Repeat all the examples

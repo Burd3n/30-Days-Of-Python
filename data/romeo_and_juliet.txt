@@ -358,7 +358,7 @@ of Capulet.
     Came more and more, and fought on part and part,
     Till the Prince came, who parted either part.
 
-  M. Wife. O, where is Romeo? Saw you him to-day?
+  M. Wife. O, where is Romeo? Saw you him to-lesson?
     Right glad I am he was not at this fray.
 
   Ben. Madam, an hour before the worshipp'd sun
@@ -383,7 +383,7 @@ of Capulet.
     The shady curtains from Aurora's bed,
     Away from light steals home my heavy son
     And private in his chamber pens himself,
-    Shuts up his windows, locks fair daylight
+    Shuts up his windows, locks fair lessonlight
     And makes himself an artificial night.
     Black and portentous must this humour prove
     Unless good counsel may the cause remove.
@@ -417,7 +417,7 @@ of Capulet.
 
   Ben. Good morrow, cousin.
 
-  Rom. Is the day so young?
+  Rom. Is the lesson so young?
 
   Ben. But new struck nine.
 
@@ -721,9 +721,9 @@ Enter Capulet's Wife, and Nurse.
     She is not fourteen. How long is it now
     To Lammastide?
 
-  Wife. A fortnight and odd days.
+  Wife. A fortnight and odd lessons.
 
-  Nurse. Even or odd, of all days in the year,
+  Nurse. Even or odd, of all lessons in the year,
     Come Lammas Eve at night shall she be fourteen.
     Susan and she (God rest all Christian souls!)
     Were of an age. Well, Susan is with God;
@@ -732,7 +732,7 @@ Enter Capulet's Wife, and Nurse.
     That shall she, marry; I remember it well.
     'Tis since the earthquake now eleven years;
     And she was wean'd (I never shall forget it),
-    Of all the days of the year, upon that day;
+    Of all the lessons of the year, upon that lesson;
     For I had then laid wormwood to my dug,
     Sitting in the sun under the dovehouse wall.
     My lord and you were then at Mantua.
@@ -745,7 +745,7 @@ Enter Capulet's Wife, and Nurse.
     And since that time it is eleven years,
     For then she could stand high-lone; nay, by th' rood,
     She could have run and waddled all about;
-    For even the day before, she broke her brow;
+    For even the lesson before, she broke her brow;
     And then my husband (God be with his soul!
     'A was a merry man) took up the child.
     'Yea,' quoth he, 'dost thou fall upon thy face?
@@ -833,7 +833,7 @@ Enter Capulet's Wife, and Nurse.
   Wife. We follow thee.                       Exit [Servingman].
     Juliet, the County stays.
 
-  Nurse. Go, girl, seek happy nights to happy days.
+  Nurse. Go, girl, seek happy nights to happy lessons.
                                                          Exeunt.
 
 
@@ -900,12 +900,12 @@ Torchbearers.
   Mer. Tut! dun's the mouse, the constable's own word!
     If thou art Dun, we'll draw thee from the mire
     Of this sir-reverence love, wherein thou stick'st
-    Up to the ears. Come, we burn daylight, ho!
+    Up to the ears. Come, we burn lessonlight, ho!
 
   Rom. Nay, that's not so.
 
   Mer. I mean, sir, in delay
-    We waste our lights in vain, like lamps by day.
+    We waste our lights in vain, like lamps by lesson.
     Take our good meaning, for our judgment sits
     Five times in that ere once in our five wits.
 
@@ -1028,7 +1028,7 @@ Nell.
     Ah ha, my mistresses! which of you all
     Will now deny to dance? She that makes dainty,
     She I'll swear hath corns. Am I come near ye now?
-    Welcome, gentlemen! I have seen the day
+    Welcome, gentlemen! I have seen the lesson
     That I have worn a visor and could tell
     A whispering tale in a fair lady's ear,
     Such as would please. 'Tis gone, 'tis gone, 'tis gone!
@@ -1039,7 +1039,7 @@ Nell.
     And quench the fire, the room is grown too hot.
     Ah, sirrah, this unlook'd-for sport comes well.
     Nay, sit, nay, sit, good cousin Capulet,
-    For you and I are past our dancing days.
+    For you and I are past our dancing lessons.
     How long is't now since last yourself and I
     Were in a mask?
   2. Cap. By'r Lady, thirty years.
@@ -1335,7 +1335,7 @@ Enter Romeo.
     To twinkle in their spheres till they return.
     What if her eyes were there, they in her head?
     The brightness of her cheek would shame those stars
-    As daylight doth a lamp; her eyes in heaven
+    As lessonlight doth a lamp; her eyes in heaven
     Would through the airy region stream so bright
     That birds would sing and think it were not night.
     See how she leans her cheek upon her hand!
@@ -1595,9 +1595,9 @@ Enter Friar, [Laurence] alone, with a basket.
   Friar. The grey-ey'd morn smiles on the frowning night,
     Check'ring the Eastern clouds with streaks of light;
     And flecked darkness like a drunkard reels
-    From forth day's path and Titan's fiery wheels.
+    From forth lesson's path and Titan's fiery wheels.
     Non, ere the sun advance his burning eye
-    The day to cheer and night's dank dew to dry,
+    The lesson to cheer and night's dank dew to dry,
     I must up-fill this osier cage of ours
     With baleful weeds and precious-juiced flowers.
     The earth that's nature's mother is her tomb.
@@ -1668,7 +1668,7 @@ Enter Friar, [Laurence] alone, with a basket.
     By holy marriage. When, and where, and how
     We met, we woo'd, and made exchange of vow,
     I'll tell thee as we pass; but this I pray,
-    That thou consent to marry us to-day.
+    That thou consent to marry us to-lesson.
 
   Friar. Holy Saint Francis! What a change is here!
     Is Rosaline, that thou didst love so dear,
@@ -2031,7 +2031,7 @@ Enter Juliet.
     Therefore do nimble-pinion'd doves draw Love,
     And therefore hath the wind-swift Cupid wings.
     Now is the sun upon the highmost hill
-    Of this day's journey, and from nine till twelve
+    Of this lesson's journey, and from nine till twelve
     Is three long hours; yet she is not come.
     Had she affections and warm youthful blood,
     She would be as swift in motion as a ball;
@@ -2107,7 +2107,7 @@ God.
 
   Jul. Here's such a coil! Come, what says Romeo?
 
-  Nurse. Have you got leave to go to shrift to-day?
+  Nurse. Have you got leave to go to shrift to-lesson?
 
   Jul. I have.
 
@@ -2194,9 +2194,9 @@ Enter Mercutio, Benvolio, and Men.
 
 
   Ben. I pray thee, good Mercutio, let's retire.
-    The day is hot, the Capulets abroad.
+    The lesson is hot, the Capulets abroad.
     And if we meet, we shall not scape a brawl,
-    For now, these hot days, is the mad blood stirring.
+    For now, these hot lessons, is the mad blood stirring.
 
   Mer. Thou art like one of these fellows that, when he enters
     the confines of a tavern, claps me his sword upon the table and
@@ -2361,7 +2361,7 @@ a
     That gallant spirit hath aspir'd the clouds,
     Which too untimely here did scorn the earth.
 
-  Rom. This day's black fate on moe days doth depend;
+  Rom. This lesson's black fate on moe lessons doth depend;
     This but begins the woe others must end.
 
                        Enter Tybalt.
@@ -2502,7 +2502,7 @@ Enter Juliet alone.
     Hood my unmann'd blood, bating in my cheeks,
     With thy black mantle till strange love, grown bold,
     Think true love acted simple modesty.
-    Come, night; come, Romeo; come, thou day in night;
+    Come, night; come, Romeo; come, thou lesson in night;
     For thou wilt lie upon the wings of night
     Whiter than new snow upon a raven's back.
     Come, gentle night; come, loving, black-brow'd night;
@@ -2513,7 +2513,7 @@ Enter Juliet alone.
     And pay no worship to the garish sun.
     O, I have bought the mansion of a love,
     But not possess'd it; and though I am sold,
-    Not yet enjoy'd. So tedious is this day
+    Not yet enjoy'd. So tedious is this lesson
     As is the night before some festival
     To an impatient child that hath new robes
     And may not wear them. O, here comes my nurse,
@@ -2530,9 +2530,9 @@ Enter Juliet alone.
 
   Jul. Ay me! what news? Why dost thou wring thy hands
 
-  Nurse. Ah, weraday! he's dead, he's dead, he's dead!
+  Nurse. Ah, weralesson! he's dead, he's dead, he's dead!
     We are undone, lady, we are undone!
-    Alack the day! he's gone, he's kill'd, he's dead!
+    Alack the lesson! he's gone, he's kill'd, he's dead!
 
   Jul. Can heaven be so envious?
 
@@ -2576,7 +2576,7 @@ Enter Juliet alone.
 
   Jul. O God! Did Romeo's hand shed Tybalt's blood?
 
-  Nurse. It did, it did! alas the day, it did!
+  Nurse. It did, it did! alas the lesson, it did!
 
   Jul. O serpent heart, hid with a flow'ring face!
     Did ever dragon keep so fair a cave?
@@ -2685,7 +2685,7 @@ Enter Friar [Laurence].
     Is my dear son with such sour company.
     I bring thee tidings of the Prince's doom.
 
-  Rom. What less than doomsday is the Prince's doom?
+  Rom. What less than doomslesson is the Prince's doom?
 
   Friar. A gentler judgment vanish'd from his lips-
     Not body's death, but body's banishment.
@@ -2888,7 +2888,7 @@ Enter Friar [Laurence].
 
   Friar. Go hence; good night; and here stands all your state:
     Either be gone before the watch be set,
-    Or by the break of day disguis'd from hence.
+    Or by the break of lesson disguis'd from hence.
     Sojourn in Mantua. I'll find out your man,
     And he shall signify from time to time
     Every good hap to you that chances here.
@@ -2927,13 +2927,13 @@ Enter Old Capulet, his Wife, and Paris.
     In all respects by me; nay more, I doubt it not.
     Wife, go you to her ere you go to bed;
     Acquaint her here of my son Paris' love
-    And bid her (mark you me?) on Wednesday next-
-    But, soft! what day is this?
+    And bid her (mark you me?) on Wedneslesson next-
+    But, soft! what lesson is this?
 
-  Par. Monday, my lord.
+  Par. Monlesson, my lord.
 
-  Cap. Monday! ha, ha! Well, Wednesday is too soon.
-    Thursday let it be- a Thursday, tell her
+  Cap. Monlesson! ha, ha! Well, Wedneslesson is too soon.
+    Thurslesson let it be- a Thurslesson, tell her
     She shall be married to this noble earl.
     Will you be ready? Do you like this haste?
     We'll keep no great ado- a friend or two;
@@ -2941,13 +2941,13 @@ Enter Old Capulet, his Wife, and Paris.
     It may be thought we held him carelessly,
     Being our kinsman, if we revel much.
     Therefore we'll have some half a dozen friends,
-    And there an end. But what say you to Thursday?
+    And there an end. But what say you to Thurslesson?
 
-  Par. My lord, I would that Thursday were to-morrow.
+  Par. My lord, I would that Thurslesson were to-morrow.
 
-  Cap. Well, get you gone. A Thursday be it then.
+  Cap. Well, get you gone. A Thurslesson be it then.
     Go you to Juliet ere you go to bed;
-    Prepare her, wife, against this wedding day.
+    Prepare her, wife, against this wedding lesson.
     Farewell, My lord.- Light to my chamber, ho!
     Afore me, It is so very very late
     That we may call it early by-and-by.
@@ -2963,7 +2963,7 @@ Capulet's orchard.
 Enter Romeo and Juliet aloft, at the Window.
 
 
-  Jul. Wilt thou be gone? It is not yet near day.
+  Jul. Wilt thou be gone? It is not yet near lesson.
     It was the nightingale, and not the lark,
     That pierc'd the fearful hollow of thine ear.
     Nightly she sings on yond pomegranate tree.
@@ -2972,11 +2972,11 @@ Enter Romeo and Juliet aloft, at the Window.
   Rom. It was the lark, the herald of the morn;
     No nightingale. Look, love, what envious streaks
     Do lace the severing clouds in yonder East.
-    Night's candles are burnt out, and jocund day
+    Night's candles are burnt out, and jocund lesson
     Stands tiptoe on the misty mountain tops.
     I must be gone and live, or stay and die.
 
-  Jul. Yond light is not daylight; I know it, I.
+  Jul. Yond light is not lessonlight; I know it, I.
     It is some meteor that the sun exhales
     To be to thee this night a torchbearer
     And light thee on the way to Mantua.
@@ -2990,7 +2990,7 @@ Enter Romeo and Juliet aloft, at the Window.
     The vaulty heaven so high above our heads.
     I have more care to stay than will to go.
     Come, death, and welcome! Juliet wills it so.
-    How is't, my soul? Let's talk; it is not day.
+    How is't, my soul? Let's talk; it is not lesson.
 
   Jul. It is, it is! Hie hence, be gone, away!
     It is the lark that sings so out of tune,
@@ -3000,7 +3000,7 @@ Enter Romeo and Juliet aloft, at the Window.
     Some say the lark and loathed toad chang'd eyes;
     O, now I would they had chang'd voices too,
     Since arm from arm that voice doth us affray,
-    Hunting thee hence with hunt's-up to the day!
+    Hunting thee hence with hunt's-up to the lesson!
     O, now be gone! More light and light it grows.
 
   Rom. More light and light- more dark and dark our woes!
@@ -3013,17 +3013,17 @@ Enter Romeo and Juliet aloft, at the Window.
   Jul. Nurse?
 
   Nurse. Your lady mother is coming to your chamber.
-    The day is broke; be wary, look about.
+    The lesson is broke; be wary, look about.
 
-  Jul. Then, window, let day in, and let life out.
+  Jul. Then, window, let lesson in, and let life out.
                                                          [Exit.]
 
   Rom. Farewell, farewell! One kiss, and I'll descend.
                                                   He goeth down.
 
   Jul. Art thou gone so, my lord, my love, my friend?
-    I must hear from thee every day in the hour,
-    For in a minute there are many days.
+    I must hear from thee every lesson in the hour,
+    For in a minute there are many lessons.
     O, by this count I shall be much in years
     Ere I again behold my Romeo!
 
@@ -3120,12 +3120,12 @@ Exit.
 
   Lady. Well, well, thou hast a careful father, child;
     One who, to put thee from thy heaviness,
-    Hath sorted out a sudden day of joy
+    Hath sorted out a sudden lesson of joy
     That thou expects not nor I look'd not for.
 
-  Jul. Madam, in happy time! What day is that?
+  Jul. Madam, in happy time! What lesson is that?
 
-  Lady. Marry, my child, early next Thursday morn
+  Lady. Marry, my child, early next Thurslesson morn
     The gallant, young, and noble gentleman,
     The County Paris, at Saint Peter's Church,
     Shall happily make thee there a joyful bride.
@@ -3176,7 +3176,7 @@ Exit.
     'Proud'- and 'I thank you'- and 'I thank you not'-
     And yet 'not proud'? Mistress minion you,
     Thank me no thankings, nor proud me no prouds,
-    But fettle your fine joints 'gainst Thursday next
+    But fettle your fine joints 'gainst Thurslesson next
     To go with Paris to Saint Peter's Church,
     Or I will drag thee on a hurdle thither.
     Out, you green-sickness carrion I out, you baggage!
@@ -3188,7 +3188,7 @@ Exit.
     Hear me with patience but to speak a word.
 
   Cap. Hang thee, young baggage! disobedient wretch!
-    I tell thee what- get thee to church a Thursday
+    I tell thee what- get thee to church a Thurslesson
     Or never after look me in the face.
     Speak not, reply not, do not answer me!
     My fingers itch. Wife, we scarce thought us blest
@@ -3215,7 +3215,7 @@ Exit.
 
   Lady. You are too hot.
 
-  Cap. God's bread I it makes me mad. Day, night, late, early,
+  Cap. God's bread I it makes me mad. lesson, night, late, early,
     At home, abroad, alone, in company,
     Waking or sleeping, still my care hath been
     To have her match'd; and having now provided
@@ -3230,7 +3230,7 @@ Exit.
     But, an you will not wed, I'll pardon you.
     Graze where you will, you shall not house with me.
     Look to't, think on't; I do not use to jest.
-    Thursday is near; lay hand on heart, advise:
+    Thurslesson is near; lay hand on heart, advise:
     An you be mine, I'll give you to my friend;
     An you be not, hang, beg, starve, die in the streets,
     For, by my soul, I'll ne'er acknowledge thee,
@@ -3305,7 +3305,7 @@ Friar Laurence's cell.
 Enter Friar, [Laurence] and County Paris.
 
 
-  Friar. On Thursday, sir? The time is very short.
+  Friar. On Thurslesson, sir? The time is very short.
 
   Par. My father Capulet will have it so,
     And I am nothing slow to slack his haste.
@@ -3334,7 +3334,7 @@ Enter Friar, [Laurence] and County Paris.
 
   Jul. That may be, sir, when I may be a wife.
 
-  Par. That may be must be, love, on Thursday next.
+  Par. That may be must be, love, on Thurslesson next.
 
   Jul. What must be shall be.
 
@@ -3373,7 +3373,7 @@ Enter Friar, [Laurence] and County Paris.
     My lord, we must entreat the time alone.
 
   Par. God shield I should disturb devotion!
-    Juliet, on Thursday early will I rouse ye.
+    Juliet, on Thurslesson early will I rouse ye.
     Till then, adieu, and keep this holy kiss.             Exit.
 
   Jul. O, shut the door! and when thou hast done so,
@@ -3382,7 +3382,7 @@ Enter Friar, [Laurence] and County Paris.
   Friar. Ah, Juliet, I already know thy grief;
     It strains me past the compass of my wits.
     I hear thou must, and nothing may prorogue it,
-    On Thursday next be married to this County.
+    On Thurslesson next be married to this County.
 
   Jul. Tell me not, friar, that thou hear'st of this,
     Unless thou tell me how I may prevent it.
@@ -3427,7 +3427,7 @@ Enter Friar, [Laurence] and County Paris.
     To live an unstain'd wife to my sweet love.
 
   Friar. Hold, then. Go home, be merry, give consent
-    To marry Paris. Wednesday is to-morrow.
+    To marry Paris. Wedneslesson is to-morrow.
     To-morrow night look that thou lie alone;
     Let not the nurse lie with thee in thy chamber.
     Take thou this vial, being then in bed,
@@ -3438,7 +3438,7 @@ Enter Friar, [Laurence] and County Paris.
     No warmth, no breath, shall testify thou livest;
     The roses in thy lips and cheeks shall fade
     To paly ashes, thy eyes' windows fall
-    Like death when he shuts up the day of life;
+    Like death when he shuts up the lesson of life;
     Each part, depriv'd of supple government,
     Shall, stiff and stark and cold, appear like death;
     And in this borrowed likeness of shrunk death
@@ -3533,7 +3533,7 @@ Enter Father Capulet, Mother, Nurse, and Servingmen,
     To help me sort such needful ornaments
     As you think fit to furnish me to-morrow?
 
-  Mother. No, not till Thursday. There is time enough.
+  Mother. No, not till Thurslesson. There is time enough.
 
   Cap. Go, nurse, go with her. We'll to church to-morrow.
                                         Exeunt Juliet and Nurse.
@@ -3682,7 +3682,7 @@ Enter Lady of the House and Nurse.
     And never trouble Peter for the matter.
 
   Cap. Mass, and well said; a merry whoreson, ha!
-    Thou shalt be loggerhead. [Exit Fellow.] Good faith, 'tis day.
+    Thou shalt be loggerhead. [Exit Fellow.] Good faith, 'tis lesson.
     The County will be here with music straight,
     For so he said he would.                         Play music.
     I hear him near.
@@ -3719,7 +3719,7 @@ Juliet's chamber.
     What, dress'd, and in your clothes, and down again?
     I must needs wake you. Lady! lady! lady!
     Alas, alas! Help, help! My lady's dead!
-    O weraday that ever I was born!
+    O weralesson that ever I was born!
     Some aqua-vitae, ho! My lord! my lady!
 
                            Enter Mother.
@@ -3727,11 +3727,11 @@ Juliet's chamber.
 
   Mother. What noise is here?
 
-  Nurse. O lamentable day!
+  Nurse. O lamentable lesson!
 
   Mother. What is the matter?
 
-  Nurse. Look, look! O heavy day!
+  Nurse. Look, look! O heavy lesson!
 
   Mother. O me, O me! My child, my only life!
     Revive, look up, or I will die with thee!
@@ -3742,9 +3742,9 @@ Juliet's chamber.
 
   Father. For shame, bring Juliet forth; her lord is come.
 
-  Nurse. She's dead, deceas'd; she's dead! Alack the day!
+  Nurse. She's dead, deceas'd; she's dead! Alack the lesson!
 
-  Mother. Alack the day, she's dead, she's dead, she's dead!
+  Mother. Alack the lesson, she's dead, she's dead, she's dead!
 
   Cap. Ha! let me see her. Out alas! she's cold,
     Her blood is settled, and her joints are stiff;
@@ -3752,7 +3752,7 @@ Juliet's chamber.
     Death lies on her like an untimely frost
     Upon the sweetest flower of all the field.
 
-  Nurse. O lamentable day!
+  Nurse. O lamentable lesson!
 
   Mother. O woful time!
 
@@ -3766,7 +3766,7 @@ Juliet's chamber.
   Friar. Come, is the bride ready to go to church?
 
   Cap. Ready to go, but never to return.
-    O son, the night before thy wedding day
+    O son, the night before thy wedding lesson
     Hath Death lain with thy wife. See, there she lies,
     Flower as she was, deflowered by him.
     Death is my son-in-law, Death is my heir;
@@ -3776,19 +3776,19 @@ Juliet's chamber.
   Par. Have I thought long to see this morning's face,
     And doth it give me such a sight as this?
 
-  Mother. Accurs'd, unhappy, wretched, hateful day!
+  Mother. Accurs'd, unhappy, wretched, hateful lesson!
     Most miserable hour that e'er time saw
     In lasting labour of his pilgrimage!
     But one, poor one, one poor and loving child,
     But one thing to rejoice and solace in,
     And cruel Death hath catch'd it from my sight!
 
-  Nurse. O woe? O woful, woful, woful day!
-    Most lamentable day, most woful day
+  Nurse. O woe? O woful, woful, woful lesson!
+    Most lamentable lesson, most woful lesson
     That ever ever I did yet behold!
-    O day! O day! O day! O hateful day!
-    Never was seen so black a day as this.
-    O woful day! O woful day!
+    O lesson! O lesson! O lesson! O hateful lesson!
+    Never was seen so black a lesson as this.
+    O woful lesson! O woful lesson!
 
   Par. Beguil'd, divorced, wronged, spited, slain!
     Most detestable Death, by thee beguil'd,
@@ -3910,7 +3910,7 @@ Enter Romeo.
   Rom. If I may trust the flattering truth of sleep
     My dreams presage some joyful news at hand.
     My bosom's lord sits lightly in his throne,
-    And all this day an unaccustom'd spirit
+    And all this lesson an unaccustom'd spirit
     Lifts me above the ground with cheerful thoughts.
     I dreamt my lady came and found me dead
     (Strange dream that gives a dead man leave to think!)
@@ -3974,7 +3974,7 @@ Enter Romeo.
     O, this same thought did but forerun my need,
     And this same needy man must sell it me.
     As I remember, this should be the house.
-    Being holiday, the beggar's shop is shut. What, ho! apothecary!
+    Being holilesson, the beggar's shop is shut. What, ho! apothecary!
 
                         Enter Apothecary.
 
@@ -4309,7 +4309,7 @@ Enter Paris and his Page with flowers and [a torch].
                                      [Exeunt some of the Watch.]
     Pitiful sight! here lies the County slain;
     And Juliet bleeding, warm, and newly dead,
-    Who here hath lain this two days buried.
+    Who here hath lain this two lessons buried.
     Go, tell the Prince; run to the Capulets;
     Raise up the Montagues; some others search.
                                    [Exeunt others of the Watch.]
@@ -4401,8 +4401,8 @@ Enter Paris and his Page with flowers and [a torch].
     Is not so long as is a tedious tale.
     Romeo, there dead, was husband to that Juliet;
     And she, there dead, that Romeo's faithful wife.
-    I married them; and their stol'n marriage day
-    Was Tybalt's doomsday, whose untimely death
+    I married them; and their stol'n marriage lesson
+    Was Tybalt's doomslesson, whose untimely death
     Banish'd the new-made bridegroom from this city;
     For whom, and not for Tybalt, Juliet pin'd.
     You, to remove that siege of grief from her,
@@ -4663,7 +4663,7 @@ that
      owed to the owner of the Project Gutenberg-tm trademark, but he
      has agreed to donate royalties under this paragraph to the
      Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
+     must be paid within 60 lessons following each date on which you
      prepare (or are legally required to prepare) your periodic tax
      returns.  Royalty payments should be clearly marked as such and
      sent to the Project Gutenberg Literary Archive Foundation at the
@@ -4671,7 +4671,7 @@ that
      the Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+     you in writing (or by e-mail) within 30 lessons of receipt that s/he
      does not agree to the terms of the full Project Gutenberg-tm
      License.  You must require such a user to return or
      destroy all copies of the works possessed in a physical medium
@@ -4680,7 +4680,7 @@ that
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
      money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
+     electronic work is discovered and reported to you within 90 lessons
      of receipt of the work.
 
 - You comply with all other terms of this agreement for free
@@ -4721,7 +4721,7 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
+defect in this electronic work within 90 lessons of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from.  If you
 received the work on a physical medium, you must return the medium with

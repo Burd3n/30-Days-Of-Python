@@ -1,33 +1,33 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md) 
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md) 
 
 ---
-- [📘 Day 22](#%f0%9f%93%98-day-22)
+- [📘 lesson 22](#%f0%9f%93%98-lesson-22)
   - [Python Web Scraping](#python-web-scraping)
     - [What is web scrapping](#what-is-web-scrapping)
-  - [💻 Exercises: Day 22](#%f0%9f%92%bb-exercises-day-22)
-- [📘 Day 23](#%f0%9f%93%98-day-23)
+  - [💻 Exercises: lesson 22](#%f0%9f%92%bb-exercises-lesson-22)
+- [📘 lesson 23](#%f0%9f%93%98-lesson-23)
   - [Setting up Virtual Environments](#setting-up-virtual-environments)
-  - [💻 Exercises: Day 23](#%f0%9f%92%bb-exercises-day-23)
-- [📘 Day 24](#%f0%9f%93%98-day-24)
+  - [💻 Exercises: lesson 23](#%f0%9f%92%bb-exercises-lesson-23)
+- [📘 lesson 24](#%f0%9f%93%98-lesson-24)
   - [Python for Statistical Analysis](#python-for-statistical-analysis)
   - [Statistics](#statistics)
   - [Data](#data)
   - [Statistics Module](#statistics-module)
 - [NumPy](#numpy)
 
-GIVE FEEDBACK: http://thirtydayofpython-api.herokuapp.com/feedback
-# 📘 Day 22
+GIVE FEEDBACK: http://thirtylessonofpython-api.herokuapp.com/feedback
+# 📘 lesson 22
 
 ## Python Web Scraping
 
@@ -101,43 +101,43 @@ for td in table.find('tr').find_all('td'):
 If you run the above code, you can see that the extraction is half done. You can continue doing it because it is part of exercise 1.
 For reference check the beautiful [soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start)
 
-## 💻 Exercises: Day 22
+## 💻 Exercises: lesson 22
 
 1. Extract the table in this url (http://mlr.cs.umass.edu/ml/datasets.html) and change it to a json file
 2. Scrape the presidents table and store the data as json(https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States)
 
-# 📘 Day 23
+# 📘 lesson 23
 
 ## Setting up Virtual Environments
 
 To start with project, it would be better to have a virtual environment. Virtual environment can help us to create an isolated or separate environment. This will help us to avoid conflicts in dependencies across projects. If you write pip freeze on your terminal you will see all the installed packages on your computer. If we use virtualenv, we will access only packages which are specific for that project. Open your terminal and install virtualenv
 
 ```sh
-Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip install virtualenv
+Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip install virtualenv
 ```
 
 After installing the virtualenv package go to your project folder and create a virtual env by writing:
 ``sh
-Fname@Fname:~/Desktop/30DaysOfPython/flask_project\$ virtualenv venv
+Fname@Fname:~/Desktop/30lessonsOfPython/flask_project\$ virtualenv venv
 
 ````
 The venv name could another name too but I prefer to call it venv. Let's check if the the venv is create by using ls command.
 ```sh
-Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ ls
+Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ ls
 venv/
 ````
 
 Let's activate the virtual environment by writing the following command at our project folder.
 
 ```sh
-Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ source venv/bin/activate
+Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ source venv/bin/activate
 
 ```
 
 After you write the activation command, your project directory will start with venv. See the example below.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$
+(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$
 ```
 
 Now, lets check the available package in this project by writing pip freeze. You will not see any package.
@@ -145,13 +145,13 @@ Now, lets check the available package in this project by writing pip freeze. You
 We are going to do a small flask project so let's install flask to this project.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip install Flask
+(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip install Flask
 ```
 
 Now, let's write pip freeze to see the install packages in the project
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip freeze
+(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip freeze
 Click==7.0
 Flask==1.1.1
 itsdangerous==1.1.0
@@ -163,15 +163,15 @@ Werkzeug==0.16.0
 When you finish you should dactivate active project using _deactivate_.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30DaysOfPython$ deactivate
+(venv) Fname@Fname:~/Desktop/30lessonsOfPython$ deactivate
 ```
 
 The necessary modules to work on flask are installed. Now, you project directory is ready for flask project. You should include the venv to your .gitignore file not to push it to github.
 
-## 💻 Exercises: Day 23
+## 💻 Exercises: lesson 23
 1. Create a project directory with a virtual environment based on the example give above.
 
-# 📘 Day 24
+# 📘 lesson 24
 ## Python for Statistical Analysis
 ## Statistics
 
@@ -199,9 +199,9 @@ Numpy is the core library for scientific computing in Python. It provides a high
 
 So far, we have been using vscode but from now on I would recommend using Jupyter Notebook. To access jupter notebook let's install [anaconda](https://www.anaconda.com/). If you are using anaconda most of the common packages are included and you don't have install packages if you installed anaconda.
 
-[continue](https://github.com/Fname/30-Days-Of-Python/blob/master/numpy.md)
+[continue](https://github.com/Fname/30-lessons-Of-Python/blob/master/numpy.md)
 
 
-[<< Part 7 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md) | [Part 9 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)
+[<< Part 7 ](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md) | [Part 9 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)
 
 ---

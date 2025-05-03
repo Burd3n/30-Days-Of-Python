@@ -1,16 +1,16 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 8 - Dictionaries</h1>
+  <h1> 30 lessons Of Python: lesson 8 - Dictionaries</h1>
    
 
  
 
 </div>
 
-[<< Day 7 ](../07_Day_Sets/07_sets.md) | [Day 9 >>](../09_Day_Conditionals/09_conditionals.md)
+[<< lesson 7 ](../07_lesson_Sets/07_sets.md) | [lesson 9 >>](../09_lesson_Conditionals/09_conditionals.md)
 
-![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../../images/30lessonsOfPython_banner3@2x.png)
 
-- [📘 Day 8](#-day-8)
+- [📘 lesson 8](#-lesson-8)
   - [Dictionaries](#dictionaries)
     - [Creating a Dictionary](#creating-a-dictionary)
     - [Dictionary Length](#dictionary-length)
@@ -25,9 +25,9 @@
     - [Copy a Dictionary](#copy-a-dictionary)
     - [Getting Dictionary Keys as a List](#getting-dictionary-keys-as-a-list)
     - [Getting Dictionary Values as a List](#getting-dictionary-values-as-a-list)
-  - [💻 Exercises: Day 8](#-exercises-day-8)
+  - [💻 Exercises: lesson 8](#-exercises-lesson-8)
 
-# 📘 Day 8
+# 📘 lesson 8
 
 ## Dictionaries
 
@@ -315,7 +315,7 @@ print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
 
 🌕 당신은 정말 놀라워요. 이제, 여러분은 사전의 힘으로 완전히 충전되어 있습니다. 여러분은 이제 막 8일째의 도전을 마쳤고 위대함을 향해 8보 전진했습니다. 이제 여러분의 뇌와 근육을 위한 운동을 하세요.
 
-## 💻 Exercises: Day 8
+## 💻 Exercises: lesson 8
 
 1. dog라는 이름의 빈 딕셔너리를 생성합니다
 2. dog 딕셔너리에 name, color, breed, legs, age 를 추가합니다
@@ -331,4 +331,4 @@ print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 7 ](../07_Day_Sets/07_sets.md) | [Day 9 >>](../09_Day_Conditionals/09_conditionals.md)
+[<< lesson 7 ](../07_lesson_Sets/07_sets.md) | [lesson 9 >>](../09_lesson_Conditionals/09_conditionals.md)

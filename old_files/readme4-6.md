@@ -1,18 +1,18 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md) 
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md) 
 
 ---
-- [Day 4](#day-4)
+- [lesson 4](#lesson-4)
   - [String](#string)
     - [Creating a string](#creating-a-string)
     - [String Concatenation](#string-concatenation)
@@ -28,8 +28,8 @@
       - [Reversing a string](#reversing-a-string)
       - [Skipping characters while slicing](#skipping-characters-while-slicing)
     - [String Methods](#string-methods)
-  - [💻 Exercises - Day 4](#%f0%9f%92%bb-exercises---day-4)
-- [Day 5](#day-5)
+  - [💻 Exercises - lesson 4](#%f0%9f%92%bb-exercises---lesson-4)
+- [lesson 5](#lesson-5)
   - [Lists](#lists)
     - [How to create a list](#how-to-create-a-list)
     - [Accessing list items using positive indexing](#accessing-list-items-using-positive-indexing)
@@ -50,8 +50,8 @@
     - [Finding index of an item](#finding-index-of-an-item)
     - [Reversing a list](#reversing-a-list)
     - [Sorting list items](#sorting-list-items)
-  - [💻 Exercises: Day 5](#%f0%9f%92%bb-exercises-day-5)
-- [Day 6:](#day-6)
+  - [💻 Exercises: lesson 5](#%f0%9f%92%bb-exercises-lesson-5)
+- [lesson 6:](#lesson-6)
   - [Tuple](#tuple)
     - [Creating Tuple](#creating-tuple)
     - [Tuple length](#tuple-length)
@@ -61,9 +61,9 @@
     - [Checking an item in a list](#checking-an-item-in-a-list)
     - [Joining tuples](#joining-tuples)
     - [Deleting tuple](#deleting-tuple)
-  - [💻 Exercises: Day 6](#%f0%9f%92%bb-exercises-day-6)
+  - [💻 Exercises: lesson 6](#%f0%9f%92%bb-exercises-lesson-6)
 
-# Day 4
+# lesson 4
 
 ## String
 
@@ -78,7 +78,7 @@ print(len(letter))          # 1
 greeting = 'Hello, World!'  # String could be  a single or double quote,"Hello, World!"
 print(greeting)             # Hello, World!
 print(len(greeting))        # 13
-sentence = "I hope you are enjoying 30 days of python challenge"
+sentence = "I hope you are enjoying 30 lessons of python challenge"
 print(sentence)
 ```
 
@@ -87,12 +87,12 @@ Multiline string is created by using triple ''' or  quotes.See the example below
 ```py
 multiline_string = '''I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python.'''
+That is why I created 30 lessons of python.'''
 print(multiline_string)
 # Another way of doing the same thing
 multiline_string = """I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python."""
+That is why I created 30 lessons of python."""
 print(multiline_string)
 ```
 
@@ -125,22 +125,22 @@ In python and other programming language \ followed by a character. Let's see th
 
 ```py
 print('I hope every one enjoying the python challenge.\nDo you ?') # line break
-print('Days\tTopics\tExercises')
-print('Day 1\t3\t5')
-print('Day 2\t3\t5')
-print('Day 3\t3\t5')
-print('Day 4\t3\t5')
+print('lessons\tTopics\tExercises')
+print('lesson 1\t3\t5')
+print('lesson 2\t3\t5')
+print('lesson 3\t3\t5')
+print('lesson 4\t3\t5')
 print('This is a back slash  symbol (\\)') # To write a back slash
 print('In every programming language it starts with \"Hello, World!\"') 
 
 # output
 I hope every one enjoying the python challenge.
 Do you ?
-Days	Topics	Exercises
-Day 1	5	    5
-Day 2	6	    20
-Day 3	5	    23
-Day 4	1	    35
+lessons	Topics	Exercises
+lesson 1	5	    5
+lesson 2	6	    20
+lesson 3	5	    23
+lesson 4	1	    35
 This is a back slash  symbol (\)
 In every programming language it starts with "Hello, World!"
 ```
@@ -302,31 +302,31 @@ There are many string methods which allow us to format strings. See some of the 
 
 * capitalize(): Converts the first character the string to Capital Letter
 ```py
-challenge = 'thirty days of python'
-print(challenge.capitalize()) # 'Thirty days of python'
+challenge = 'thirty lessons of python'
+print(challenge.capitalize()) # 'Thirty lessons of python'
 ```
 * count(): returns occurrences of substring in string, count(substring, start=.., end=..)
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.count('y')) # 3
 print(challenge.count('y', 7, 14)) # 1
 print(challenge.count('th')) # 2`
 ```
 * endswith(): Checks if a string ends with a specified ending
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.endswith('on'))   # True
 print(challenge.endswith('tion')) # False
 ```
 * expandtabs(): Replaces tab character with spaces, default tab size is 8. It takes tab size argument
 ```py
-challenge = 'thirty\tdays\tof\tpython'
-print(challenge.expandtabs())   # 'thirty  days    of      python'
-print(challenge.expandtabs(10)) # 'thirty    days      of        python'
+challenge = 'thirty\tlessons\tof\tpython'
+print(challenge.expandtabs())   # 'thirty  lessons    of      python'
+print(challenge.expandtabs(10)) # 'thirty    lessons      of        python'
 ```
 * find(): Returns the index of first occurrence of substring
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.find('y'))  # 5
 print(challenge.find('th')) # 0
 ```
@@ -348,34 +348,34 @@ print(result) # The area of circle with 10 is 314.0
 ```
 * index(): Returns the index of substring
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.find('y'))  # 5
 print(challenge.find('th')) # 0
 ```
 * isalnum(): Checks alphanumeric character
 ```py
-challenge = 'ThirtyDaysPython'
+challenge = 'ThirtylessonsPython'
 print(challenge.isalnum()) # True
 
-challenge = '30DaysPython'
+challenge = '30lessonsPython'
 print(challenge.isalnum()) # True
 
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isalnum()) # False
 
-challenge = 'thirty days of python 2019'
+challenge = 'thirty lessons of python 2019'
 print(challenge.isalnum()) # False
 ```
 * isalpha(): Checks if all characters are alphabets
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isalpha()) # True
 num = '123'
 print(num.isalpha())      # False
 ```
 * isdecimal(): Checks Decimal Characters
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.find('y'))  # 5
 print(challenge.find('th')) # 0
 ```
@@ -396,24 +396,24 @@ print(num.isdecimal()) # False
 
 * isidentifier():Checks for valid identifier means it check if a string is a valid variable name
 ```py
-challenge = '30DaysOfPython'
+challenge = '30lessonsOfPython'
 print(challenge.isidentifier()) # False, because it starts with a number
-challenge = 'thirty_days_of_python'
+challenge = 'thirty_lessons_of_python'
 print(challenge.isidentifier()) # True
 ```
 
 * islower():Checks if all alphabets in a string are lowercase
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.islower()) # True
-challenge = 'Thirty days of python'
+challenge = 'Thirty lessons of python'
 print(challenge.islower()) # False
 ```
 * isupper(): returns if all characters are uppercase characters
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isupper()) #  False
-challenge = 'THIRTY DAYS OF PYTHON'
+challenge = 'THIRTY lessonS OF PYTHON'
 print(challenge.isupper()) # True
 ```
 
@@ -431,43 +431,43 @@ print(result) # 'HTML# CSS# JavaScript# React'
 ```
 * strip(): Removes both leading and trailing characters
 ```py
-challenge = ' thirty days of python '
+challenge = ' thirty lessons of python '
 print(challenge.strip('y')) # 5
 ```
 * replace(): Replaces substring inside
 ```py
-challenge = 'thirty days of python'
-print(challenge.replace('python', 'coding')) # 'thirty days of coding'
+challenge = 'thirty lessons of python'
+print(challenge.replace('python', 'coding')) # 'thirty lessons of coding'
 ```
 * split():Splits String from Left
 ```py
-challenge = 'thirty days of python'
-print(challenge.split()) # ['thirty', 'days', 'of', 'python']
+challenge = 'thirty lessons of python'
+print(challenge.split()) # ['thirty', 'lessons', 'of', 'python']
 ```
 * title(): Returns a Title Cased String
 ```py
-challenge = 'thirty days of python'
-print(challenge.title()) # Thirty Days Of Python
+challenge = 'thirty lessons of python'
+print(challenge.title()) # Thirty lessons Of Python
 ```
 * swapcase(): Checks if String Starts with the Specified String
   The string swapcase() method converts all uppercase characters to lowercase and all lowercase characters to uppercase characters of the given string, and returns it.
 ```py
-challenge = 'thirty days of python'
-print(challenge.swapcase())   # THIRTY DAYS OF PYTHON
-challenge = 'Thirty Days Of Python'
-print(challenge.swapcase())  # tHIRTY dAYS oF pYTHON
+challenge = 'thirty lessons of python'
+print(challenge.swapcase())   # THIRTY lessonS OF PYTHON
+challenge = 'Thirty lessons Of Python'
+print(challenge.swapcase())  # tHIRTY lessonS oF pYTHON
 ```
 * startswith(): Checks if String Starts with the Specified String
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.startswith('thirty')) # True
 
-challenge = '30 days of python'
+challenge = '30 lessons of python'
 print(challenge.startswith('thirty')) # False
 ```
 
-## 💻 Exercises - Day 4
-1. Concatenate the string 'Thirty', 'Days', 'Of', 'Python' to a single string, 'Thirty Days Of Python'
+## 💻 Exercises - lesson 4
+1. Concatenate the string 'Thirty', 'lessons', 'Of', 'Python' to a single string, 'Thirty lessons Of Python'
 2. Concatenate the string 'Coding', 'For' , 'All' to a single string, 'Coding For All'
 3. Declare a variable name company and assign it to an initial value "Coding For All.
 4. Print company using *print()*
@@ -498,8 +498,8 @@ print(challenge.startswith('thirty')) # False
 29. Does Coding For All ends with a substring *coding*?
 30. '&nbsp;&nbsp; Coding For All &nbsp;&nbsp;&nbsp; &nbsp;' &nbsp;,    remove the left and right trailing spaces in the given string.
 31. Which one of the following variable return True when we use the method isidentifier()
-    * 30DaysOfPython
-    * thirty_days_of_python
+    * 30lessonsOfPython
+    * thirty_lessons_of_python
 32. The following are some of python libraries list: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string. 
 33. Use new line escape sequence to writ the following sentence.
     ```py
@@ -527,7 +527,7 @@ The area of radius 10 is 314 meters squares.
 8 // 6 = 1
 8 ** 6 = 262144
 ```
-# Day 5
+# lesson 5
 ## Lists
 The are four collection data types in python :
 * List:  is a collection which is ordered and changeable(modifiable). Allows duplicate members.
@@ -940,7 +940,7 @@ To sort list we can use *sort() method or *sorted()* builtin function. The sort(
   print(fruits)     # ['orange', 'mango', 'lemon', 'banana']          
   ```
   
-## 💻 Exercises: Day 5
+## 💻 Exercises: lesson 5
 1. Declare an empty list
 2. Declare a list with more than 5 number of items
 3. Find the length of your list
@@ -982,11 +982,11 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
   * Find the average age(all items divided by number of items)
   * Find the range of the ages(max minus min)
   * Compare the value of (min - average) and (max - average), use *abs()* method
-29. Find the middle country(ies) in the [countries list](https://github.com/Fname/30-Days-Of-Python/tree/master/data/countries.py)
+29. Find the middle country(ies) in the [countries list](https://github.com/Fname/30-lessons-Of-Python/tree/master/data/countries.py)
 30. Divide the countries list into two equal lists if it is even if not one more country for the first half.
 31. ['China', 'Russia', 'USA', 'Singapore', 'Sweden', 'Norway', 'Denmark']. Unpack the first three countries and the rest as scandic countries.
 
-# Day 6:
+# lesson 6:
 ## Tuple
 A tuple is a collection of different data types which is ordered and unchangeable(immutable). Tuples are written with round brackets,(). Once a tuple is created, we can not change its values. We can not add, insert, remove a tuple because it is not modifiable (mutable). Unlike list, tuple has few methods. Methods related to tuple:
 * tuple(): to create an empty tuple
@@ -1140,7 +1140,7 @@ It is not possible to remove a single item in a tuple but it is possible to dele
   ```
 
 
-## 💻 Exercises: Day 6
+## 💻 Exercises: lesson 6
 1. Create an empty tuple
 2. Create a tuple containing name of your sisters and your brothers
 3. Join brothers and sisters tuples and assign it to siblings
@@ -1158,4 +1158,4 @@ It is not possible to remove a single item in a tuple but it is possible to dele
   nordic_countries = ('Denmark', 'Singapore','Iceland', 'Norway', 'Sweden')
   ```
 
-[<< Part 1](https://github.com/Fname/30-Days-Of-Python/blob/master/readme.md) | [Part 3>>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)
+[<< Part 1](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme.md) | [Part 3>>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)

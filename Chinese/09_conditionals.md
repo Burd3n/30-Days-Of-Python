@@ -9,9 +9,9 @@
 
 </div>
 
-[<< 第 8 天](../08_Day_Dictionaries/08_dictionaries.md) | [第 10 天 >>](../10_Day_Loops/10_loops.md)
+[<< 第 8 天](../08_lesson_Dictionaries/08_dictionaries.md) | [第 10 天 >>](../10_lesson_Loops/10_loops.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 - [📘 第 9 天](#-第9天)
   - [条件语句](#条件语句)
@@ -276,4 +276,4 @@ Fname Lname住在芬兰。他已婚。
 
 🎉 恭喜！ 🎉
 
-[<< 第 8 天](../08_Day_Dictionaries/08_dictionaries.md) | [第 10 天 >>](../10_Day_Loops/10_loops.md)
+[<< 第 8 天](../08_lesson_Dictionaries/08_dictionaries.md) | [第 10 天 >>](../10_lesson_Loops/10_loops.md)

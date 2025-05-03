@@ -1,13 +1,13 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 3 - Operators</h1>
+  <h1> 30 lessons Of Python: lesson 3 - Operators</h1>
    
 
  
 </div>
 
-[<< Day 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Day 4 >>](../04_Day_Strings/04_strings.md)
+[<< lesson 2](../02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md) | [lesson 4 >>](../04_lesson_Strings/04_strings.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 - [📘 3일차](#-3일차)
   - [불리언](#불리언)
@@ -306,4 +306,4 @@ You have lived for 3153600000 seconds.
 
 🎉 축하합니다 ! 🎉
 
-[<< Day 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Day 4 >>](../04_Day_Strings/04_strings.md)
+[<< lesson 2](../02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md) | [lesson 4 >>](../04_lesson_Strings/04_strings.md)

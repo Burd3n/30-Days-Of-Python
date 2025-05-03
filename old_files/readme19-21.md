@@ -1,19 +1,19 @@
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
 
-🧳 [Part 1: Day 1 - 3](https://github.com/Fname/30-Days-Of-Python)  
-🧳 [Part 2: Day 4 - 6](https://github.com/Fname/30-Days-Of-Python/blob/master/readme4-6.md)  
-🧳 [Part 3: Day 7 - 9](https://github.com/Fname/30-Days-Of-Python/blob/master/readme7-9.md)  
-🧳 [Part 4: Day 10 - 12](https://github.com/Fname/30-Days-Of-Python/blob/master/readme10-12.md)  
-🧳 [Part 5: Day 13 - 15](https://github.com/Fname/30-Days-Of-Python/blob/master/readme13-15.md)  
-🧳 [Part 6: Day 16 - 18](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md)  
-🧳 [Part 7: Day 19 - 21](https://github.com/Fname/30-Days-Of-Python/blob/master/readme19-21.md)  
-🧳 [Part 8: Day 22 - 24](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)  
-🧳 [Part 9: Day 25 - 27](https://github.com/Fname/30-Days-Of-Python/blob/master/readme25-27.md)  
-🧳 [Part 10: Day 28 - 30](https://github.com/Fname/30-Days-Of-Python/blob/master/readme28-30.md)  
+🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
+🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
+🧳 [Part 3: lesson 7 - 9](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme7-9.md)  
+🧳 [Part 4: lesson 10 - 12](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme10-12.md)  
+🧳 [Part 5: lesson 13 - 15](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme13-15.md)  
+🧳 [Part 6: lesson 16 - 18](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md)  
+🧳 [Part 7: lesson 19 - 21](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme19-21.md)  
+🧳 [Part 8: lesson 22 - 24](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)  
+🧳 [Part 9: lesson 25 - 27](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme25-27.md)  
+🧳 [Part 10: lesson 28 - 30](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme28-30.md)  
 
 ---
 
-- [📘 Day 19](#%f0%9f%93%98-day-19)
+- [📘 lesson 19](#%f0%9f%93%98-lesson-19)
   - [File handling](#file-handling)
     - [Opening File for reading](#opening-file-for-reading)
     - [Opening file for writing or updating](#opening-file-for-writing-or-updating)
@@ -27,8 +27,8 @@
     - [File with csv Extension](#file-with-csv-extension)
     - [File with xlsx Extension](#file-with-xlsx-extension)
     - [File with xml Extension](#file-with-xml-extension)
-  - [💻 Exercises: Day 19](#%f0%9f%92%bb-exercises-day-19)
-- [📘 Day 20](#%f0%9f%93%98-day-20)
+  - [💻 Exercises: lesson 19](#%f0%9f%92%bb-exercises-lesson-19)
+- [📘 lesson 20](#%f0%9f%93%98-lesson-20)
   - [Python PIP - Python Package Manager](#python-pip---python-package-manager)
     - [What is PIP ?](#what-is-pip)
     - [Installing pip](#installing-pip)
@@ -40,8 +40,8 @@
     - [Reading from URL](#reading-from-url)
     - [Creating a package](#creating-a-package)
     - [Further information about packages](#further-information-about-packages)
-  - [Exercises: Day 20](#exercises-day-20)
-- [📘 Day 21](#%f0%9f%93%98-day-21)
+  - [Exercises: lesson 20](#exercises-lesson-20)
+- [📘 lesson 21](#%f0%9f%93%98-lesson-21)
   - [Classes and Objects](#classes-and-objects)
     - [Creating a Class](#creating-a-class)
     - [Creating an Object](#creating-an-object)
@@ -51,9 +51,9 @@
     - [Method to modify class default values](#method-to-modify-class-default-values)
     - [Inheritance](#inheritance)
     - [Overriding parent method](#overriding-parent-method)
-  - [💻 Exercises: Day 21](#%f0%9f%92%bb-exercises-day-21)
-GIVE FEEDBACK: http://thirtydayofpython-api.herokuapp.com/feedback
-# 📘 Day 19
+  - [💻 Exercises: lesson 21](#%f0%9f%92%bb-exercises-lesson-21)
+GIVE FEEDBACK: http://thirtylessonofpython-api.herokuapp.com/feedback
+# 📘 lesson 19
 
 ## File handling
 
@@ -413,7 +413,7 @@ field: city
 field: skills
 ```
 
-## 💻 Exercises: Day 19
+## 💻 Exercises: lesson 19
 
 1. Writ a function which count number of lines and number of words from a text. All the files are in data the folder:
    1. Read obama_speech.txt file and count number of lines and now of words
@@ -498,18 +498,18 @@ field: skills
 ```
 
 6. Use the function, find_most_frequent_words to find out:
-   1. The ten most frequent words used in [Obama's speech](https://github.com/Fname/30-Days-Of-Python/blob/master/data/obama_speech.txt)
-   2. The ten most frequent words used in [Michelle's speech](https://github.com/Fname/30-Days-Of-Python/blob/master/data/michelle_obama_speech.txt)
-   3. The ten most frequent words used in [Trump's speech](https://github.com/Fname/30-Days-Of-Python/blob/master/data/donald_speech.txt)
-   4. The ten most frequent words used in [Melina's speech](https://github.com/Fname/30-Days-Of-Python/blob/master/data/melina_trump_speech.txt)
-7. Write a python application which checks similarity between two texts. It takes a file or a string as a parameter and it will evaluate the similarity of the two texts. For instance check the similarity between the transcripts of [Michelle's](https://github.com/Fname/30-Days-Of-Python/blob/master/data/michelle_obama_speech.txt) and [Melina's](https://github.com/Fname/30-Days-Of-Python/blob/master/data/melina_trump_speech.txt) speech. You may need a couple of functions, function to clean the text(clean_text), function to remove support words(remove_support_words) and finally to check the similarity(check_text_similarity). List of [stop words](https://github.com/Fname/30-Days-Of-Python/blob/master/data/stop_words.py) are in the data directory
+   1. The ten most frequent words used in [Obama's speech](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/obama_speech.txt)
+   2. The ten most frequent words used in [Michelle's speech](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/michelle_obama_speech.txt)
+   3. The ten most frequent words used in [Trump's speech](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/donald_speech.txt)
+   4. The ten most frequent words used in [Melina's speech](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/melina_trump_speech.txt)
+7. Write a python application which checks similarity between two texts. It takes a file or a string as a parameter and it will evaluate the similarity of the two texts. For instance check the similarity between the transcripts of [Michelle's](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/michelle_obama_speech.txt) and [Melina's](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/melina_trump_speech.txt) speech. You may need a couple of functions, function to clean the text(clean_text), function to remove support words(remove_support_words) and finally to check the similarity(check_text_similarity). List of [stop words](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/stop_words.py) are in the data directory
 8. Find the 10 most repeated words in the romeo_and_juliet.txt
-9. Read the [hacker news csv](https://github.com/Fname/30-Days-Of-Python/blob/master/data/hacker_news.csv) file and find out:
+9. Read the [hacker news csv](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/hacker_news.csv) file and find out:
    1. Count the number of lines containing python or Python
    2. Count the number lines containing JavaScript, javascript or Javascript
    3. Count the number lines containing Java not JavaScript
 
-# 📘 Day 20
+# 📘 lesson 20
 
 ## Python PIP - Python Package Manager
 
@@ -807,7 +807,7 @@ We use _json()_ method from response object, if the we are fetching JSON data. F
 
 We organize a large number of files in different folders and subfolders based on some criteria, so that we can find and manage them easily. As you know, a module can contain multiple objects, such as classes, functions, etc. A package can contain one or more relevant modules.A package is actually a folder containing one or more module files. Let's create a package named mypackage, using the following steps:
 
-Create a new folder named mypacakge inside 30DaysOfPython folder
+Create a new folder named mypacakge inside 30lessonsOfPython folder
 Create an empty **init**.py file in the mypackage folder.
 Create modules arithmetic.py and greet.py with following code:
 
@@ -844,7 +844,7 @@ def power(a, b):
 # mypackage/greet.py
 # greet.py
 def greet_person(firstname, lastname):
-    return f'{firstname} {lastname}, welcome to 30DaysOfPython Challenge!'
+    return f'{firstname} {lastname}, welcome to 30lessonsOfPython Challenge!'
 ```
 The folder structure of your package should look like this:
 ```sh
@@ -855,7 +855,7 @@ The folder structure of your package should look like this:
 ```
 Now let's open the python interactive shell and try the package we have created:
 ```sh
-Fname@Fname:~/Desktop/30DaysOfPython$ python
+Fname@Fname:~/Desktop/30lessonsOfPython$ python
 Python 3.7.5 (default, Nov  1 2019, 02:16:32) 
 [Clang 11.0.0 (clang-1100.0.33.8)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
@@ -874,7 +874,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 125
 >>> from mypackage import greet
 >>> greet.greet_person('Fname', 'Lname')
-'Fname Lname, welcome to 30DaysOfPython Challenge!'
+'Fname Lname, welcome to 30lessonsOfPython Challenge!'
 >>> 
 ```
 As you can see our package works perfect. The package folder contains a special file called __init__.py which stores the package's content. If we put  __init__.py in the package folder, python start recognizes it as a package.
@@ -912,14 +912,14 @@ The __init__.py exposes specified resources from its modules to be imported to o
   - requests: is a package which we can use to send requests to a server(GET, POST, DELETE, PUT)
     - _pip install requests_
 
-## Exercises: Day 20
+## Exercises: lesson 20
 
 1. Read this url and find out the 10 most frequent words.romeo_and_juliet = 'http://www.gutenberg.org/files/1112/1112.txt'
 1. Read the cats api and cats_api = 'https://api.thecatapi.com/v1/breeds' and find the avarage weight of cat in metric unit.
 1. Read the countries api and find out the 10 largest countries
 1. UCI is one the most common place for get data set for data science and machine learning. Read the content of UCL(http://mlr.cs.umass.edu/ml/datasets.html). Without library it will be difficult, you may try it with BeautifulSoup4
 
-# 📘 Day 21
+# 📘 lesson 21
 
 ## Classes and Objects
 
@@ -1205,7 +1205,7 @@ Lidiya Teklemariam is 28 year old. She lives in Espoo, Singapore.
 
 We can use super() function or the parent name Person to automatically inherit the methods and properties from its parent. In the above example, we override the parant method. The child method has a different feature, it can identify if the gender is male or female and assign the proper pronoun(He/She).
 
-## 💻 Exercises: Day 21
+## 💻 Exercises: lesson 21
 
 1. Python has the module called _statistics_ and we can use this module to do all the statistical caluculations. Hower to challlenge ourselves, let's try to develop a program which calculate measure of central tendency of a sample(mean, median, mode) and measure of variability(range, variance, standard deviation). In addition to those measures find the min, max, count, percentile, and frequency distribution of the sample. You can create a class called Statistics and create all the functions which do statistical calculations as method for the Statistics class. Check the output below.
 
@@ -1243,6 +1243,6 @@ Frequency Distribution: [(20.0, 26), (16.0, 27), (12.0, 32), (8.0, 37), (8.0, 34
 ```
 1. Create a class called PersonAccount. It has firstname, lastname, incomes, expenses properties and it has total_income, total_expense, account_info,add_income, add_expense and account_balance methods. Incomes is a set of incomes and its description and the same goes for expenses.
    
-[<< Part 6 ](https://github.com/Fname/30-Days-Of-Python/blob/master/readme16-18.md) | [Part 8 >>](https://github.com/Fname/30-Days-Of-Python/blob/master/readme22-24.md)
+[<< Part 6 ](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme16-18.md) | [Part 8 >>](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme22-24.md)
 
 ---

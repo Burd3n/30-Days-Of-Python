@@ -11,7 +11,7 @@
 
 [<<第九天](../Chinese/09_conditionals.md) | [第十一天>>](../Chinese/11_functions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 
 - [📘 第十天](#-第十天)
@@ -434,13 +434,13 @@ for number in range(6):
 
 ### 练习：三级
 
-1. 跳转到data文件夹并使用[countries.py](https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries.py)文件。循环遍历所有国家，并且提取出所有包含字母`land`的国家。
+1. 跳转到data文件夹并使用[countries.py](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/countries.py)文件。循环遍历所有国家，并且提取出所有包含字母`land`的国家。
 2. 有一个列表`fruits = ['banana', 'orange', 'mango', 'lemon']`，使用循环反转列表中的元素。
-3. 跳转到data文件夹并使用[countries_data.py](https://github.com/Fname/30-Days-Of-Python/blob/master/data/countries-data.py)文件。
+3. 跳转到data文件夹并使用[countries_data.py](https://github.com/Fname/30-lessons-Of-Python/blob/master/data/countries-data.py)文件。
    1. 数据中一共有多少个语言？
    2. 找到被最多国家使用的语言。
    3. 找到人数排名前十的国家。
 
 🎉 恭喜！ 🎉
 
-[<< Day 9](./09_conditionals.md) | [Day 11 >>](./11_functions.md)
+[<< lesson 9](./09_conditionals.md) | [lesson 11 >>](./11_functions.md)

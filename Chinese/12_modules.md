@@ -10,9 +10,9 @@
 </div>
 </div>
 
-[<< 第 11 天](../11_Day_Functions/11_functions.md) | [第 13 天>>](../13_Day_List_comprehension/13_list_comprehension.md)
+[<< 第 11 天](../11_lesson_Functions/11_functions.md) | [第 13 天>>](../13_lesson_List_comprehension/13_list_comprehension.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 - [📘 第 12 天](#-第12天)
   - [模块](#模块)
@@ -130,13 +130,13 @@ print('Welcome {}. Enjoy  {} challenge!'.format(sys.argv[1], sys.argv[2]))
 现在要查看这个脚本的工作效果，我在命令行中写：
 
 ```sh
-python script.py Fname 30DaysOfPython
+python script.py Fname 30lessonsOfPython
 ```
 
 结果：
 
 ```sh
-Welcome Fname. Enjoy  30DayOfPython challenge!
+Welcome Fname. Enjoy  30lessonOfPython challenge!
 ```
 
 一些有用的 sys 命令：
@@ -295,4 +295,4 @@ print(rgb_color_gen())
 
 🎉 恭喜！ 🎉
 
-[<< 第 11 天](../11_Day_Functions/11_functions.md) | [第 13 天>>](../13_Day_List_comprehension/13_list_comprehension.md)
+[<< 第 11 天](../11_lesson_Functions/11_functions.md) | [第 13 天>>](../13_lesson_List_comprehension/13_list_comprehension.md)

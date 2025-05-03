@@ -9,9 +9,9 @@
 
 </div>
 
-[<< Dia 1](../README.md) | [Dia 3 >>](../03_Day_Operators/03_operators.md)
+[<< Dia 1](../README.md) | [Dia 3 >>](../03_lesson_Operators/03_operators.md)
 
-![30DiasDePython](../.././images/30DaysOfPython_banner3@2x.png)
+![30DiasDePython](../.././images/30lessonsOfPython_banner3@2x.png)
 
 - [📘 Dia 2](#-dia-2)
   - [Built in functions](#built-in-functions)
@@ -292,4 +292,4 @@ Numeros e tipos de dados em python:
 
 🎉 PARABÉNS ! 🎉
 
-[<< Day 1](../README.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< lesson 1](../README.md) | [lesson 3 >>](../03_lesson_Operators/03_operators.md)

@@ -1,14 +1,14 @@
 <div align="center">
-<h1> 30 Days Of Python: Day 4 - Strings</h1> <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/"> <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&amp;logo=linkedin&amp;style=social"> </a> <a class="header-badge" target="_blank" href="https://twitter.com/Fname"> <img src="https://img.shields.io/twitter/follow/Fname?style=social" alt="Twitter Follow"> </a>
+<h1> 30 lessons Of Python: lesson 4 - Strings</h1> <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Fname/"> <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&amp;logo=linkedin&amp;style=social"> </a> <a class="header-badge" target="_blank" href="https://twitter.com/Fname"> <img src="https://img.shields.io/twitter/follow/Fname?style=social" alt="Twitter Follow"> </a>
 </div>
 <p data-md-type="paragraph"><sub data-md-type="raw_html">Author: <a data-md-type="raw_html" href="https://www.linkedin.com/in/Fname/" target="_blank">Fname Lname</a><br> <small data-md-type="raw_html"> Second Edition: July, 2021</small></sub></p>
 <div data-md-type="block_html"></div>
 
-[&lt;&lt; Day 3](../03_Day_Operators/03_operators.md) | [Day 5 &gt;&gt;](../05_Day_Lists/05_lists.md)
+[&lt;&lt; lesson 3](../03_lesson_Operators/03_operators.md) | [lesson 5 &gt;&gt;](../05_lesson_Lists/05_lists.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
-- [Day 4](#day-4)
+- [lesson 4](#lesson-4)
     - [문자열](#strings)
         - [문자열 만들기](#문자열-만들기)
         - [문자열 연결](#문자열-연결)
@@ -24,9 +24,9 @@
             - [문자열 리버스](#문자열-리버스)
             - [슬라이싱하는 동안 문자 건너뛰기](#슬라이싱하는-동안-문자-건너뛰기)
         - [문자열 메서드](#문자열-메서드)
-    - [💻 Exercises - Day 4](#-exercises---day-4)
+    - [💻 Exercises - lesson 4](#-exercises---lesson-4)
 
-# Day 4
+# lesson 4
 
 ## 문자열
 
@@ -41,7 +41,7 @@ print(len(letter))          # 1
 greeting = 'Hello, World!'  # String could be made using a single or double quote,"Hello, World!"
 print(greeting)             # Hello, World!
 print(len(greeting))        # 13
-sentence = "I hope you are enjoying 30 days of Python Challenge"
+sentence = "I hope you are enjoying 30 lessons of Python Challenge"
 print(sentence)
 ```
 
@@ -50,13 +50,13 @@ print(sentence)
 ```py
 multiline_string = '''I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python.'''
+That is why I created 30 lessons of python.'''
 print(multiline_string)
 
 # Another way of doing the same thing
 multiline_string = """I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python."""
+That is why I created 30 lessons of python."""
 print(multiline_string)
 ```
 
@@ -91,22 +91,22 @@ Python 및 기타 프로그래밍 언어에서 \ 다음에 오는 문자는 이�
 
 ```py
 print('I hope everyone is enjoying the Python Challenge.\nAre you ?') # line break
-print('Days\tTopics\tExercises') # adding tab space or 4 spaces
-print('Day 1\t3\t5')
-print('Day 2\t3\t5')
-print('Day 3\t3\t5')
-print('Day 4\t3\t5')
+print('lessons\tTopics\tExercises') # adding tab space or 4 spaces
+print('lesson 1\t3\t5')
+print('lesson 2\t3\t5')
+print('lesson 3\t3\t5')
+print('lesson 4\t3\t5')
 print('This is a backslash  symbol (\\)') # To write a backslash
 print('In every programming language it starts with \"Hello, World!\"') # to write a double quote inside a single quote
 
 # output
 I hope every one is enjoying the Python Challenge.
 Are you ?
-Days	Topics	Exercises
-Day 1	5	    5
-Day 2	6	    20
-Day 3	5	    23
-Day 4	1	    35
+lessons	Topics	Exercises
+lesson 1	5	    5
+lesson 2	6	    20
+lesson 3	5	    23
+lesson 4	1	    35
 This is a backslash  symbol (\)
 In every programming language it starts with "Hello, World!"
 ```
@@ -284,14 +284,14 @@ print(pto) # Pto
 - capitalize(): 문자열의 첫 번째 문자를 대문자로 변환
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.capitalize()) # 'Thirty days of python'
+challenge = 'thirty lessons of python'
+print(challenge.capitalize()) # 'Thirty lessons of python'
 ```
 
 - count(): 문자열에서 하위 문자열의 발생을 반환합니다. count(substring, start=.., end=..). 시작은 카운트를 위한 시작 인덱싱이고 끝은 카운트할 마지막 인덱스입니다.
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.count('y')) # 3
 print(challenge.count('y', 7, 14)) # 1,
 print(challenge.count('th')) # 2`
@@ -300,7 +300,7 @@ print(challenge.count('th')) # 2`
 - endswith(): 문자열이 지정된 끝으로 끝나는지 확인합니다.
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.endswith('on'))   # True
 print(challenge.endswith('tion')) # False
 ```
@@ -308,15 +308,15 @@ print(challenge.endswith('tion')) # False
 - expandtabs(): 탭 문자를 공백으로 바꿉니다. 기본 탭 크기는 8입니다. 탭 크기 인수를 사용합니다.
 
 ```py
-challenge = 'thirty\tdays\tof\tpython'
-print(challenge.expandtabs())   # 'thirty  days    of      python'
-print(challenge.expandtabs(10)) # 'thirty    days      of        python'
+challenge = 'thirty\tlessons\tof\tpython'
+print(challenge.expandtabs())   # 'thirty  lessons    of      python'
+print(challenge.expandtabs(10)) # 'thirty    lessons      of        python'
 ```
 
 - find(): 하위 문자열이 처음 나타나는 인덱스를 반환합니다. 찾을 수 없으면 -1을 반환합니다.
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.count('y')) # 3
 print(challenge.count('y', 7, 14)) # 1,
 print(challenge.count('th')) # 2`
@@ -325,7 +325,7 @@ print(challenge.count('th')) # 2`
 - rfind(): 하위 문자열이 마지막으로 나타나는 인덱스를 반환합니다. 찾을 수 없으면 -1을 반환합니다.
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.rfind('y'))  # 5
 print(challenge.rfind('th')) # 1
 ```
@@ -351,7 +351,7 @@ print(result) # The area of a circle with radius 10 is 314
 - index(): 하위 문자열의 가장 낮은 색인을 반환하고 추가 인수는 시작 및 끝 색인을 나타냅니다(기본값 0 및 문자열 길이 - 1). 하위 문자열을 찾을 수 없으면 valueError가 발생합니다.
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 sub_string = 'da'
 print(challenge.index(sub_string))  # 7
 print(challenge.index(sub_string, 9)) # error
@@ -360,7 +360,7 @@ print(challenge.index(sub_string, 9)) # error
 - rindex(): 하위 문자열의 가장 높은 색인을 반환합니다. 추가 인수는 시작 및 끝 색인을 나타냅니다(기본값 0 및 문자열 길이 - 1).
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 sub_string = 'da'
 print(challenge.rindex(sub_string))  # 8
 print(challenge.rindex(sub_string, 9)) # error
@@ -369,25 +369,25 @@ print(challenge.rindex(sub_string, 9)) # error
 - isalnum(): 영숫자 확인
 
 ```py
-challenge = 'ThirtyDaysPython'
+challenge = 'ThirtylessonsPython'
 print(challenge.isalnum()) # True
 
-challenge = '30DaysPython'
+challenge = '30lessonsPython'
 print(challenge.isalnum()) # True
 
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isalnum()) # False, space is not an alphanumeric character
 
-challenge = 'thirty days of python 2019'
+challenge = 'thirty lessons of python 2019'
 print(challenge.isalnum()) # False
 ```
 
 - isalpha(): 모든 문자열 요소가 알파벳 문자(az 및 AZ)인지 확인합니다.
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isalpha()) # False, space is once again excluded
-challenge = 'ThirtyDaysPython'
+challenge = 'ThirtylessonsPython'
 print(challenge.isalpha()) # True
 num = '123'
 print(num.isalpha())      # False
@@ -396,7 +396,7 @@ print(num.isalpha())      # False
 - isdecimal(): 문자열의 모든 문자가 십진수(0-9)인지 확인합니다.
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isdecimal())  # False
 challenge = '123'
 print(challenge.isdecimal())  # True
@@ -431,27 +431,27 @@ print(num.isnumeric()) # False
 - isidentifier(): 유효한 식별자를 확인합니다. 문자열이 유효한 변수 이름인지 확인합니다.
 
 ```py
-challenge = '30DaysOfPython'
+challenge = '30lessonsOfPython'
 print(challenge.isidentifier()) # False, because it starts with a number
-challenge = 'thirty_days_of_python'
+challenge = 'thirty_lessons_of_python'
 print(challenge.isidentifier()) # True
 ```
 
 - islower(): 문자열의 모든 알파벳 문자가 소문자인지 확인
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.islower()) # True
-challenge = 'Thirty days of python'
+challenge = 'Thirty lessons of python'
 print(challenge.islower()) # False
 ```
 
 - islower(): 문자열의 모든 알파벳 문자가 소문자인지 확인
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isupper()) #  False
-challenge = 'THIRTY DAYS OF PYTHON'
+challenge = 'THIRTY lessonS OF PYTHON'
 print(challenge.isupper()) # True
 ```
 
@@ -472,57 +472,57 @@ print(result) # 'HTML# CSS# JavaScript# React'
 - strip(): 문자열의 시작과 끝에서 시작하여 주어진 모든 문자를 제거합니다.
 
 ```py
-challenge = 'thirty days of pythoonnn'
-print(challenge.strip('noth')) # 'irty days of py'
+challenge = 'thirty lessons of pythoonnn'
+print(challenge.strip('noth')) # 'irty lessons of py'
 ```
 
 - replace(): 하위 문자열을 주어진 문자열로 대체합니다.
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.replace('python', 'coding')) # 'thirty days of coding'
+challenge = 'thirty lessons of python'
+print(challenge.replace('python', 'coding')) # 'thirty lessons of coding'
 ```
 
 - split(): 주어진 문자열 또는 공백을 구분 기호로 사용하여 문자열을 분할합니다.
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.split()) # ['thirty', 'days', 'of', 'python']
-challenge = 'thirty, days, of, python'
-print(challenge.split(', ')) # ['thirty', 'days', 'of', 'python']
+challenge = 'thirty lessons of python'
+print(challenge.split()) # ['thirty', 'lessons', 'of', 'python']
+challenge = 'thirty, lessons, of, python'
+print(challenge.split(', ')) # ['thirty', 'lessons', 'of', 'python']
 ```
 
 - title(): 제목 케이스 문자열을 반환합니다.
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.title()) # Thirty Days Of Python
+challenge = 'thirty lessons of python'
+print(challenge.title()) # Thirty lessons Of Python
 ```
 
 - swapcase(): 모든 대문자를 소문자로, 모든 소문자를 대문자로 변환
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.swapcase())   # THIRTY DAYS OF PYTHON
-challenge = 'Thirty Days Of Python'
-print(challenge.swapcase())  # tHIRTY dAYS oF pYTHON
+challenge = 'thirty lessons of python'
+print(challenge.swapcase())   # THIRTY lessonS OF PYTHON
+challenge = 'Thirty lessons Of Python'
+print(challenge.swapcase())  # tHIRTY lessonS oF pYTHON
 ```
 
 - startswith(): 문자열이 지정된 문자열로 시작하는지 확인
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.startswith('thirty')) # True
 
-challenge = '30 days of python'
+challenge = '30 lessons of python'
 print(challenge.startswith('thirty')) # False
 ```
 
 🌕 당신은 특별한 사람이고 놀라운 잠재력을 가지고 있습니다. 당신은 방금 4일 차 도전을 완료했고 당신은 위대함을 향한 당신의 길에 4걸음 남았습니다. 이제 뇌와 근육을 위한 몇 가지 훈련을 하십시오.
 
-## 💻 Exercises - Day 4
+## 💻 Exercises - lesson 4
 
-1. 문자열 'Thirty', 'Days', 'Of', 'Python'을 단일 문자열 'Thirty Days Of Python'에 연결합니다.
+1. 문자열 'Thirty', 'lessons', 'Of', 'Python'을 단일 문자열 'Thirty lessons Of Python'에 연결합니다.
 2. 문자열 'Coding', 'For' , 'All'을 단일 문자열 'Coding For All'에 연결합니다.
 3. company라는 변수를 선언하고 초기 값 "Coding For All"에 할당합니다.
 4. *print()* 를 사용하여 회사 변수를 인쇄합니다.
@@ -553,8 +553,8 @@ print(challenge.startswith('thirty')) # False
 29. 'Coding For All'은 하위 문자열 *코딩* 으로 끝납니까?
 30. ' Coding For All ' , 주어진 문자열에서 왼쪽 및 오른쪽 후행 공백을 제거합니다.
 31. 다음 변수 중 isidentifier() 메서드를 사용할 때 True를 반환하는 변수는 무엇입니까?
-    - 30DaysOfPython
-    - thirty_days_of_python
+    - 30lessonsOfPython
+    - thirty_lessons_of_python
 32. 다음 목록에는 일부 파이썬 라이브러리의 이름이 포함되어 있습니다: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. 공백 문자열이 있는 해시로 목록에 가입하십시오.
 33. 새 줄 이스케이프 시퀀스를 사용하여 다음 문장을 구분합니다.
     ```py
@@ -588,4 +588,4 @@ The area of a circle with radius 10 is 314 meters square.
 
 🎉 축하합니다! 🎉
 
-[&lt;&lt; Day 3](../03_Day_Operators/03_operators.md) | [Day 5 &gt;&gt;](../05_Day_Lists/05_lists.md)
+[&lt;&lt; lesson 3](../03_lesson_Operators/03_operators.md) | [lesson 5 &gt;&gt;](../05_lesson_Lists/05_lists.md)

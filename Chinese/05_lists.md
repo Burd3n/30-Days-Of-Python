@@ -11,7 +11,7 @@
 
 [<< 第四天](./04_strings.md) | [第六天 >>](./06_tuples.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 - [第五天](#第五天)
   - [列表](#列表)
@@ -582,7 +582,7 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 - 找到年龄范围（最大减去最小）
 - 比较 (min - average) 和 (max - average) 的值，使用 _abs()_ 方法
 
-1. 在 [国家列表](https://github.com/Taki-Ta/30-Days-Of-Python-Simplified_Chinese_Version/tree/master/data/countries.py) 中查找中间的国家
+1. 在 [国家列表](https://github.com/Taki-Ta/30-lessons-Of-Python-Simplified_Chinese_Version/tree/master/data/countries.py) 中查找中间的国家
 2. 将国家列表分成两个相等的列表（如果是偶数，如果不是，则第一个半多一个国家）
 3. ['China', 'Russia', 'USA', 'Singapore', 'Sweden', 'Norway', 'Denmark']。拆解前三个国家和剩下的北欧国家。
 

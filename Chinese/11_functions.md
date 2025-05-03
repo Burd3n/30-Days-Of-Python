@@ -9,11 +9,11 @@
 
 </div>
 
-[<< 第 10 天](../10_Day_Loops/10_loops.md) | [第 12 天 >>](../12_Day_Modules/12_modules.md)
+[<< 第 10 天](../10_lesson_Loops/10_loops.md) | [第 12 天 >>](../12_lesson_Modules/12_modules.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
-- [📘 第 11 天](#-day-11)
+- [📘 第 11 天](#-lesson-11)
   - [函数](#functions)
     - [定义函数](#defining-a-function)
     - [声明和调用函数](#declaring-and-calling-a-function)
@@ -26,7 +26,7 @@
     - [不定数量的参数](#arbitrary-number-of-arguments)
     - [函数中的默认和不定数量的参数](#default-and-arbitrary-number-of-parameters-in-functions)
     - [作为另一个函数参数的函数](#function-as-a-parameter-of-another-function)
-  - [💻 练习: 第 11 天](#-exercises-day-11)
+  - [💻 练习: 第 11 天](#-exercises-lesson-11)
     - [练习: Level 1](#exercises-level-1)
     - [练习: Level 2](#exercises-level-2)
     - [练习: Level 3](#exercises-level-3)
@@ -370,7 +370,7 @@ print(do_something(square_number, 3)) # 27
 
 ## 见证
 
-现在是时候表达你对作者和 30DaysOfPython 的看法了。你可以在这个[链接](https://testimonify.herokuapp.com/)留下你的见证。
+现在是时候表达你对作者和 30lessonsOfPython 的看法了。你可以在这个[链接](https://testimonify.herokuapp.com/)留下你的见证。
 
 ## 💻 练习: 第 11 天
 
@@ -450,4 +450,4 @@ print(sum_all_numbers(100)) # 5050
 
 🎉 恭喜! 🎉
 
-[<< 第 10 天](../10_Day_Loops/10_loops.md) | [第 12 天 >>](../12_Day_Modules/12_modules.md)
+[<< 第 10 天](../10_lesson_Loops/10_loops.md) | [第 12 天 >>](../12_lesson_Modules/12_modules.md)

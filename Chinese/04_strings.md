@@ -11,7 +11,7 @@
 
 [<< 第三天](./03_operators.md) | [第五天 >>](./05_lists.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
 
 阅读大约需要：20m
 
@@ -48,7 +48,7 @@ print(len(letter))          # 1
 greeting = 'Hello, World!'  # 字符串使用单引号或双引号构建，"Hello, World!"
 print(greeting)             # Hello, World!
 print(len(greeting))        # 13
-sentence = "I hope you are enjoying 30 days of Python Challenge"
+sentence = "I hope you are enjoying 30 lessons of Python Challenge"
 print(sentence)
 ```
 
@@ -57,13 +57,13 @@ print(sentence)
 ```py
 multiline_string = '''I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python.'''
+That is why I created 30 lessons of python.'''
 print(multiline_string)
 
 # 换种方式
 multiline_string = """I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
-That is why I created 30 days of python."""
+That is why I created 30 lessons of python."""
 print(multiline_string)
 ```
 
@@ -99,22 +99,22 @@ print(len(full_name)) # 16
 
 ```py
 print('I hope everyone is enjoying the Python Challenge.\nAre you ?') # 换行
-print('Days\tTopics\tExercises') # 增加一个制表符
-print('Day 1\t5\t5')
-print('Day 2\t6\t20')
-print('Day 3\t5\t23')
-print('Day 4\t1\t35')
+print('lessons\tTopics\tExercises') # 增加一个制表符
+print('lesson 1\t5\t5')
+print('lesson 2\t6\t20')
+print('lesson 3\t5\t23')
+print('lesson 4\t1\t35')
 print('This is a backslash  symbol (\\)') # 输出反斜杠
 print('In every programming language it starts with \"Hello, World!\"') # 在单引号里写双引号
 
 # 输出
 I hope every one is enjoying the Python Challenge.
 Are you ?
-Days	Topics	Exercises
-Day 1	5	    5
-Day 2	6	    20
-Day 3	5	    23
-Day 4	1	    35
+lessons	Topics	Exercises
+lesson 1	5	    5
+lesson 2	6	    20
+lesson 3	5	    23
+lesson 4	1	    35
 This is a backslash  symbol (\)
 In every programming language it starts with "Hello, World!"
 ```
@@ -295,14 +295,14 @@ print(pto) # Pto
 - capitalize(): 将字符串中的第一个字符转换为大写字母
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.capitalize()) # 'Thirty days of python'
+challenge = 'thirty lessons of python'
+print(challenge.capitalize()) # 'Thirty lessons of python'
 ```
 
 - count(): 返回字符串中子字符串的出现次数，count(子字符串，start=..，end=..)。start 是计数的起始索引，end 是计数的最后一个索引。
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.count('y')) # 3
 print(challenge.count('y', 7, 14)) # 1, 
 print(challenge.count('th')) # 2`
@@ -311,7 +311,7 @@ print(challenge.count('th')) # 2`
 - endswith(): 判断字符串是否以特定的子字符串结尾，返回 True 或 False
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.endswith('on'))   # True
 print(challenge.endswith('tion')) # False
 ```
@@ -319,15 +319,15 @@ print(challenge.endswith('tion')) # False
 - expandtabs(): 用空格替换制表符，默认制表符大小为 8。它接受制表符大小参数
 
 ```py
-challenge = 'thirty\tdays\tof\tpython'
-print(challenge.expandtabs())   # 'thirty  days    of      python'
-print(challenge.expandtabs(10)) # 'thirty    days      of        python'
+challenge = 'thirty\tlessons\tof\tpython'
+print(challenge.expandtabs())   # 'thirty  lessons    of      python'
+print(challenge.expandtabs(10)) # 'thirty    lessons      of        python'
 ```
 
 - find(): 返回子字符串第一次出现的索引，如果未找到则返回 -1
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.find('y'))  # 5
 print(challenge.find('th')) # 0
 ```
@@ -335,7 +335,7 @@ print(challenge.find('th')) # 0
 - rfind(): 返回子字符串最后一次出现的索引，如果未找到则返回 -1
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.rfind('y'))  # 16
 print(challenge.rfind('th')) # 17
 ```
@@ -362,7 +362,7 @@ print(result) # The area of a circle with radius 10 is 314
 - index(): 返回子字符串的最小索引，附加参数表示起始和结束索引（默认为 0，字符串长度为 - 1）。如果未找到子字符串，则会引发 valueError。
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 sub_string = 'da'
 print(challenge.index(sub_string))  # 7
 print(challenge.index(sub_string, 9)) # error
@@ -371,7 +371,7 @@ print(challenge.index(sub_string, 9)) # error
 - rindex(): 返回子字符串的最大索引，附加参数表示起始和结束索引（默认为 0，字符串长度为 - 1）。
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 sub_string = 'da'
 print(challenge.rindex(sub_string))  # 8
 print(challenge.rindex(sub_string, 9)) # error
@@ -380,25 +380,25 @@ print(challenge.rindex(sub_string, 9)) # error
 - isalnum(): 判断字符串字符是否都是字母数字字符
 
 ```py
-challenge = 'ThirtyDaysPython'
+challenge = 'ThirtylessonsPython'
 print(challenge.isalnum()) # True
 
-challenge = '30DaysPython'
+challenge = '30lessonsPython'
 print(challenge.isalnum()) # True
 
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isalnum()) # False, 空格不是字母字符
 
-challenge = 'thirty days of python 2019'
+challenge = 'thirty lessons of python 2019'
 print(challenge.isalnum()) # False
 ```
 
 - isalpha(): 判断字符串字符是否都是字母字符 (a-z and A-Z)
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isalpha()) # False, 空格不是字母字符
-challenge = 'ThirtyDaysPython'
+challenge = 'ThirtylessonsPython'
 print(challenge.isalpha()) # True
 num = '123'
 print(num.isalpha())      # False
@@ -407,7 +407,7 @@ print(num.isalpha())      # False
 - isdecimal(): 判断符串中的所有字符是否都是十进制 (0-9)
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isdecimal())  # False
 challenge = '123'
 print(challenge.isdecimal())  # True
@@ -442,27 +442,27 @@ print(num.isnumeric()) # False
 - isidentifier(): 判断有效的标识符 - 检查字符串是否是有效的变量名
 
 ```py
-challenge = '30DaysOfPython'
+challenge = '30lessonsOfPython'
 print(challenge.isidentifier()) # False, 因为以数字开头
-challenge = 'thirty_days_of_python'
+challenge = 'thirty_lessons_of_python'
 print(challenge.isidentifier()) # True
 ```
 
 - islower(): 判断字符串中的所有字母是否都是小写
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.islower()) # True
-challenge = 'Thirty days of python'
+challenge = 'Thirty lessons of python'
 print(challenge.islower()) # False
 ```
 
 - isupper(): 判断字符串中的所有字母是否都是大写
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.isupper()) #  False
-challenge = 'THIRTY DAYS OF PYTHON'
+challenge = 'THIRTY lessonS OF PYTHON'
 print(challenge.isupper()) # True
 ```
 
@@ -483,49 +483,49 @@ print(result) # 'HTML# CSS# JavaScript# React'
 - strip(): 删除从字符串开头到结尾的所有给定字符
 
 ```py
-challenge = 'thirty days of pythoonnn'
-print(challenge.strip('noth')) # 'irty days of py'
+challenge = 'thirty lessons of pythoonnn'
+print(challenge.strip('noth')) # 'irty lessons of py'
 ```
 
 - replace(): 用给定的字符串替换子字符串
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.replace('python', 'coding')) # 'thirty days of coding'
+challenge = 'thirty lessons of python'
+print(challenge.replace('python', 'coding')) # 'thirty lessons of coding'
 ```
 
 - split(): 使用给定的字符串或空格作为分隔符来拆分字符串
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.split()) # ['thirty', 'days', 'of', 'python']
-challenge = 'thirty, days, of, python'
-print(challenge.split(', ')) # ['thirty', 'days', 'of', 'python']
+challenge = 'thirty lessons of python'
+print(challenge.split()) # ['thirty', 'lessons', 'of', 'python']
+challenge = 'thirty, lessons, of, python'
+print(challenge.split(', ')) # ['thirty', 'lessons', 'of', 'python']
 ```
 
 - title(): 返回标题大小写的字符串
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.title()) # Thirty Days Of Python
+challenge = 'thirty lessons of python'
+print(challenge.title()) # Thirty lessons Of Python
 ```
 
 - swapcase(): 将所有大写字符转换为小写字符，将所有小写字符转换为大写字符
 
 ```py
-challenge = 'thirty days of python'
-print(challenge.swapcase())   # THIRTY DAYS OF PYTHON
-challenge = 'Thirty Days Of Python'
-print(challenge.swapcase())  # tHIRTY dAYS oF pYTHON
+challenge = 'thirty lessons of python'
+print(challenge.swapcase())   # THIRTY lessonS OF PYTHON
+challenge = 'Thirty lessons Of Python'
+print(challenge.swapcase())  # tHIRTY lessonS oF pYTHON
 ```
 
 - startswith(): 判断字符串是否以指定字符串开头
 
 ```py
-challenge = 'thirty days of python'
+challenge = 'thirty lessons of python'
 print(challenge.startswith('thirty')) # True
 
-challenge = '30 days of python'
+challenge = '30 lessons of python'
 print(challenge.startswith('thirty')) # False
 ```
 
@@ -533,7 +533,7 @@ print(challenge.startswith('thirty')) # False
 
 ## 💻 练习 - 第四天
 
-1. 将字符串 'Thirty', 'Days', 'Of', 'Python' 连接为一个字符串 'Thirty Days Of Python'。
+1. 将字符串 'Thirty', 'lessons', 'Of', 'Python' 连接为一个字符串 'Thirty lessons Of Python'。
 2. 将字符串 'Coding', 'For', 'All' 连接为一个字符串 'Coding For All'。
 3. 声明一个名为 company 的变量，并将其赋值为初始值 "Coding For All"。
 4. 使用 _print()_ 打印变量 company。
@@ -564,8 +564,8 @@ print(challenge.startswith('thirty')) # False
 29. 'Coding For All' 是否以子字符串 _coding_ 结尾？
 30. '&nbsp;&nbsp; Coding For All &nbsp;&nbsp;&nbsp; &nbsp;' &nbsp;, 删除给定字符串中左右空格。
 31. 当我们使用方法 isidentifier() 时，下列哪一个变量返回 True:
-    - 30DaysOfPython
-    - thirty_days_of_python
+    - 30lessonsOfPython
+    - thirty_lessons_of_python
 32. 以下列表包含一些 Python 库的名称：['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']。使用空格连接字符串。
 33. 使用换行转义序列分隔以下句子。
     ```py

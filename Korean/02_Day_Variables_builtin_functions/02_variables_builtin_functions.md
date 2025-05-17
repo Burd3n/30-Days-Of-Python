@@ -8,7 +8,7 @@
 
 [<< lesson 1](../readme.md) | [lesson 3 >>](../03_lesson_Operators/03_operators.md)
 
-![30lessonsOfPython](../../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 2](#-lesson-2)
   - [내장 함수](#내장-함수)
@@ -252,7 +252,7 @@ print(first_name_to_list)            # ['A', 's', 'a', 'b', 'e', 'n', 'e', 'h']
 
 ### Exercises: Level 1
 
-1. 30lessonsOfPython 내에 lesson_2라는 폴더를 생성하세요. 그 폴더 내에 variables.py 라는 파일을 생성하세요.
+1. 30DaysOfPython 내에 lesson_2라는 폴더를 생성하세요. 그 폴더 내에 variables.py 라는 파일을 생성하세요.
 2. 'lesson 2: 30 lessons of python programming'이라는 파이썬 주석을 작성합니다.
 3. first name 변수를 선언하고 변수에 값을 할당합니다.
 4. last name 변수를 선언하고 변수에 값을 할당합니다.

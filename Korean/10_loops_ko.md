@@ -5,7 +5,7 @@
 
 [&lt;&lt; lesson 9](../09_lesson_Conditionals/09_conditionals.md) | [lesson 11 &gt;&gt;](../11_lesson_Functions/11_functions.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 10](#-lesson-10)
     - [Loops](#loops)

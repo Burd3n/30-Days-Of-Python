@@ -11,7 +11,7 @@
 
 [<< 第 10 天](../10_lesson_Loops/10_loops.md) | [第 12 天 >>](../12_lesson_Modules/12_modules.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 第 11 天](#-lesson-11)
   - [函数](#functions)
@@ -370,7 +370,7 @@ print(do_something(square_number, 3)) # 27
 
 ## 见证
 
-现在是时候表达你对作者和 30lessonsOfPython 的看法了。你可以在这个[链接](https://testimonify.herokuapp.com/)留下你的见证。
+现在是时候表达你对作者和 30DaysOfPython 的看法了。你可以在这个[链接](https://testimonify.herokuapp.com/)留下你的见证。
 
 ## 💻 练习: 第 11 天
 

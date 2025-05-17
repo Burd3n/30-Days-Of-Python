@@ -11,7 +11,7 @@
 
 [<< lesson 13](../13_lesson_List_comprehension/13_list_comprehension.md) | [lesson 15>>](../15_lesson_Python_type_errors/15_python_type_errors.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 - [📘 lesson 14](#-lesson-14)
   - [Higher Order Functions](#higher-order-functions)
     - [Function as a Parameter](#function-as-a-parameter)

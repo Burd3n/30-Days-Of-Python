@@ -11,7 +11,7 @@
 
 [<< lesson 24](../24_lesson_Statistics/24_statistics.md) | [lesson 26 >>](../26_lesson_Python_web/26_python_web.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 25](#-lesson-25)
   - [Pandas](#pandas)

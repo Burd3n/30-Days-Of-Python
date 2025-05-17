@@ -1,4 +1,4 @@
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
 🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
@@ -57,7 +57,7 @@
 
 ## Welcome
 
-**Congratulations** for deciding to participate in a **_30 lessons of Python_** programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concepts of programming. In the end of the challenge you will get a **_30lessonsOfPython_** programming challenge certificate.
+**Congratulations** for deciding to participate in a **_30 lessons of Python_** programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concepts of programming. In the end of the challenge you will get a **_30DaysOfPython_** programming challenge certificate.
 
 [Join the telegram channel to get help](https://t.me/ThirtylessonsOfPython)
 
@@ -178,13 +178,13 @@ Open the visual studio code by double clicking the visual studio icon. When you 
 
 ![Visual studio Code](images/vscode_ui.png)
 
-Create a folder name 30lessonsOfPython on your desktop. Then open it using visual studio code.
+Create a folder name 30DaysOfPython on your desktop. Then open it using visual studio code.
 
 ![Opening Project on Visual studio](./images/how_to_open_project_on_vscode.png)
 
 ![Opening a project](./images/opening_project.png)
 
-After you opened you can create file and folder inside the your project directory which is 30lessonsOfPython. As you can see below, I have created the very first file, helloworld.py. You can do the same.
+After you opened you can create file and folder inside the your project directory which is 30DaysOfPython. As you can see below, I have created the very first file, helloworld.py. You can do the same.
 
 ![Creating a python file](./images/helloworld.png)
 
@@ -322,14 +322,14 @@ To check the data type of a certain data type we use the **type** function. In t
 
 ### Python File
 
-First open your project folder, 30lessonsOfPython. If you don't have this folder,create a folder name called 30lessonsOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
+First open your project folder, 30DaysOfPython. If you don't have this folder,create a folder name called 30DaysOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
 The python interactive shell was printing without using **print** but on visual studio code to see our result we should use a built in function **print(some data to print)**.
 
 **Example:**
 helloworld.py
 
 ```py
-# lesson 1 - 30lessonsOfPython Challenge
+# lesson 1 - 30DaysOfPython Challenge
 print(2 + 3)             # addition(+)
 print(3 - 1)             # subtraction(-)
 print(2 * 3)             # multiplication(*)
@@ -378,7 +378,7 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
    - Your name
    - Your family name
    - Your country
-5. Create a folder name lesson_1 inside 30lessonsOfPython folder. Inside lesson_1 folder, create a file python file helloword.py and repeat question 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you saved your file, and run it.
+5. Create a folder name lesson_1 inside 30DaysOfPython folder. Inside lesson_1 folder, create a file python file helloword.py and repeat question 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you saved your file, and run it.
 
 # 📘 lesson 2
 
@@ -605,7 +605,7 @@ Numbers are python data types.
 
 ## 💻 Exercises - lesson 2
 
-1. Inside 30lessonsOfPython create a folder called lesson_2. Inside this folder create a file name called variables.py
+1. Inside 30DaysOfPython create a folder called lesson_2. Inside this folder create a file name called variables.py
 2. Writ a python comment saying 'lesson 2: 30 lessons of python programming'
 3. Declare a first name variable and assign a value to it
 4. Declare a last name variable and assign a value to it

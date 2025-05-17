@@ -8,7 +8,7 @@
 
 [<< lesson 5](../05_lesson_Lists/05_lists.md) | [lesson 7 >>](../07_lesson_Sets/07_sets.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [lesson 6:](#lesson-6)
   - [Tuples](#tuples)

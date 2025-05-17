@@ -11,7 +11,7 @@
 
 [<< lesson 4](../04_lesson_Strings/04_strings.md) | [lesson 6 >>](../06_lesson_Tuples/06_tuples.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [lesson 5](#lesson-5)
   - [Lists](#lists)

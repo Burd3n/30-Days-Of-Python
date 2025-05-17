@@ -11,7 +11,7 @@
 
 [<< 第一天](./readme.md) | [第三天 >>](./03_operators.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 _阅读大约需要：12m_
 
@@ -261,7 +261,7 @@ Python 中不同的数字类型
 
 ### 练习： 1级
 
-1. 在 30lessonsOfPython 文件夹内创建一个 lesson_2 文件夹。在这个文件夹里创建一个 variables.py 文件
+1. 在 30DaysOfPython 文件夹内创建一个 lesson_2 文件夹。在这个文件夹里创建一个 variables.py 文件
 2. 输入注释 '第二天： 30 lessons of python programming'
 3. 声明一个 first name 变量，并为它赋值
 4. 声明一个 last name 变量，并为它赋值

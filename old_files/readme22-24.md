@@ -1,4 +1,4 @@
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
 🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
@@ -113,31 +113,31 @@ For reference check the beautiful [soup documentation](https://www.crummy.com/so
 To start with project, it would be better to have a virtual environment. Virtual environment can help us to create an isolated or separate environment. This will help us to avoid conflicts in dependencies across projects. If you write pip freeze on your terminal you will see all the installed packages on your computer. If we use virtualenv, we will access only packages which are specific for that project. Open your terminal and install virtualenv
 
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip install virtualenv
+Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip install virtualenv
 ```
 
 After installing the virtualenv package go to your project folder and create a virtual env by writing:
 ``sh
-Fname@Fname:~/Desktop/30lessonsOfPython/flask_project\$ virtualenv venv
+Fname@Fname:~/Desktop/30DaysOfPython/flask_project\$ virtualenv venv
 
 ````
 The venv name could another name too but I prefer to call it venv. Let's check if the the venv is create by using ls command.
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ ls
+Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ ls
 venv/
 ````
 
 Let's activate the virtual environment by writing the following command at our project folder.
 
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ source venv/bin/activate
+Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ source venv/bin/activate
 
 ```
 
 After you write the activation command, your project directory will start with venv. See the example below.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$
+(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$
 ```
 
 Now, lets check the available package in this project by writing pip freeze. You will not see any package.
@@ -145,13 +145,13 @@ Now, lets check the available package in this project by writing pip freeze. You
 We are going to do a small flask project so let's install flask to this project.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip install Flask
+(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip install Flask
 ```
 
 Now, let's write pip freeze to see the install packages in the project
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip freeze
+(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip freeze
 Click==7.0
 Flask==1.1.1
 itsdangerous==1.1.0
@@ -163,7 +163,7 @@ Werkzeug==0.16.0
 When you finish you should dactivate active project using _deactivate_.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython$ deactivate
+(venv) Fname@Fname:~/Desktop/30DaysOfPython$ deactivate
 ```
 
 The necessary modules to work on flask are installed. Now, you project directory is ready for flask project. You should include the venv to your .gitignore file not to push it to github.

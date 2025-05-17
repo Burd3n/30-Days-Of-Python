@@ -53,7 +53,7 @@
 
 [lesson 2 >>](../02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [🐍 30 lessons Of Python](#-30-lessons-of-python)
 - [📘 lesson 1](#-lesson-1)
@@ -88,9 +88,9 @@
 
 ## 환영합니다
 
-_30 lessons of Python_에 참여하기로 결정하신 것을 **축하드립니다**. 이 챌린지에서는 Python 프로그래머가 되기 위해 필요한 모든 것과 프로그래밍의 전체 개념을 배우게 됩니다. 챌린지가 끝나면 _30lessonsOfPython_프로그래밍 챌린지 인증서를 받게 됩니다.
+_30 lessons of Python_에 참여하기로 결정하신 것을 **축하드립니다**. 이 챌린지에서는 Python 프로그래머가 되기 위해 필요한 모든 것과 프로그래밍의 전체 개념을 배우게 됩니다. 챌린지가 끝나면 _30DaysOfPython_프로그래밍 챌린지 인증서를 받게 됩니다.
 
-챌린지에 적극적으로 참여하고 싶다면 [30lessonsOfPython challenge](https://t.me/ThirtylessonsOfPython) 텔레그램 그룹에 가입할 수 있습니다. 
+챌린지에 적극적으로 참여하고 싶다면 [30DaysOfPython challenge](https://t.me/ThirtylessonsOfPython) 텔레그램 그룹에 가입할 수 있습니다. 
 
 ## 소개
 
@@ -213,13 +213,13 @@ Visual Studio 아이콘을 두 번 클릭하여 Visual Studio 코드를 엽니�
 
 ![Visual studio Code](../images/vscode_ui.png)
 
-바탕 화면에 30lessonsOfPython이라는 폴더를 만듭니다. 그런 다음 Visual Studio 코드를 사용하여 엽시다.
+바탕 화면에 30DaysOfPython이라는 폴더를 만듭니다. 그런 다음 Visual Studio 코드를 사용하여 엽시다.
 
 ![Opening Project on Visual studio](../images/how_to_open_project_on_vscode.png)
 
 ![Opening a project](../images/opening_project.png)
 
-파일을 열면 30lessonsOfPython 프로젝트의 디렉토리 내부에 파일과 폴더를 생성하기 위한 바로 가기가 표시됩니다. 아래에서 볼 수 있듯이 첫 번째 파일인 helloworld.py를 만들었습니다. 당신도 똑같이 할 수 있습니다.
+파일을 열면 30DaysOfPython 프로젝트의 디렉토리 내부에 파일과 폴더를 생성하기 위한 바로 가기가 표시됩니다. 아래에서 볼 수 있듯이 첫 번째 파일인 helloworld.py를 만들었습니다. 당신도 똑같이 할 수 있습니다.
 
 ![Creating a python file](../images/helloworld.png)
 
@@ -292,7 +292,7 @@ Python에는 여러 유형의 데이터 유형이 있습니다. 가장 일반적
 'Singapore'
 'Python'
 'I love teaching'
-'I hope you are enjoying the first lesson of 30lessonsOfPython Challenge'
+'I hope you are enjoying the first lesson of 30DaysOfPython Challenge'
 ```
 
 #### Boolean
@@ -371,7 +371,7 @@ Python 사전 개체는 키 값 쌍 형식의 정렬되지 않은 데이터 모�
 
 ### Python 파일
 
-먼저 프로젝트 폴더인 30lessonsOfPython을 엽니다. 이 폴더가 없으면 30lessonsOfPython이라는 폴더 이름을 만듭니다. 이 폴더 안에 helloworld.py라는 파일을 만듭니다. 이제 Visual Studio 코드를 사용하여 Python 대화형 셸에서 수행한 작업을 수행해 보겠습니다.
+먼저 프로젝트 폴더인 30DaysOfPython을 엽니다. 이 폴더가 없으면 30DaysOfPython이라는 폴더 이름을 만듭니다. 이 폴더 안에 helloworld.py라는 파일을 만듭니다. 이제 Visual Studio 코드를 사용하여 Python 대화형 셸에서 수행한 작업을 수행해 보겠습니다.
 
 Python 대화형 셸은 **print**를 사용하지 않고 인쇄했지만 Visual Studio 코드에서 결과를 보려면 내장 함수 *print()를 사용해야 합니다. *print()* 내장 함수는 *print('arument1', 'argument2', 'argument3')*와 같이 하나 이상의 인수를 사용합니다. 아래 예를 참조하십시오.
 
@@ -380,7 +380,7 @@ Python 대화형 셸은 **print**를 사용하지 않고 인쇄했지만 Visual 
 파일 이름은 helloworld.py.
 
 ```py
-# lesson 1 - 30lessonsOfPython Challenge
+# lesson 1 - 30DaysOfPython Challenge
 
 print(2 + 3)             # addition(+)
 print(3 - 1)             # subtraction(-)
@@ -437,7 +437,7 @@ Python 파일을 실행하려면 아래 이미지를 확인하세요. Visual Stu
 
 ### Exercise: Level 2
 
-1. 30lessonsOfPython 폴더 안에 lesson_1이라는 폴더를 만듭니다. lesson_1 폴더 안에 python 파일 helloworld.py를 만들고 질문 1, 2, 3, 4를 반복하세요. Python 파일에서 작업할 때 _print()_를 사용하는 것을 잊지 마세요. 파일을 저장한 디렉토리로 이동하여 실행합니다.
+1. 30DaysOfPython 폴더 안에 lesson_1이라는 폴더를 만듭니다. lesson_1 폴더 안에 python 파일 helloworld.py를 만들고 질문 1, 2, 3, 4를 반복하세요. Python 파일에서 작업할 때 _print()_를 사용하는 것을 잊지 마세요. 파일을 저장한 디렉토리로 이동하여 실행합니다.
 
 ### Exercise: Level 3
 

@@ -11,7 +11,7 @@
 
 [<< 第 13 天](../13_lesson_List_comprehension/13_list_comprehension.md) | [第 15 天>>](../15_lesson_Python_type_errors/15_python_type_errors.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 第 14 天](#-第14天)
   - [高阶函数](#高阶函数)

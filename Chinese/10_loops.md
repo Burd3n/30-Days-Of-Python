@@ -11,7 +11,7 @@
 
 [<<第九天](../Chinese/09_conditionals.md) | [第十一天>>](../Chinese/11_functions.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 
 - [📘 第十天](#-第十天)

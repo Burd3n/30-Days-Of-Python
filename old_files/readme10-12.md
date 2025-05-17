@@ -1,4 +1,4 @@
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
 🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  

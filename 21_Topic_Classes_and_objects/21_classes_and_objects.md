@@ -11,7 +11,7 @@
 
 [<< lesson 20](../20_lesson_Python_package_manager/20_python_package_manager.md) | [lesson 22 >>](../22_lesson_Web_scraping/22_web_scraping.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 21](#-lesson-21)
   - [Classes and Objects](#classes-and-objects)

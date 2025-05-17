@@ -9,7 +9,7 @@
 
 [<< lesson 11](../11_lesson_Functions/11_functions.md) | [lesson 13>>](../13_lesson_List_comprehension/13_list_comprehension.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 12](#-lesson-12)
   - [Modules](#modules)
@@ -127,7 +127,7 @@ print('Welcome {}. Enjoy  {} challenge!'.format(sys.argv[1], sys.argv[2]))
 Now to check how this script works I wrote in command line:
 
 ```sh
-python script.py Fname 30lessonsOfPython
+python script.py Fname 30DaysOfPython
 ```
 
 The result:

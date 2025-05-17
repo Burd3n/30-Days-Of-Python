@@ -1,4 +1,4 @@
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
 🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
@@ -807,7 +807,7 @@ We use _json()_ method from response object, if the we are fetching JSON data. F
 
 We organize a large number of files in different folders and subfolders based on some criteria, so that we can find and manage them easily. As you know, a module can contain multiple objects, such as classes, functions, etc. A package can contain one or more relevant modules.A package is actually a folder containing one or more module files. Let's create a package named mypackage, using the following steps:
 
-Create a new folder named mypacakge inside 30lessonsOfPython folder
+Create a new folder named mypacakge inside 30DaysOfPython folder
 Create an empty **init**.py file in the mypackage folder.
 Create modules arithmetic.py and greet.py with following code:
 
@@ -844,7 +844,7 @@ def power(a, b):
 # mypackage/greet.py
 # greet.py
 def greet_person(firstname, lastname):
-    return f'{firstname} {lastname}, welcome to 30lessonsOfPython Challenge!'
+    return f'{firstname} {lastname}, welcome to 30DaysOfPython Challenge!'
 ```
 The folder structure of your package should look like this:
 ```sh
@@ -855,7 +855,7 @@ The folder structure of your package should look like this:
 ```
 Now let's open the python interactive shell and try the package we have created:
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython$ python
+Fname@Fname:~/Desktop/30DaysOfPython$ python
 Python 3.7.5 (default, Nov  1 2019, 02:16:32) 
 [Clang 11.0.0 (clang-1100.0.33.8)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
@@ -874,7 +874,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 125
 >>> from mypackage import greet
 >>> greet.greet_person('Fname', 'Lname')
-'Fname Lname, welcome to 30lessonsOfPython Challenge!'
+'Fname Lname, welcome to 30DaysOfPython Challenge!'
 >>> 
 ```
 As you can see our package works perfect. The package folder contains a special file called __init__.py which stores the package's content. If we put  __init__.py in the package folder, python start recognizes it as a package.

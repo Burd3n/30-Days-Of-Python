@@ -8,7 +8,7 @@
 
 [<< lesson 10](../10_lesson_Loops/10_loops.md) | [lesson 12 >>](../12_lesson_Modules/12_modules.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 11](#-lesson-11)
   - [Functions](#functions)
@@ -366,7 +366,7 @@ print(do_something(square_number, 3)) # 27
 🌕 You achieved quite a lot so far.  Keep going! You have just completed lesson 11 challenges and you are 11 steps a head in to your way to greatness. Now do some exercises for your brain and muscles.
 
 ## Testimony
-Now it is time to express your thoughts about the Author and 30lessonsOfPython. You can leave your testimonial on this [link](https://testimonify.herokuapp.com/)
+Now it is time to express your thoughts about the Author and 30DaysOfPython. You can leave your testimonial on this [link](https://testimonify.herokuapp.com/)
 
 ## 💻 Exercises: lesson 11
 

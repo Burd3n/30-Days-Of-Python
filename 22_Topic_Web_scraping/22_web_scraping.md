@@ -7,7 +7,7 @@
 
 [<< lesson 21](../21_lesson_Classes_and_objects/21_classes_and_objects.md) | [lesson 23 >>](../23_lesson_Virtual_environment/23_virtual_environment.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 22](#-lesson-22)
   - [Python Web Scraping](#python-web-scraping)

@@ -9,7 +9,7 @@
 
 [<< lesson 18](../18_lesson_Regular_expressions/18_regular_expressions.md) | [lesson 20 >>](../20_lesson_Python_package_manager/20_python_package_manager.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 19](#-lesson-19)
   - [File Handling](#file-handling)

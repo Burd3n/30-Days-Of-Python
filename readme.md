@@ -56,7 +56,7 @@
 
 [lesson 2 >>](./02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md)
 
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 - [🐍 30 lessons Of Python](#-30-lessons-of-python)
 - [📘 lesson 1](#-lesson-1)
@@ -91,9 +91,9 @@
 
 ## Welcome
 
-**Congratulations** for deciding to participate in a _30 lessons of Python_ programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concept of programming. In the end of the challenge you will get a _30lessonsOfPython_ programming challenge certificate.
+**Congratulations** for deciding to participate in a _30 lessons of Python_ programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concept of programming. In the end of the challenge you will get a _30DaysOfPython_ programming challenge certificate.
 
-If you would like to actively engage in the challenge, you may join the [30lessonsOfPython challenge](https://t.me/ThirtylessonsOfPython) telegram group.  
+If you would like to actively engage in the challenge, you may join the [30DaysOfPython challenge](https://t.me/ThirtylessonsOfPython) telegram group.  
 
 ## Introduction
 
@@ -103,7 +103,7 @@ This challenge is designed for beginners and professionals who want to learn pyt
 
 This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. You may start from [Python for Absolute Beginners video](https://youtu.be/OCCWZheOesI). Subscribe the channel, comment and ask questions on YouTube vidoes and be proactive, the author will eventually notice you.
 
-The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30lessonsOfPython challenge. You can leave your testimonial on this [link](https://testimonial-vdzd.onrender.com/)
+The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30DaysOfPython challenge. You can leave your testimonial on this [link](https://testimonial-vdzd.onrender.com/)
 
 ## Why Python ?
 
@@ -220,13 +220,13 @@ Open the visual studio code by double clicking the visual studio icon. When you 
 
 ![Visual studio Code](./images/vscode_ui.png)
 
-Create a folder named 30lessonsOfPython on your desktop. Then open it using visual studio code.
+Create a folder named 30DaysOfPython on your desktop. Then open it using visual studio code.
 
 ![Opening Project on Visual studio](./images/how_to_open_project_on_vscode.png)
 
 ![Opening a project](./images/opening_project.png)
 
-After opening it you will see shortcuts for creating files and folders inside of 30lessonsOfPython project's directory. As you can see below, I have created the very first file, helloworld.py. You can do the same.
+After opening it you will see shortcuts for creating files and folders inside of 30DaysOfPython project's directory. As you can see below, I have created the very first file, helloworld.py. You can do the same.
 
 ![Creating a python file](./images/helloworld.png)
 
@@ -299,7 +299,7 @@ A collection of one or more characters under a single or double quote. If a stri
 'Singapore'
 'Python'
 'I love teaching'
-'I hope you are enjoying the first lesson of 30lessonsOfPython Challenge'
+'I hope you are enjoying the first lesson of 30DaysOfPython Challenge'
 ```
 
 #### Booleans
@@ -378,7 +378,7 @@ To check the data type of certain data/variable we use the **type** function. In
 
 ### Python File
 
-First open your project folder, 30lessonsOfPython. If you don't have this folder, create a folder name called 30lessonsOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
+First open your project folder, 30DaysOfPython. If you don't have this folder, create a folder name called 30DaysOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
 
 The Python interactive shell was printing without using **print** but on visual studio code to see our result we should use a built in function _print(). The _print()_ built-in function takes one or more arguments as follows _print('arument1', 'argument2', 'argument3')_. See the examples below.
 
@@ -387,7 +387,7 @@ The Python interactive shell was printing without using **print** but on visual 
 The file name is helloworld.py
 
 ```py
-# lesson 1 - 30lessonsOfPython Challenge
+# lesson 1 - 30DaysOfPython Challenge
 
 print(2 + 3)             # addition(+)
 print(3 - 1)             # subtraction(-)
@@ -444,7 +444,7 @@ To run the python file check the image below. You can run the python file either
 
 ### Exercise: Level 2
 
-1. Create a folder named lesson_1 inside 30lessonsOfPython folder. Inside lesson_1 folder, create a python file helloworld.py and repeat questions 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you have saved your file, and run it.
+1. Create a folder named lesson_1 inside 30DaysOfPython folder. Inside lesson_1 folder, create a python file helloworld.py and repeat questions 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you have saved your file, and run it.
 
 ### Exercise: Level 3
 

@@ -11,7 +11,7 @@
 
 [<< 第三天](./03_operators.md) | [第五天 >>](./05_lists.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 阅读大约需要：20m
 
@@ -442,7 +442,7 @@ print(num.isnumeric()) # False
 - isidentifier(): 判断有效的标识符 - 检查字符串是否是有效的变量名
 
 ```py
-challenge = '30lessonsOfPython'
+challenge = '30DaysOfPython'
 print(challenge.isidentifier()) # False, 因为以数字开头
 challenge = 'thirty_lessons_of_python'
 print(challenge.isidentifier()) # True
@@ -564,7 +564,7 @@ print(challenge.startswith('thirty')) # False
 29. 'Coding For All' 是否以子字符串 _coding_ 结尾？
 30. '&nbsp;&nbsp; Coding For All &nbsp;&nbsp;&nbsp; &nbsp;' &nbsp;, 删除给定字符串中左右空格。
 31. 当我们使用方法 isidentifier() 时，下列哪一个变量返回 True:
-    - 30lessonsOfPython
+    - 30DaysOfPython
     - thirty_lessons_of_python
 32. 以下列表包含一些 Python 库的名称：['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']。使用空格连接字符串。
 33. 使用换行转义序列分隔以下句子。

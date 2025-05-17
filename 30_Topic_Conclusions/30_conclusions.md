@@ -12,7 +12,7 @@
 </div>
 
 [<< lesson 29](../29_lesson_Building_API/29_building_API.md)
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [lesson 30](#lesson-30)
   - [Conclusions](#conclusions)

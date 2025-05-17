@@ -10,7 +10,7 @@
 
 [<< lesson 19](../19_lesson_File_handling/19_file_handling.md) | [lesson 21 >>](../21_lesson_Classes_and_objects/21_classes_and_objects.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 20](#-lesson-20)
   - [Python PIP - Python Package Manager](#python-pip---python-package-manager)
@@ -324,7 +324,7 @@ We use _json()_ method from response object, if the we are fetching JSON data. F
 
 We organize a large number of files in different folders and sub-folders based on some criteria, so that we can find and manage them easily. As you know, a module can contain multiple objects, such as classes, functions, etc. A package can contain one or more relevant modules. A package is actually a folder containing one or more module files. Let us create a package named mypackage, using the following steps:
 
-Create a new folder named mypacakge inside 30lessonsOfPython folder
+Create a new folder named mypacakge inside 30DaysOfPython folder
 Create an empty **__init__**.py file in the mypackage folder.
 Create modules arithmetic.py and greet.py with following code:
 
@@ -362,7 +362,7 @@ def power(a, b):
 # mypackage/greet.py
 # greet.py
 def greet_person(firstname, lastname):
-    return f'{firstname} {lastname}, welcome to 30lessonsOfPython Challenge!'
+    return f'{firstname} {lastname}, welcome to 30DaysOfPython Challenge!'
 ```
 
 The folder structure of your package should look like this:
@@ -377,7 +377,7 @@ The folder structure of your package should look like this:
 Now let's open the python interactive shell and try the package we have created:
 
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython$ python
+Fname@Fname:~/Desktop/30DaysOfPython$ python
 Python 3.9.6 (default, Jun 28 2021, 15:26:21)
 [Clang 11.0.0 (clang-1100.0.33.8)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
@@ -396,7 +396,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 125
 >>> from mypackage import greet
 >>> greet.greet_person('Fname', 'Lname')
-'Fname Lname, welcome to 30lessonsOfPython Challenge!'
+'Fname Lname, welcome to 30DaysOfPython Challenge!'
 >>>
 ```
 

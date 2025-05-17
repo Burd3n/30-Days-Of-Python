@@ -12,7 +12,7 @@
 
 [<< lesson 27](../27_lesson_Python_with_mongodb/27_python_with_mongodb.md) | [lesson 29 >>](../29_lesson_Building_API/29_building_API.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 28](#-lesson-28)
 - [Application Programming Interface(API)](#application-programming-interfaceapi)

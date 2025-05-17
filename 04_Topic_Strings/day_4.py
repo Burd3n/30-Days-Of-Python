@@ -180,7 +180,7 @@ print(num.isdecimal()) # False
 
 # isidentifier():Checks for valid identifier means it check if a string is a valid variable name
 
-challenge = '30lessonsOfPython'
+challenge = '30DaysOfPython'
 print(challenge.isidentifier()) # False, because it starts with a number
 challenge = 'thirty_lessons_of_python'
 print(challenge.isidentifier()) # True

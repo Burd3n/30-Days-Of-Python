@@ -6,7 +6,7 @@
 
 [&lt;&lt; lesson 3](../03_lesson_Operators/03_operators.md) | [lesson 5 &gt;&gt;](../05_lesson_Lists/05_lists.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [lesson 4](#lesson-4)
     - [문자열](#strings)
@@ -431,7 +431,7 @@ print(num.isnumeric()) # False
 - isidentifier(): 유효한 식별자를 확인합니다. 문자열이 유효한 변수 이름인지 확인합니다.
 
 ```py
-challenge = '30lessonsOfPython'
+challenge = '30DaysOfPython'
 print(challenge.isidentifier()) # False, because it starts with a number
 challenge = 'thirty_lessons_of_python'
 print(challenge.isidentifier()) # True
@@ -553,7 +553,7 @@ print(challenge.startswith('thirty')) # False
 29. 'Coding For All'은 하위 문자열 *코딩* 으로 끝납니까?
 30. ' Coding For All ' , 주어진 문자열에서 왼쪽 및 오른쪽 후행 공백을 제거합니다.
 31. 다음 변수 중 isidentifier() 메서드를 사용할 때 True를 반환하는 변수는 무엇입니까?
-    - 30lessonsOfPython
+    - 30DaysOfPython
     - thirty_lessons_of_python
 32. 다음 목록에는 일부 파이썬 라이브러리의 이름이 포함되어 있습니다: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. 공백 문자열이 있는 해시로 목록에 가입하십시오.
 33. 새 줄 이스케이프 시퀀스를 사용하여 다음 문장을 구분합니다.

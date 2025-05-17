@@ -52,7 +52,7 @@
 
 [Dia 2 >>](./02_Dia_Variaveis_BuiltIn_Functions/README.md)
 
-![30lessonsOfPython](.././images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](.././images/30DaysOfPython_banner3@2x.png)
 
 - [🐍 30 Dias De Python](#-30-dias-de-python)
 - [📘 Dia 1](#Dia-1)
@@ -89,7 +89,7 @@
 
 **Parabéns** por decidir participar do desafio de programação  _30 dias de Python_ . E nesse desafio você vai aprender tudo o que você precisa para se tornar um programador python e todo o conceito de programação. No final do desafio você receberá o certificado do desafio de programação _30DiasDePython_.
 
-Se você quiser se envolver ativamente no desafio, você pode se juntar ao grupo do telegram [30lessonsOfPython challenge](https://t.me/ThirtylessonsOfPython).  
+Se você quiser se envolver ativamente no desafio, você pode se juntar ao grupo do telegram [30DaysOfPython challenge](https://t.me/ThirtylessonsOfPython).  
 
 ## Introdução
 
@@ -294,7 +294,7 @@ Uma coleção de um ou mais caracteres entre aspas simples ou duplas são consid
 'Singapore'
 'Python'
 'I love teaching'
-'I hope you are enjoying the first lesson of 30lessonsOfPython Challenge'
+'I hope you are enjoying the first lesson of 30DaysOfPython Challenge'
 ```
 
 #### Booleanos
@@ -382,7 +382,7 @@ O shell interativo do Python estava imprimindo sem usar **print** mas no visual 
 O nome do arquivo é helloworld.py
 
 ```py
-# lesson 1 - 30lessonsOfPython Challenge
+# lesson 1 - 30DaysOfPython Challenge
 
 print(2 + 3)             # addition(+)
 print(3 - 1)             # subtraction(-)

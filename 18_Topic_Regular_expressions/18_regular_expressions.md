@@ -11,7 +11,7 @@
 
 [<< lesson 17](../17_lesson_Exception_handling/17_exception_handling.md) | [lesson 19>>](../19_lesson_File_handling/19_file_handling.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 18](#-lesson-18)
   - [Regular Expressions](#regular-expressions)

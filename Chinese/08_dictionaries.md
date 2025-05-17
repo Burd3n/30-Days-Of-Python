@@ -11,7 +11,7 @@
 
 [<< 第 7 天 ](../07_lesson_Sets/07_sets.md) | [第 9 天 >>](../09_lesson_Conditionals/09_conditionals.md)
 
-![30 天 Python 学习](../images/30lessonsOfPython_banner3@2x.png)
+![30 天 Python 学习](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 第 8 天](#-第-8-天)
   - [字典](#字典)

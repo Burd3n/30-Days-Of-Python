@@ -7,7 +7,7 @@
 
 [<< lesson 2](../02_lesson_Variables_builtin_functions/02_variables_builtin_functions.md) | [lesson 4 >>](../04_lesson_Strings/04_strings.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 3일차](#-3일차)
   - [불리언](#불리언)

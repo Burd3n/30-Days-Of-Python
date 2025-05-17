@@ -12,7 +12,7 @@
 
 [<< 第 11 天](../11_lesson_Functions/11_functions.md) | [第 13 天>>](../13_lesson_List_comprehension/13_list_comprehension.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 第 12 天](#-第12天)
   - [模块](#模块)
@@ -130,7 +130,7 @@ print('Welcome {}. Enjoy  {} challenge!'.format(sys.argv[1], sys.argv[2]))
 现在要查看这个脚本的工作效果，我在命令行中写：
 
 ```sh
-python script.py Fname 30lessonsOfPython
+python script.py Fname 30DaysOfPython
 ```
 
 结果：

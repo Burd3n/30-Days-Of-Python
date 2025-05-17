@@ -11,7 +11,7 @@
 
 [<< 第四天](./04_strings.md) | [第六天 >>](./06_tuples.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [第五天](#第五天)
   - [列表](#列表)

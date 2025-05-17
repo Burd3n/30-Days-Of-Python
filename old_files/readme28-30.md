@@ -1,4 +1,4 @@
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
 🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
@@ -161,7 +161,7 @@ POST       Used for object creation and object actions
 PUT        Used for object update
 DELETE     Used for object deletion
 ```
-Let's build an api which collects information about 30lessonsOfPython students. We will collect the name, country, city, date of birth, skills and bio.
+Let's build an api which collects information about 30DaysOfPython students. We will collect the name, country, city, date of birth, skills and bio.
 
 To implement this API, we will use:
 * Postman
@@ -233,7 +233,7 @@ import pymongo
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 
@@ -299,7 +299,7 @@ import pymongo
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 
@@ -349,7 +349,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 
@@ -405,7 +405,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 
@@ -485,7 +485,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # 
-MONGODB_URI='mongodb+srv://Fname:your_password@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI='mongodb+srv://Fname:your_password@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 

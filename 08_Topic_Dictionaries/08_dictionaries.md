@@ -8,7 +8,7 @@
 
 [<< lesson 7 ](../07_lesson_Sets/07_sets.md) | [lesson 9 >>](../09_lesson_Conditionals/09_conditionals.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 8](#-lesson-8)
   - [Dictionaries](#dictionaries)

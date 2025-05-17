@@ -1,4 +1,4 @@
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
 🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
@@ -1955,7 +1955,7 @@ layout.html
     <header>
       <div class="menu-container">
         <div>
-          <a class="brand-name nav-link" href="/">30lessonsOfPython</a>
+          <a class="brand-name nav-link" href="/">30DaysOfPython</a>
         </div>
         <ul class="nav-lists">
           <li class="nav-list">
@@ -2223,7 +2223,7 @@ Select python 3.6 or above driver
 Copy the connection string only link and you get something like this
 
 ```sh
-mongodb+srv://Fname:<password>@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://Fname:<password>@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority
 ```
 
 Don't worry about the url, it is a means to connect your application with mongoDB.
@@ -2231,7 +2231,7 @@ Let's replace the password placeholder with the passed you use to add a user.
 **Example:**
 
 ```sh
-mongodb+srv://Fname:123123123@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://Fname:123123123@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority
 ```
 
 Now, I replaced everything and the password is 123123 and the name of the database is thirty_lessons_python. This is just an example, your password must a bit strong than this.
@@ -2250,7 +2250,7 @@ The "dnspython" module must be installed to use mongodb+srv:// URIs. The dnspyth
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 print(client.list_database_names())
 
@@ -2283,7 +2283,7 @@ db = client['name_of_database']
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 # Creating database
 db = client.thirty_lessons_of_python
@@ -2322,7 +2322,7 @@ We can use for loop to inset many documents at once.
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 
 students = [
@@ -2353,7 +2353,7 @@ Let's use the _find_one()_ method to get documents in the database collection.
 # let's import the flask
 from flask import Flask, render_template
 import os # importing operating system module
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 student = db.students.find_one()
@@ -2381,7 +2381,7 @@ The above query returns the first entry but we can target specific document usin
 from flask import Flask, render_template
 import os # importing operating system module
 from bson.objectid import ObjectId # id object
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 student = db.students.find_one({'_id':ObjectId('5df68a23f106fe2d315bbc8c')})
@@ -2408,7 +2408,7 @@ We have seen, how to use _find_one()_ using the above examples. Let's move one t
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find()
@@ -2437,7 +2437,7 @@ We can specify which fields to return by passing second object in the _find({}, 
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find({}, {"_id":0,  "name": 1, "country":1}) # 0 means not include and 1 means include
@@ -2468,7 +2468,7 @@ In mongoDB find take a query object. We can pass a query object and we can filte
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find(query)
@@ -2497,7 +2497,7 @@ Query with modifiers
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find(query)
@@ -2526,7 +2526,7 @@ if __name__ == '__main__':
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find(query)
@@ -2555,7 +2555,7 @@ Query with modifiers
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 query = {"age":{"$gt":30}}
@@ -2582,7 +2582,7 @@ if __name__ == '__main__':
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 query = {"age":{"$gt":30}}
@@ -2602,7 +2602,7 @@ We can limit the number of documents we return using the *limit()* method.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 db.students.find().limit(3)
@@ -2617,7 +2617,7 @@ By default, sort is in ascending order. We can change to descending by adding -1
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 students = db.students.find().sort('name')
@@ -2673,7 +2673,7 @@ The first person, Fname got a very implausible age. Let's update Fname's age.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 
@@ -2713,7 +2713,7 @@ Let's remove one John from the collection.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 
@@ -2754,7 +2754,7 @@ Using the _drop()_ method we can delete a collection from a database.
 from flask import Flask, render_template
 import os # importing operating system module
 
-MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30lessonsofpython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
+MONGODB_URI = 'mongodb+srv://Fname:your_password_goes_here@30DaysOfPython-twxkr.mongodb.net/test?retryWrites=true&w=majority'
 client = pymongo.MongoClient(MONGODB_URI)
 db = client['thirty_lessons_of_python'] # accessing the database
 db.students.drop()

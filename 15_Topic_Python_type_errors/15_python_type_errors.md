@@ -11,7 +11,7 @@
 
 [<< lesson 14](../14_lesson_Higher_order_functions/14_higher_order_functions.md) | [lesson 16 >>](../16_lesson_Python_date_time/16_python_datetime.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 - [📘 lesson 15](#-lesson-15)
   - [Python Error Types](#python-error-types)
     - [SyntaxError](#syntaxerror)

@@ -9,7 +9,7 @@
 
 [<< lesson 12](../12_lesson_Modules/12_modules.md) | [lesson 14>>](../14_lesson_Higher_order_functions/14_higher_order_functions.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 13](#-lesson-13)
   - [List Comprehension](#list-comprehension)

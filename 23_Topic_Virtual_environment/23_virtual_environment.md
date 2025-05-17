@@ -7,7 +7,7 @@
 
 [<< lesson 22](../22_lesson_Web_scraping/22_web_scraping.md) | [lesson 24 >>](../24_lesson_Statistics/24_statistics.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 23](#-lesson-23)
   - [Setting up Virtual Environments](#setting-up-virtual-environments)
@@ -23,25 +23,25 @@ To start with project, it would be better to have a virtual environment. Virtual
 Fname@Fname:~$ pip install virtualenv
 ```
 
-Inside the 30lessonsOfPython folder create a flask_project folder.
+Inside the 30DaysOfPython folder create a flask_project folder.
 
 After installing the virtualenv package go to your project folder and create a virtual env by writing:
 
 For Mac/Linux:
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython/flask_project\$ virtualenv venv
+Fname@Fname:~/Desktop/30DaysOfPython/flask_project\$ virtualenv venv
 
 ```
 
 For Windows:
 ```sh
-C:\Users\User\Documents\30lessonsOfPython\flask_project>python -m venv venv
+C:\Users\User\Documents\30DaysOfPython\flask_project>python -m venv venv
 ```
 
 I prefer to call the new project venv, but feel free to name it differently. Let us check if the the venv was created by using ls (or dir for windows command prompt) command.
 
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ ls
+Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ ls
 venv/
 ```
 
@@ -49,24 +49,24 @@ Let us activate the virtual environment by writing the following command at our 
 
 For Mac/Linux:
 ```sh
-Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ source venv/bin/activate
+Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ source venv/bin/activate
 ```
 Activation of the virtual environment in Windows may very on Windows Power shell and git bash. 
 
 For Windows Power Shell:
 ```sh
-C:\Users\User\Documents\30lessonsOfPython\flask_project> venv\Scripts\activate
+C:\Users\User\Documents\30DaysOfPython\flask_project> venv\Scripts\activate
 ```
 
 For Windows Git bash:
 ```sh
-C:\Users\User\Documents\30lessonsOfPython\flask_project> venv\Scripts\. activate
+C:\Users\User\Documents\30DaysOfPython\flask_project> venv\Scripts\. activate
 ```
 
 After you write the activation command, your project directory will start with venv. See the example below.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$
+(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$
 ```
 
 Now, lets check the available packages in this project by writing pip freeze. You will not see any packages.
@@ -74,13 +74,13 @@ Now, lets check the available packages in this project by writing pip freeze. Yo
 We are going to do a small flask project so let us install flask package to this project.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip install Flask
+(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip install Flask
 ```
 
 Now, let us write pip freeze to see a list of installed packages in the project:
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython/flask_project$ pip freeze
+(venv) Fname@Fname:~/Desktop/30DaysOfPython/flask_project$ pip freeze
 Click==7.0
 Flask==1.1.1
 itsdangerous==1.1.0
@@ -92,7 +92,7 @@ Werkzeug==0.16.0
 When you finish you should dactivate active project using _deactivate_.
 
 ```sh
-(venv) Fname@Fname:~/Desktop/30lessonsOfPython$ deactivate
+(venv) Fname@Fname:~/Desktop/30DaysOfPython$ deactivate
 ```
 
 The necessary modules to work with flask are installed. Now, your project directory is ready for a flask project. You should include the venv to your .gitignore file not to push it to github.

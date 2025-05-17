@@ -1,4 +1,4 @@
-![30lessonsOfPython](./images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 🧳 [Part 1: lesson 1 - 3](https://github.com/Fname/30-lessons-Of-Python)  
 🧳 [Part 2: lesson 4 - 6](https://github.com/Fname/30-lessons-Of-Python/blob/master/readme4-6.md)  
@@ -396,7 +396,7 @@ print(num.isdecimal()) # False
 
 * isidentifier():Checks for valid identifier means it check if a string is a valid variable name
 ```py
-challenge = '30lessonsOfPython'
+challenge = '30DaysOfPython'
 print(challenge.isidentifier()) # False, because it starts with a number
 challenge = 'thirty_lessons_of_python'
 print(challenge.isidentifier()) # True
@@ -498,7 +498,7 @@ print(challenge.startswith('thirty')) # False
 29. Does Coding For All ends with a substring *coding*?
 30. '&nbsp;&nbsp; Coding For All &nbsp;&nbsp;&nbsp; &nbsp;' &nbsp;,    remove the left and right trailing spaces in the given string.
 31. Which one of the following variable return True when we use the method isidentifier()
-    * 30lessonsOfPython
+    * 30DaysOfPython
     * thirty_lessons_of_python
 32. The following are some of python libraries list: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string. 
 33. Use new line escape sequence to writ the following sentence.

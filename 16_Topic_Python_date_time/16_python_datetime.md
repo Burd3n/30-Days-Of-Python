@@ -11,7 +11,7 @@
 
 [<< lesson 15](../15_lesson_Python_type_errors/15_python_type_errors.md) | [lesson 17 >>](../17_lesson_Exception_handling/17_exception_handling.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 - [📘 lesson 16](#-lesson-16)
   - [Python *datetime*](#python-datetime)
     - [Getting *datetime* Information](#getting-datetime-information)

@@ -11,7 +11,7 @@
 
 [<< lesson 25 ](../25_lesson_Pandas/25_pandas.md) | [lesson 27 >>](../27_lesson_Python_with_mongodb/27_python_with_mongodb.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 26](#-lesson-26)
   - [Python for Web](#python-for-web)
@@ -352,7 +352,7 @@ layout.html
     <header>
       <div class="menu-container">
         <div>
-          <a class="brand-name nav-link" href="/">30lessonsOfPython</a>
+          <a class="brand-name nav-link" href="/">30DaysOfPython</a>
         </div>
         <ul class="nav-lists">
           <li class="nav-list">

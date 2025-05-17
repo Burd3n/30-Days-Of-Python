@@ -10,7 +10,7 @@
 
 [<< 第二天](./02_variables_builtin_functions.md) | [第四天 >>](./04_strings.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 阅读大约需要：12m
 - [📘 第三天](#-第三天)

@@ -10,7 +10,7 @@
 
 [<< lesson 16](../16_lesson_Python_date_time/16_python_datetime.md) | [lesson 18 >>](../18_lesson_Regular_expressions/18_regular_expressions.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 17](#-lesson-17)
   - [Exception Handling](#exception-handling)

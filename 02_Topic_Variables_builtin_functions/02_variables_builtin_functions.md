@@ -8,7 +8,7 @@
 
 [<< lesson 1](../readme.md) | [lesson 3 >>](../03_lesson_Operators/03_operators.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 lesson 2](#-lesson-2)
   - [Built in functions](#built-in-functions)
@@ -253,7 +253,7 @@ Number data types in Python:
 
 ### Exercises: Level 1
 
-1. Inside 30lessonsOfPython create a folder called lesson_2. Inside this folder create a file named variables.py
+1. Inside 30DaysOfPython create a folder called lesson_2. Inside this folder create a file named variables.py
 2. Write a python comment saying 'lesson 2: 30 lessons of python programming'
 3. Declare a first name variable and assign a value to it
 4. Declare a last name variable and assign a value to it

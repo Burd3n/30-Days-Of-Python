@@ -12,7 +12,7 @@
 
 [<< 第 12 天](../12_lesson_Modules/12_modules.md) | [第 14 天>>](../14_lesson_Higher_order_functions/14_higher_order_functions.md)
 
-![30lessonsOfPython](../images/30lessonsOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 第 13 天](#📘-第-13-天)
   - [列表推导式](#列表推导式)
